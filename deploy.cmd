@@ -27,7 +27,7 @@ IF NOT DEFINED DEPLOYMENT_SOURCE (
 )
 
 IF NOT DEFINED DEPLOYMENT_TARGET (
-  SET DEPLOYMENT_TARGET=%ARTIFACTS%\wwwroot
+  SET DEPLOYMENT_TARGET=%ARTIFACTS%\LH
 )
 
 IF NOT DEFINED NEXT_MANIFEST_PATH (
@@ -114,7 +114,7 @@ IF EXIST "%DEPLOYMENT_TEMP%\package.json" (
 
 :: 5. KuduSync to DEPLOYMENT_TARGET
 echo "Syncing site to Deployment Target"
-call :ExecuteCmd "%KUDU_SYNC_CMD%" -v 50 -f "%DEPLOYMENT_TEMP%\build" -t "%DEPLOYMENT_TARGET%" -x true -i ".git;.hg;.deployment;deploy.cmd"
+call :ExecuteCmd "%KUDU_SYNC_CMD%" -v 50 -f "%DEPLOYMENT_TEMP%\html" -t "%DEPLOYMENT_TARGET%" -x true -i ".git;.hg;.deployment;deploy.cmd"
 IF !ERRORLEVEL! NEQ 0 goto error
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
