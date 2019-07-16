@@ -1,0 +1,396 @@
+{
+  "className": {
+    "app": "app-zh",
+    "logo": "logo-zh"
+  },
+  "header": {
+    "logo": "./static/image/logo-zh.png",
+    "navs": {
+      "thesis": "投资主题",
+      "about": "关于我们",
+      "team": "团队成员",
+      "portfolio": "投资组合",
+      "news": "新闻中心",
+      "contact": "联系我们"
+    },
+    "targetlang": "ENGLISH",
+    "slides": [
+      {
+        "image": "./static/image/head/hd-1.jpg",
+        "title": "长岭资本",
+        "slogan": "为了健康幸福的百岁人生"
+      },
+      {
+        "image": "./static/image/head/hd-2.jpg",
+        "title": "",
+        "slogan": ""
+      },
+      {
+        "image": "./static/image/head/hd-3.jpg",
+        "title": "",
+        "slogan": ""
+      }
+    ]
+  },
+  "focus": {
+    "title": "投资主题",
+    "subtitle": "专注五大核心领域的价值创造",
+    "paragraphs": [
+      "根据最新的联合国世界人口展望报告预测，到2050年，有近50%的中国人口将超过50岁，老龄化的“银发海啸”正在为中国带来重构规模空前的社会经济基础设施的历史性机遇。",
+      "在健康与消费领域，长岭资本致力于投资技术驱动的商业模式创新，让长寿成为快速老龄化的中国社会里对每一个人生命的馈赠。长岭团队合计拥有数十年的投资与运营经验，在我们专注的5个核心投资领域中不断打造行业领军企业。"
+    ],
+    "cates": [
+      "新型医疗服务",
+      "新医疗科技",
+      "新医疗基础设施",
+      "大健康消费",
+      "老龄化消费"
+    ]
+  },
+  "about": {
+    "title": "关于我们",
+    "paragraphs": [
+      "长岭资本成立于2016年，是新一代主题驱动的创投基金。长岭创始合伙人来自于美国最大创投基金之一NEA（New Enterprise Associates），自2005年至2015年期间负责NEA在华投资。长岭资本在上海和北京设有办公室，目前管理资金总规模超35亿人民币，出资人包括美国知名高校及医院捐赠基金、基金会、养老基金、顶级母基金等全球一流机构投资人。"
+    ],
+    "cates": [
+      {
+        "do": "管理",
+        "howmany": "￥35亿+",
+        "what": "资金规模"
+      },
+      {
+        "do": "投资",
+        "howmany": "40+",
+        "what": "创新企业"
+      },
+      {
+        "do": "每年服务",
+        "howmany": "800万+",
+        "what": "个人客户"
+      },{
+        "do": "每年服务",
+        "howmany": "2万+",
+        "what": "商业客户"
+      }
+    ]
+  },
+  "team": {
+    "title": "团队成员",
+    "group": [
+      {
+        "name": "长岭团队",
+        "abstract": "在上海与北京两地，我们投资团队合计拥有超过50年风险投资经验，致力于为新兴领域中公司的成长与发展持续创造价值。",
+        "members": [
+          {
+            "name": "蔡文佳",
+            "title": "投资副总裁",
+            "photo": "./static/image/photo/1-1.png",
+            "linkedin": "https://www.linkedin.com/in/fiona-cai-28384a87/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "蔡文佳女士于2019年加入长岭资本，任职投资副总裁。",
+              "加入长岭资本之前，蔡文佳女士在凯泰资本担任投资副总裁，专注医疗服务、健康消费、数字医疗等医疗大健康领域的投资，参与投资了包括三博脑科、中科体检、科拓恒通、裕隆生物等医疗健康领域项目。",
+              "蔡文佳女士毕业于浙江大学技术经济及管理专业，获得硕士学位。"
+            ]
+          },
+          {
+            "name": "邓智升",
+            "title": "高级投资经理",
+            "photo": "./static/image/photo/1-2.png",
+            "linkedin": "https://www.linkedin.com/in/%E6%99%BA%E5%8D%87-%E9%82%93-a51281107/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "邓智升先生是长岭资本高级投资经理，于2018年加入公司，专注健康领域投资。",
+              "加入长岭之前，邓先生就职于新希望集团，专注健康领域投资。在此之前，他在一家成都民营肾脏病医院任总经理。他曾在迈瑞医疗和西安杨森制药从事药品和医疗设备营销管理工作。",
+              "邓先生拥有成都医学院临床医学学士学位。"
+            ]
+          },
+          {
+            "name": "洪云翔",
+            "title": "投资副总裁",
+            "photo": "./static/image/photo/1-3.png",
+            "email": "bp@lhcap.cn",
+            "linkedin": "https://www.linkedin.com/in/yunxiang-hong-83576847",
+            "paragraphs": [
+              "洪云翔先生是长岭资本投资副总裁，于2017年加入公司，专注健康领域投资。",
+              "在加入长岭资本之前，洪云翔​​​在平安创投担任资深投资经理，关注医疗器械、医疗服务及数字医疗领域的早期及成长期项目。在加入平安创投之前，洪云翔​​​曾在复星健康控股从事健康领域的投资，涵盖医疗服务、移动医疗和健康消费品，在此之前，曾在复星资本从事机构融资及投资者关系的相关工作。​​",
+              "洪云翔拥有厦门大学管理学学士学位。"
+            ]
+          },
+          {
+            "name": "蒋晓冬",
+            "title": "管理合伙人",
+            "photo": "./static/image/photo/1-4.png",
+            "linkedin": "https://cn.linkedin.com/in/xiaodong-jiang-444ab",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "蒋晓冬先生是长岭资本的管理合伙人。他专注健康服务和消费服务领域的投资，目前代表长岭资本担任固生堂中医连锁、零氪科技、爱医传递、简单心理等多家公司的董事。",
+              "蒋晓冬先生的创投生涯始于2005年。他作为第一位中国籍团队成员加入了全球最大的创投基金之一恩颐投资(NEA)，并负责创办了NEA中国办公室。接下来的11年里，作为NEA全球合伙人及中国区董事总经理，他负责管理了NEA 前后5支基金在华的投资，任职期间NEA中国已实现逾5亿美元的退出，包括：展讯通信、蓝港互动、连连支付、微医集团、中信医药、海吉亚医疗集团、新里程医院集团等。",
+              "蒋晓冬先生是加州大学伯克利分校计算机博士候选人，并拥有伊利诺伊大学香槟分校计算机硕士和南京大学计算机科学学士学位。"
+            ]
+          },
+          {
+            "name": "柳丹",
+            "title": "财务经理",
+            "photo": "./static/image/photo/2-1.png",
+            "linkedin": "https://www.linkedin.com/in/doris-liu-42615568/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "柳丹女士于2018年加入长岭资本，任职财务经理。",
+              "在加入长岭资本之前，柳丹女士在普华永道审计与鉴证业务部担任高级审计师，并专注于私募基金领域。",
+              "柳丹女士拥有同济大学会计学硕士学位，同时也是中国注册会计师。"
+            ]
+          },
+          {
+            "name": "梅松",
+            "title": "投资副总裁",
+            "photo": "./static/image/photo/2-2.png",
+            "linkedin": "https://cn.linkedin.com/in/songmei",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "梅松先生于2016年作为投资副总裁加入长岭资本，为基金的消费服务领域投资带来丰富的投资与行业经验。",
+              "在加入长岭资本之前，梅松先生过去5年就职于经纬中国TMT投资团队，专注移动互联网、O2O、交易平台、消费升级领域的投资，参与投资了包括饿了么、野兽派、美味不用等、生意专家等行业领导企业。",
+              "在此之前梅松先生分别在快钱与第九城市负责互联网产品和市场拓展。另外，梅松先生曾在华为担任高级产品营销经理，并积累了丰富的海外业务拓展经验。",
+              "梅松先生毕业于上海交通大学自动化专业，获得学士学位。"
+            ]
+          },
+          {
+            "name": "沈晔",
+            "title": "投资副总裁",
+            "photo": "./static/image/photo/2-3.png",
+            "linkedin": "https://cn.linkedin.com/in/jackshenye",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "沈晔先生于2017年加入长岭资本，任职投资副总裁。",
+              "加入长岭之前，沈先生在嘉御基金担任投资经理，专注消费升级、B2B、金融科技领域的成长期项目投资。加入嘉御之前，沈先生在美国运通企业增长业务部负责项目管理以及内部战略咨询工作。在此之前，沈先生在瑞银集团旧金山办公室工作，参与北美地区的股票、债券发行以及杠杆收购等交易，项目涉及金融科技和资产管理行业。",
+              "沈先生拥有加州大学伯克利分校学士学位以及麻省理工学院硕士学位。"
+            ]
+          },
+          {
+            "name": "孙睿康",
+            "title": "执行助理",
+            "photo": "./static/image/photo/2-4.png"
+          },
+          {
+            "name": "王昊辰",
+            "title": "执行助理",
+            "photo": "./static/image/photo/3-1.png"
+          },
+          {
+            "name": "王馨涟",
+            "title": "行政经理",
+            "photo": "./static/image/photo/3-2.png"
+          },
+          {
+            "name": "王振庭",
+            "title": "首席财务官",
+            "photo": "./static/image/photo/3-3.png",
+            "linkedin": "https://cn.linkedin.com/in/%E6%8C%AF%E5%BA%AD-%E7%8E%8B-33245596/en",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "王振庭先生是长岭资本首席财务官，于2016年加入公司，主要负责财务运营与基金后台管理。",
+              "在加入长岭资本之前，王振庭先生在晨兴资本工作逾7年，任职财务经理。他从2005年在普华永道开始他的职业生涯，期间在审计与鉴证业务部任职高级审计师。",
+              "王振庭先生毕业于上海交通大学计算机科学与技术专业，获得工学士学位。他是中国注册会计师并且通过美国特许金融分析师CFA二级考试。"
+            ]
+          },
+          {
+            "name": "项雪",
+            "title": "投资副总裁",
+            "photo": "./static/image/photo/3-4.png",
+            "linkedin": "https://www.linkedin.com/in/xiangxuecarrie/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "项雪女士是长岭资本投资副总裁，于2018年加入公司，专注健康领域投资。",
+              "在加入长岭前，项雪女士就职于誉东健康（誉衡药业与京东成立的合资公司），担任副总经理。她建立并领导了商务拓展、研发、市场和战略等公司多个职能部门。同时作为誉衡药业的商务拓展负责人，她为公司成功完成了多个产品引进及投资项目。项雪女士曾供职于多家跨国制药公司，包括强生、拜耳、诺和诺德，并在商务拓展、战略、市场及政府事务等多个关键部门就职。",
+              "项雪女士拥有伦敦大学学院（UCL）的生物化学学士学位，并且曾在剑桥大学就读本科课程。"
+            ]
+          },
+          {
+            "name": "谢峃淏",
+            "title": "高级投资经理",
+            "photo": "./static/image/photo/4-1.png",
+            "linkedin": "https://www.linkedin.com/in/xuehao-xie-7ba59958/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "谢峃淏先生是长岭资本高级投资经理，于2018年加入公司，专注健康领域投资。",
+              "加入长岭之前，谢先生在源星资本担任高级投资经理，专注医疗健康领域的成长期项目投资。加入源星资本之前，谢先生在香港麦格里资本担任分析师，参与亚洲地区的股票、债券发行等交易。",
+              "谢先生拥有美国密歇根大学安娜堡分校学士学位。"
+            ]
+          },
+          {
+            "name": "张乐辉",
+            "title": "运营合伙人",
+            "photo": "./static/image/photo/4-2.png",
+            "linkedin": "https://www.linkedin.com/company/long-hill-capital/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "张乐辉先生是长岭资本运营合伙人，于2018年加入公司，负责健康领域投资项目的运营和管理。",
+              "加入长岭之前，张先生担任国药医疗健康产业有限公司（简称“国药医疗”）副总经理，负责国药旗下数十家医院的总体管理和运营。在此之前，他曾在北京两家大型公立医院出任医务与医保负责人近10年。",
+              "张先生是国家疾病诊断相关分组(DRG)质控中心付费研究组组长，卫健委医院管理研究所国家医院评审员。他拥有首都医科大学医学博士学位与中国政法大学法学学士学位。"
+            ]
+          },
+          {
+            "name": "张烨",
+            "title": "高级投资经理",
+            "photo": "./static/image/photo/4-3.png",
+            "linkedin": "https://www.linkedin.com/in/william-zhang-33896437/",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "张烨先生是长岭资本高级投资经理，于2019年加入公司，专注健康领域投资。",
+              "加入长岭之前，张先生就职于火山石投资，专注健康领域投资。加入火山石之前，曾在中钰资本任投资经理，关注医疗器械领域项目的投资。在此之前，他在乐普医疗从事医疗器械的海外销售工作。",
+              "张先生拥有清华大学材料学博士学位。"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "战略顾问",
+        "abstract": "美国最大且最成功的创投基金之一的NEA（New Enterprise Associates）是长岭资本的长期合作伙伴，给我们提供全球化的视野与优质的战略合作资源。",
+        "members": [
+          {
+            "name": "Scott Sandell",
+            "photo": "./static/image/photo/5-1.png",
+            "outlink": "http://www.nea.com/team/scott-sandell"
+          },
+          {
+            "name": "Carmen Chang",
+            "photo": "./static/image/photo/5-2.png",
+            "outlink": "http://www.nea.com/team/carmen-chang"
+          }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "投资组合",
+    "companyTypes": [
+      "全部公司",
+      "新型医疗服务",
+      "新医疗科技",
+      "新医疗基础设施",
+      "大健康消费",
+      "老龄化消费"
+    ],
+    "companies": [
+      {
+        "picture": "./static/image/company-logo/01.png",
+        "type": "新型医疗服务",
+        "text": "固生堂中医：中国最大中医连锁集团"
+      },
+      {
+        "picture": "./static/image/company-logo/02.png",
+        "type": "新型医疗服务",
+        "text": "海吉亚医疗：最大民营医院集团"
+      },
+      {
+        "picture": "./static/image/company-logo/03.png",
+        "type": "新型医疗服务",
+        "text": "东方启音：言语治疗和自闭症康复机构"
+      },
+      {
+        "picture": "./static/image/company-logo/04.png",
+        "type": "新医疗科技",
+        "text": "零氪科技：医疗大数据领导企业"
+      },
+      {
+        "picture": "./static/image/company-logo/05.png",
+        "type": "新医疗科技",
+        "text": "爱医传递：全球互联网医生协作平台"
+      },
+      {
+        "picture": "./static/image/company-logo/06.png",
+        "type": "新医疗科技",
+        "text": "简单心理：在线心理健康服务平台"
+      },
+      {
+        "picture": "./static/image/company-logo/07.png",
+        "type": "新医疗基础设施",
+        "text": "爱牙库：中国最大齿科耗材供应平台"
+      },
+      {
+        "picture": "./static/image/company-logo/09.png",
+        "type": "新医疗基础设施",
+        "text": "泉心泉意：试剂耗材一站式采购平台"
+      },
+      {
+        "picture": "./static/image/company-logo/16.png",
+        "type": "新医疗基础设施",
+        "text": "动脉网：医疗领域的专业服务机构"
+      },
+      {
+        "picture": "./static/image/company-logo/10.png",
+        "type": "大健康消费",
+        "text": "彩虹育儿：一站式母婴健康医疗平台"
+      },
+      {
+        "picture": "./static/image/company-logo/12.png",
+        "type": "大健康消费",
+        "text": "颈医卫：专业脊椎健康养护机构"
+      },
+      {
+        "picture": "./static/image/company-logo/11.png",
+        "type": "大健康消费",
+        "text": "迷橙：全球时尚精品购物平台"
+      },
+      {
+        "picture": "./static/image/company-logo/15.png",
+        "type": "老龄化消费",
+        "text": "老年俱乐部：专注老年行业新媒体"
+      }
+    ]
+  },
+  "news": {
+    "title": "新闻中心",
+    "cates": [
+      {
+        "type": "ALL",
+        "text": "全部"
+      },
+      {
+        "type": "LONG HILL CAPITAL",
+        "text": "长岭动态"
+      },
+      {
+        "type": "PORTFOLIO",
+        "text": "投资组合动态"
+      },
+      {
+        "type": "ENGLISH ONLY"
+      }
+    ],
+    "moretext": "更多新闻"
+  },
+  "footer": {
+    "copyright": "© 2019 长岭资本版权所有",
+    "shanghai": {
+      "name": "上海办公室",
+      "addr": ["静安区南京西路1266号","恒隆广场办公楼一期2202室，邮编：200040"]
+    },
+    "beijing": {
+      "name": "北京办公室",
+      "addr": ["朝阳区建国门外大街1号","国贸写字楼2座1802室，邮编：100004"]
+    },
+    "contact": [
+      {
+        "className": "bussiness",
+        "name": "提交商业计划书",
+        "mail": "bp@lhcap.cn"
+      },
+      {
+        "className": "investor",
+        "name": "投资者关系",
+        "mail": "ir@lhcap.cn"
+      },
+      {
+        "className": "media",
+        "name": "媒体及一般垂询",
+        "mail": "info@lhcap.cn"
+      },
+      {
+        "className": "career",
+        "name": "工作机会",
+        "mail": "hr@lhcap.cn"
+      }
+    ]
+  }
+}
