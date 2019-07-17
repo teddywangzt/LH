@@ -89,7 +89,7 @@ li {
 
 @font-face {
   font-family: 'Jervinho';
-  src: url(~@/assets/fonts/jervinho.ttf);
+  src: url(~@/assets/fonts/Jervinho.ttf);
 }
 @font-face {
   font-family: 'ProximaNova';
@@ -97,5 +97,5 @@ li {
 }
 @font-face {
   font-family: 'ProximaNovaBold';
-  src: url(~@/assets/fonts/proxima-b.ttf);
+  src: url(~@/assets/fonts/ProximaBold.ttf);
 }
