@@ -89,13 +89,13 @@ li {
 
 @font-face {
   font-family: 'Jervinho';
-  src: url(~@/assets/fonts/Jervinho.ttf);
+  src: url(~@/assets/fonts/jervinho.ttf);
 }
 @font-face {
   font-family: 'ProximaNova';
-  src: url(~@/assets/fonts/ProximaNova.ttf);
+  src: url(~@/assets/fonts/proxima.ttf);
 }
 @font-face {
   font-family: 'ProximaNovaBold';
-  src: url(~@/assets/fonts/proxima-nova-a-cond-bold.ttf);
+  src: url(~@/assets/fonts/proxima-b.ttf);
 }
