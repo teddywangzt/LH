@@ -30,14 +30,14 @@ yarn build
         ...
     }]
   },
-	list: [{
-		cate: "PORTFOLIO",
-		title: "零氪科技受邀...",
-		link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
-		source: "Linkdoc视界",
-		abstract: "...",
-		date: "June 29, 2019"
-	}]
+  list: [{
+    cate: "PORTFOLIO",
+    title: "零氪科技受邀...",
+    link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
+    source: "Linkdoc视界",
+    abstract: "...",
+    date: "June 29, 2019"
+  }]
 }
 ```
 ### toplist中数据对应首页显示的3条新闻，中英文分开维护，字段对应关系如下：
