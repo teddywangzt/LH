@@ -18,18 +18,18 @@ yarn build
 ### 数据结构：
 ```
 {
-	toplist: {
-		zh: [{
-			cate: "长岭新闻",
-			title: "长岭资本获评...",
-			link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
-			abstract: "2018年12月18日....",
-			date: "August 20, 2018"
-		}],
-		en: [{
-			...
-		}]
-	},
+  toplist: {
+    zh: [{
+      cate: "长岭新闻",
+      title: "长岭资本获评...",
+      link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
+      abstract: "2018年12月18日....",
+      date: "August 20, 2018"
+    }],
+    en: [{
+        ...
+    }]
+  },
 	list: [{
 		cate: "PORTFOLIO",
 		title: "零氪科技受邀...",
@@ -42,21 +42,32 @@ yarn build
 ```
 ### toplist中数据对应首页显示的3条新闻，中英文分开维护，字段对应关系如下：
 > cate -> 分类
+
 > title -> 新闻标题
+
 > link -> 新闻链接
+
 > abstract -> 新闻摘要
+
 > date -> 发布日期
+
 ### list中数据对应新闻列表，不区分中英文，字段对应关系如下：
 > cate -> 分类; 只能填写 “LONG HILL CAPITAL、PORTFOLIO、ENGLISH ONLY” 三者之一
+
 > title -> 新闻标题
+
 > link -> 新闻链接
+
 > source -> 新闻来源
+
 > abstract -> 新闻摘要
+
 > date -> 发布日期
 
 ## 其他文字类维护
 ### 文件位置
 > 中文：src/locales/zh.json
+
 > 英文：src/locales/en.json
 ### 数据结构：
 ```
