@@ -21,24 +21,22 @@ yarn build
 	toplist: {
 		zh: [{
 			cate: "长岭新闻",
-        title: "长岭资本获评...",
-        link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
-        abstract: "2018年12月18日....",
-        date: "August 20, 2018"
+			title: "长岭资本获评...",
+			link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
+			abstract: "2018年12月18日....",
+			date: "August 20, 2018"
 		}],
 		en: [{
 			...
 		}]
 	},
 	list: [{
-    {
-      cate: "PORTFOLIO",
-      title: "零氪科技受邀...",
-      link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
-      source: "Linkdoc视界",
-      abstract: "...",
-      date: "June 29, 2019"
-    },
+		cate: "PORTFOLIO",
+		title: "零氪科技受邀...",
+		link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
+		source: "Linkdoc视界",
+		abstract: "...",
+		date: "June 29, 2019"
 	}]
 }
 ```
