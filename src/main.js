@@ -4,6 +4,7 @@ import VueLazyload from "vue-lazyload";
 import BackToTop from "vue-backtotop";
 // import VueCarousel from "vue-carousel";
 
+import "@/locales/news.js";
 import App from "./App.vue";
 // import router from "./router";
 import i18n from "./i18n";
