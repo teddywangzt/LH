@@ -8,7 +8,7 @@ window.newsData = {
         link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
         abstract:
           "2018年12月18日，动脉网举办的“2018未来医疗100强”论坛在北京隆重举行。长岭系有5家被投公司上榜，固生堂中医”、“爱医传递”、“东方启音”、“零氪科技”与“邻客智慧药房”。长岭资本管理合伙人蒋晓冬先生获得了“2018未来医疗100强 - 年度投资人”奖项！",
-        date: "August 21, 2018"
+        date: "August 20, 2018"
       },
       {
         cate: "长岭观点",
@@ -36,7 +36,7 @@ window.newsData = {
         link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
         abstract:
           "2018年12月18日，动脉网举办的“2018未来医疗100强”论坛在北京隆重举行。长岭系有5家被投公司上榜，固生堂中医”、“爱医传递”、“东方启音”、“零氪科技”与“邻客智慧药房”。长岭资本管理合伙人蒋晓冬先生获得了“2018未来医疗100强 - 年度投资人”奖项！",
-        date: "December 19, 2018"
+        date: "December 20, 2018"
       },
       {
         cate: "LHC PERSPECTIVES",
