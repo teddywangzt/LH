@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "20个月投出3家医疗独角兽，30个被投项目收入整体增长80%，蒋晓冬在用什么方法投资？",
-        link: "http://vcbeat.net/YTY2NDJjNjZhYmI3ZmZkZWM0YjI3NzAyYzM1MzlmOTc=",
+          "长岭资本蒋晓冬：中老年消费市场的痛点与四个创业原则",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247483922&idx=1&sn=8012b15ce78811913d69fcaa9409b1d5&chksm=ec710b8cdb06829ae284fa9b1faf7d27eb53d88c893fe6eeb622bffac21d596524f9a8417d31&mpshare=1&scene=1&srcid=&sharer_sharetime=1563959123095&sharer_shareid=ed262c55b7ef32da78b09eb0a288aca4&rd2werd=1#wechat_redirect",
         abstract:
-          "医疗是一个慢行业，但也是市场规模相当大的行业，行业中的需求也非常的显著。长岭资本寻找的是代表未来医疗变革的推动者。而未来医疗就是在市场中一个非常重要的“基础设施”。寻找用技术的进步和模式创新来的结合，推动整个医疗健康行业变革，是长岭资本的核心投资逻辑。",
-        date: "August 20, 2018"
+          "2019年7月19日，长岭资本管理合伙人蒋晓冬先生受邀参加《2019中国老年消费市场创新发展论坛》并发表主题演讲，分享了全球人口老龄化背景下的历史性创业机会，用“供给侧改革”的视角分析中老年消费市场的痛点与四个创业原则。",
+        date: "July 24, 2019"
       },
       {
         cate: "长岭分享",
