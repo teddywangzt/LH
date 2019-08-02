@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本获评“年度投资人”、5家早期投资企业入围“未来医疗100强榜单”",
-        link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
+          "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
+        link: "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
         abstract:
-          "2018年12月18日，动脉网举办的“2018未来医疗100强”论坛在北京隆重举行。长岭系有5家被投公司上榜，固生堂中医”、“爱医传递”、“东方启音”、“零氪科技”与“邻客智慧药房”。长岭资本管理合伙人蒋晓冬先生获得了“2018未来医疗100强 - 年度投资人”奖项！",
-        date: "August 20, 2018"
+          "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
+        date: "July 16, 2019"
       },
       {
         cate: "长岭观点",
@@ -21,22 +21,22 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "零氪科技受邀出席梅奥（Mayo）人工智能研讨会 展现医疗AI硬实力",
-        link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
+        title: "以数据勾勒价值医疗 零氪科技荣登最佳医疗大数据创新企业10强",
+        link: "https://mp.weixin.qq.com/s/pwgDtxBB33ws2_hqMC5krg",
         abstract:
-          "近日，零氪科技首席数据科学家阮耀平博士应邀出席美国梅奥诊所人工智能研讨会，并发表主旨演讲向国际同行分享，基于LinkDoc医疗大数据平台的RWS（真实世界研究）解决方案以及人工智能（AI）在医疗领域的应用案例。",
-        date: "June 29, 2019"
+          "7月25日，由亿欧大健康举办的“雁栖健谈——GIIS 2019第四届中国大健康产业升级峰会”在京启幕。在2019中国大健康产业创新奖评选中，零氪科技、中电数据、医渡云、万里云、森亿智能、东软望海等行业头部企业荣登最佳医疗大数据创新企业10强。",
+        date: "July 25, 2019"
       }
     ],
     en: [
       {
         cate: "LHC NEWS",
         title:
-          "长岭资本获评“年度投资人”、5家早期投资企业入围“未来医疗100强榜单”",
-        link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
+          "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
+        link: "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
         abstract:
-          "2018年12月18日，动脉网举办的“2018未来医疗100强”论坛在北京隆重举行。长岭系有5家被投公司上榜，固生堂中医”、“爱医传递”、“东方启音”、“零氪科技”与“邻客智慧药房”。长岭资本管理合伙人蒋晓冬先生获得了“2018未来医疗100强 - 年度投资人”奖项！",
-        date: "December 20, 2018"
+          "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
+        date: "July 16, 2019"
       },
       {
         cate: "LHC PERSPECTIVES",
@@ -49,15 +49,159 @@ window.newsData = {
       },
       {
         cate: "PORTFOLIO NEWS",
-        title: "零氪科技受邀出席梅奥（Mayo）人工智能研讨会 展现医疗AI硬实力",
-        link: "https://mp.weixin.qq.com/s/gTWWF_QZ5BC5Onlmojz6RA",
+        title: "以数据勾勒价值医疗 零氪科技荣登最佳医疗大数据创新企业10强",
+        link: "https://mp.weixin.qq.com/s/pwgDtxBB33ws2_hqMC5krg",
         abstract:
-          "近日，零氪科技首席数据科学家阮耀平博士应邀出席美国梅奥诊所人工智能研讨会，并发表主旨演讲向国际同行分享，基于LinkDoc医疗大数据平台的RWS（真实世界研究）解决方案以及人工智能（AI）在医疗领域的应用案例。",
-        date: "June 29, 2019"
+          "7月25日，由亿欧大健康举办的“雁栖健谈——GIIS 2019第四届中国大健康产业升级峰会”在京启幕。在2019中国大健康产业创新奖评选中，零氪科技、中电数据、医渡云、万里云、森亿智能、东软望海等行业头部企业荣登最佳医疗大数据创新企业10强。",
+        date: "July 25, 2019"
       }
     ]
   },
   list: [
+    {
+      cate: "PORTFOLIO",
+      title: "感谢每一个你，和我们在一起 | 简单心理5周年回顾",
+      link: "https://mp.weixin.qq.com/s/kZc7VfP1b2NXV89ol-Ohww",
+      source: "简单心理",
+      abstract:
+        "上周末的心室格外热闹。我们和来自五湖四海的300多个小伙伴一起，庆祝了简单心理的5岁生日。在为期两天的活动中，有20多位心理学和相关领域的特邀嘉宾老师们来到了现场，与大家分享干货，带大家分组体验。简单心理CEO·简里里和简单心理学术运营部负责人·陈曦一起，为大家讲述了简单心理这五年来的故事。",
+      date: "July 30, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "美国堪萨斯城儿童慈善医院与MORE Health爱医传递宣布合作，为中国儿童患者提供远程第二诊疗意见服务",
+      link: "https://www.aiyichuandi.com/gsdt/75924281.html",
+      source: "MORE Health爱医传递",
+      abstract:
+        "2019年7月24日，美国堪萨斯城儿童慈善医院和全球医疗服务公司MORE Health爱医传递宣布建立创新合作伙伴关系，借助爱医传递的医师合作平台，为来自世界各地的患者提供儿童慈善医院的专家远程诊疗服务。",
+      date: "July 26, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "以数据勾勒价值医疗 零氪科技荣登最佳医疗大数据创新企业10强",
+      link: "https://mp.weixin.qq.com/s/pwgDtxBB33ws2_hqMC5krg",
+      source: "Linkdoc视界",
+      abstract:
+        "7月25日，由亿欧大健康举办的“雁栖健谈——GIIS 2019第四届中国大健康产业升级峰会”在京启幕。在2019中国大健康产业创新奖评选中，零氪科技、中电数据、医渡云、万里云、森亿智能、东软望海等行业头部企业荣登最佳医疗大数据创新企业10强。",
+      date: "July 25, 2019"
+    },
+     {
+      cate: "PORTFOLIO",
+      title: "MORE Health爱医传递宣布与加州大学洛杉矶分校医疗中心进行战略合作，为患者提供远程第二诊疗意见",
+      link: "https://www.aiyichuandi.com/gsdt/55310447.html",
+      source: "MORE Health爱医传递",
+      abstract:
+        "2019年7月17日，全球医疗服务公司MORE Health爱医传递宣布与加州大学洛杉矶分校医疗中心进行战略合作，通过MORE Health爱医传递的医生会诊平台Physician Collaboration Platform™，患者们可以接触到加州大学洛杉矶分校医疗中心顶级的医生和服务。",
+      date: "July 17, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "信息时报专访 | 省政协委员涂志亮呼吁设立高品质中药材标准",
+      link: "https://mp.weixin.qq.com/s/qivUwZ47EC3-I7PIhZrIZw",
+      source: "固生堂中医",
+      abstract:
+        "日前，2019年粤商•省长面对面协商座谈会在广州召开。会上，13位粤商代表围绕主题，就推动技术创新、知识产权保护、高端人才培养、营商环境优化、检测认证市场化、质量监管体系建设等问题提出意见建议。其中，来自医药服务领域的省政协委员、固生堂中医连锁管理集团董事长兼总裁涂志亮建议，探索建立高品质中药材标准，避免“劣药驱逐良药”。",
+      date: "July 16, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "NCCN指南编委副主席赴长海医院交流BRAF突变的结直肠癌治疗进展",
+      link: "https://www.aiyichuandi.com/gsdt/83409233.html",
+      source: "MORE Health爱医传递",
+      abstract:
+        "2019年7月11日，MORE Health签约专家、美国加州大学旧金山分校医学中心Alan P. Venook教授，访问了长海医院肛肠外科。长海医院肛肠外科主任张卫教授在长海医院远程会诊中心为Venook教授举行了一个简短的欢迎仪式，而后紧接着开展了一场别开生面的结直肠肿瘤MDT研讨会。",
+      date: "July 16, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "重庆（中美）海吉亚医院精彩亮相第三届国际前沿科技创新大会",
+      link: "http://www.cqhjyzl.com/a/xinwenzhongxin/20190718/499.html",
+      source: "重庆海吉亚肿瘤医院",
+      abstract:
+        "7月15日，由重庆市科学技术协会、重庆大学、西南大学等市内多家高校，以及国家技术标准创新基地联合举办的“第三届国际前沿科技创新大会(ICFTI-2019)”正式拉开帷幕，国内多名两院院士、国际知名学者专家以及科技创新型企业家700多人齐聚山城，共享科技创新盛举，重庆（中美）海吉亚医院作为受邀代表亮相此次科技创新大会。",
+      date: "July 16, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "颈医卫第6家门店——天山店开始试营业！",
+      link: "http://www.neckyw.com/a/jingyiwei/c3/144.html",
+      source: "颈医卫",
+      abstract:
+        "刚刚过去的6月，颈医卫第五家门店正式开业。而在这农历的6月，颈医卫第6家门店——长宁天山店也将揭开大幕，开始试营业啦！由复旦大学华山医院博士后团队创立的颈医卫自成立伊始，就注重技术的品质与提升，从第1家门店，到如今的第6家天山店颈医卫将一如既往的为大众提供“专业、安全、有温度”的颈腰养护服务。",
+      date: "July 15, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "零氪应邀出席中国财经峰会，尽展医疗大数据行业领袖风采",
+      link: "https://mp.weixin.qq.com/s/7xOypifNs2-rryWJzNwuWg",
+      source: "Linkdoc视界",
+      abstract:
+        "7月11日-12日，以“新时代：大变局与新动力”为主题的第八届中国财经峰会在京召开。凭借在医疗大数据及人工智能领域的出色表现，零氪科技荣获“2019（行业）影响力品牌”奖项，一同荣获此殊荣的还有中英人寿、三五互联等著名企业。同时，零氪科技CEO张天泽获评2019（行业）影响力人物。",
+      date: "July 12, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "互联网时代下跨境医疗的新生态 | 2019 WISE超级进化者大会",
+      link: "https://www.aiyichuandi.com/mtbd/36967180.html",
+      source: "Linkdoc视界",
+      abstract:
+        "7月9-10日，36氪在北京和上海同步举办“2019WISE超级进化者”大会，邀请超百位行业领袖，聚焦那些引领行业变革的超级进化者的崛起之路。对应跨境医疗行业当前所呈现的新风口、新生态，MORE Health爱医传递COO王晓江受邀在此次大会中发表“跨境医疗新生态”的演讲。",
+      date: "July 11, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "零氪科技荣登“2019 WISE 新商业引领者100榜”",
+      link: "https://mp.weixin.qq.com/s/eO7Drmkhf1Z71DvLO-tkzA",
+      source: " Linkdoc视界",
+      abstract:
+        "7月9日，36氪重磅发布“2019 WISE 新商业企业榜单”，零氪科技凭借在商业模式、产品能力、技术创新和融资历程上的突出表现，荣登“2019 WISE 新商业引领者100榜”。",
+      date: "July 9, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "硬核创新获认可！零氪科技荣登《中国企业家》科创企业百强榜",
+      link: "https://mp.weixin.qq.com/s/G9lhiKVYXACCIiP23yTIAA",
+      source: "Linkdoc视界",
+      abstract:
+        "7月8日， 由《中国企业家》杂志社主办的新领袖创新大课暨2019（第十九届）中国企业未来之星年会在上海举行。会上，《中国企业家》杂志社发布“科创企业百强榜”，零氪科技作为大数据、人工智能领域的代表性企业，荣登榜单位列第10位。",
+      date: "July 8, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "东方启音进驻福州",
+      link: "http://www.dfqy.com/news/detail/266",
+      source: "东方启音",
+      abstract:
+        "“我们住得远，每周要带着孩子去外地的中心上课训练，来回奔波，风雨无阻。每当看到孩子一点点进步我们的内心的喜悦是根本无法形容的。但异地的距离，孩子的进度，依旧是令我们头疼的问题。”我们发现像上述这样辗转于各城市之间来回奔波的家庭非常多。在福州家长们的殷切期盼下，2019年6月30日，东方启音终于正式进驻福州!",
+      date: "July 8, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "喜讯 | 上海市中医院针灸科单永华教授工作室落户固生堂上海万嘉分院",
+      link: "https://mp.weixin.qq.com/s/GvMs_q769E2osS4QlSP9zw",
+      source: "固生堂中医",
+      abstract:
+        "2019年7月07日，这是固生堂上海万嘉分院一个重要的历史时刻，上海市中医院前针灸科主任单永华教授固生堂名医工作室正式落户于此，隆重而简短的揭牌仪式为社区针灸专科正规力量的发展翻开了新的篇章。",
+      date: "July 7, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "加快发展社会办医，一所三级综合医院将落户聊城",
+      link: "https://baijiahao.baidu.com/s?id=1638312156503756223&wfr=spider&for=pc",
+      source: "齐鲁壹点",
+      abstract:
+        "日前，聊城海吉亚医院项目在首届江北水城“双招双引”大会上签约，项目选址在聊城经济开发区江北水镇项目医疗地块，将按照三级规模综合医疗机构进行建设，拟投资10亿元，规划用地面积约128亩，建设工期30个月。",
+      date: "July 6, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "当跨境医疗碰上AI会擦出怎样的火花",
+      link: "https://www.aiyichuandi.com/mtbd/54648359.html",
+      source: "MORE Health爱医传递",
+      abstract:
+        "当地时间6月29日，NECINA 2019年年度峰会“Digital Transformation ABC - AI, Big Data, and Cloud Computing” 在美丽的大波士顿地区完美上演。MORE Health受到主办方的邀请，作为唯一一家跨境医疗服务公司，参加了此次人工智能峰会。",
+      date: "July 3, 2019"
+    },
     {
       cate: "PORTFOLIO",
       title: "零氪科技受邀出席梅奥（Mayo）人工智能研讨会 展现医疗AI硬实力",
@@ -472,6 +616,26 @@ window.newsData = {
       abstract:
         "2019年3月1日，中美海吉亚医疗集团龙岩市博爱医院在龙岩市中心血站的协助下，我院成功举行了无偿献血活动，为无偿献血事业奉献出了博爱人的微薄之力。在前期充分准备和各科室部门的积极响应下，今天的献血人数为38名，累计献血量达到12400毫升，张辉华副院长和科室主任亲自带头参与了此次献血活动。",
       date: "March 01, 2019"
+    },
+    {
+      cate: "LONG HILL CAPITAL",
+      title: "长岭观点 | 中老年消费市场的痛点与四个创业原则",
+      link:
+        "https://mp.weixin.qq.com/s/fD_ak7E2yy2365MFXBrOSg",
+      source: "长岭资本",
+      abstract:
+        "2019年7月19日，由国内首家专注于老年行业商业创新与创投孵化的产业新媒体AgeClub主办的《2019中国老年消费市场创新发展论坛》在上海举行。长岭资本管理合伙人蒋晓冬先生受邀参会并发表主题演讲，分享了全球人口老龄化背景下的历史性创业机会，用“供给侧改革”的视角分析中老年消费市场的痛点与四个创业原则。",
+      date: "July 24, 2019"
+    },
+    {
+      cate: "LONG HILL CAPITAL",
+      title: "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
+      link:
+        "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
+      source: "长岭资本",
+      abstract:
+        "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
+      date: "July 16, 2019"
     },
     {
       cate: "LONG HILL CAPITAL",
