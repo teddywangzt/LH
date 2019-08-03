@@ -85,7 +85,17 @@ window.newsData = {
         "7月25日，由亿欧大健康举办的“雁栖健谈——GIIS 2019第四届中国大健康产业升级峰会”在京启幕。在2019中国大健康产业创新奖评选中，零氪科技、中电数据、医渡云、万里云、森亿智能、东软望海等行业头部企业荣登最佳医疗大数据创新企业10强。",
       date: "July 25, 2019"
     },
-     {
+    {
+      cate: "LONG HILL CAPITAL",
+      title: "长岭观点 | 中老年消费市场的痛点与四个创业原则",
+      link:
+        "https://mp.weixin.qq.com/s/fD_ak7E2yy2365MFXBrOSg",
+      source: "长岭资本",
+      abstract:
+        "2019年7月19日，由国内首家专注于老年行业商业创新与创投孵化的产业新媒体AgeClub主办的《2019中国老年消费市场创新发展论坛》在上海举行。长岭资本管理合伙人蒋晓冬先生受邀参会并发表主题演讲，分享了全球人口老龄化背景下的历史性创业机会，用“供给侧改革”的视角分析中老年消费市场的痛点与四个创业原则。",
+      date: "July 24, 2019"
+    },
+    {
       cate: "PORTFOLIO",
       title: "MORE Health爱医传递宣布与加州大学洛杉矶分校医疗中心进行战略合作，为患者提供远程第二诊疗意见",
       link: "https://www.aiyichuandi.com/gsdt/55310447.html",
@@ -93,6 +103,16 @@ window.newsData = {
       abstract:
         "2019年7月17日，全球医疗服务公司MORE Health爱医传递宣布与加州大学洛杉矶分校医疗中心进行战略合作，通过MORE Health爱医传递的医生会诊平台Physician Collaboration Platform™，患者们可以接触到加州大学洛杉矶分校医疗中心顶级的医生和服务。",
       date: "July 17, 2019"
+    },
+    {
+      cate: "LONG HILL CAPITAL",
+      title: "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
+      link:
+        "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
+      source: "长岭资本",
+      abstract:
+        "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
+      date: "July 16, 2019"
     },
     {
       cate: "PORTFOLIO",
@@ -616,26 +636,6 @@ window.newsData = {
       abstract:
         "2019年3月1日，中美海吉亚医疗集团龙岩市博爱医院在龙岩市中心血站的协助下，我院成功举行了无偿献血活动，为无偿献血事业奉献出了博爱人的微薄之力。在前期充分准备和各科室部门的积极响应下，今天的献血人数为38名，累计献血量达到12400毫升，张辉华副院长和科室主任亲自带头参与了此次献血活动。",
       date: "March 01, 2019"
-    },
-    {
-      cate: "LONG HILL CAPITAL",
-      title: "长岭观点 | 中老年消费市场的痛点与四个创业原则",
-      link:
-        "https://mp.weixin.qq.com/s/fD_ak7E2yy2365MFXBrOSg",
-      source: "长岭资本",
-      abstract:
-        "2019年7月19日，由国内首家专注于老年行业商业创新与创投孵化的产业新媒体AgeClub主办的《2019中国老年消费市场创新发展论坛》在上海举行。长岭资本管理合伙人蒋晓冬先生受邀参会并发表主题演讲，分享了全球人口老龄化背景下的历史性创业机会，用“供给侧改革”的视角分析中老年消费市场的痛点与四个创业原则。",
-      date: "July 24, 2019"
-    },
-    {
-      cate: "LONG HILL CAPITAL",
-      title: "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
-      link:
-        "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
-      source: "长岭资本",
-      abstract:
-        "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
-      date: "July 16, 2019"
     },
     {
       cate: "LONG HILL CAPITAL",
