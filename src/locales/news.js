@@ -60,6 +60,60 @@ window.newsData = {
   list: [
     {
       cate: "PORTFOLIO",
+      title: "全国名老中医钟启良学术思想与经验研讨会圆满召开！",
+      link: "https://mp.weixin.qq.com/s/APx3kfpgt_mG5c61vLyH1A",
+      source: "龙岩市博爱医院",
+      abstract:
+        "2019年8月25日，由福建省中医药学会内科分会、钟启良全国名老中医药专家传承工作室、龙岩市中医药学会传承研究分会主办；海吉亚医疗集团龙岩市博爱医院、龙岩市武平县中医院承办的《2019钟启良学术思想与经验研讨会》在龙岩闽西宾馆隆重举行。",
+      date: "August 29, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "【省级护理专家汇聚】 糖尿病护理之火，在这里开始燎原...",
+      link: "https://mp.weixin.qq.com/s/5YwCAGeyr_nyHn5haDzhCA",
+      source: "龙岩市博爱医院",
+      abstract:
+        "2019年8月24日，龙岩市继续教育项目《糖尿病护理新进展》学习班，在海吉亚医疗集团龙岩市博爱医院学术厅“完美收官”。中华护理学会糖尿病护理专业委员会秘书林娟主任护师、原福建医科大学附属第一医院护理部副主任张振香副主任护师、龙岩市第一医院内分泌科护士长陈杭菊副主任护师、龙岩市博爱医院内科片区护士长邱群红副主任护师四位护理专家汇聚一堂亲临授课。",
+      date: "August 26, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "固生堂国医学堂深圳拜师仪式顺利召开",
+      link: "https://mp.weixin.qq.com/s/p-rQY2T5RlRJEpGGPPD1Yg",
+      source: "固生堂中医",
+      abstract:
+        "8月23日，固生堂中医集团凭借与全国名校、名院、名科的合作优势，大力开展中医师承人才的培养，正式成立“广州中医药大学固生堂国医学堂”，启动了中医师承人才培养模式。为“用中医、爱中医、传中医”的中医人实现拜名师，学专长，圆名中医梦想而搭建学习平台。",
+      date: "August 26, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "固生堂中医药传统疗法与膏方应用研讨会顺利召开",
+      link: "https://mp.weixin.qq.com/s/p-rQY2T5RlRJEpGGPPD1Yg",
+      source: " 固生堂中医",
+      abstract:
+        "2019年8月23日，由“良心医、放心药”堂训的固生堂中医连锁管理集团举办的“中医药传统疗法与膏方应用研讨会”在广州市迎宾馆白云楼2楼白云厅顺利召开。",
+      date: "August 26, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "中关村高企协“明星企业走进活动”——“独角兽·零氪科技”专场：分享创新企业发展硬核",
+      link: "https://mp.weixin.qq.com/s/KCd7XulC3iePm-UhqulMQQ",
+      source: "Linkdoc视界",
+      abstract:
+        "“在对零氪的近距离参观中，我有两个比较深的感受：一是感到很紧张，因为看到兄弟们都在那儿干活呢，特别怕打搅到大家；另一个是，觉得零氪非常开放，我们去了不少企业，而零氪给予我们的充分的开放，这并不常见。零氪的确是一个很有特色的企业”。这是8月8日中关村国家技术高新企业协会举行的一场“明星企业走进活动”中，高企协秘书长曹毅在零氪科技参观考察后的一段话",
+      date: "August 9, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
+      title: "简单心理CEO简里里：快公司“2019中国商业最具创意人物”",
+      link: "http://life.jrj.com.cn/2019/08/08181027948503.shtml",
+      source: "中国财经时报网",
+      abstract:
+        "近日，著名国际商业媒体《快公司Fast Company》发布了“2019中国商业最具创意人物”榜单，简单心理创始人&CEO简里里位列其中。《快公司Fast Company》给出了简里里的上榜评语，同时，以“心简而清”来形容简里里对于树立国内心理健康服务领域标杆的使命感、专业度及专注度。",
+      date: "August 8, 2019"
+    },
+    {
+      cate: "PORTFOLIO",
       title: "感谢每一个你，和我们在一起 | 简单心理5周年回顾",
       link: "https://mp.weixin.qq.com/s/kZc7VfP1b2NXV89ol-Ohww",
       source: "简单心理",
