@@ -137,7 +137,7 @@ export default {
       }
     }
     text-align: center;
-    color: #fff;
+    color: #6D7278;
     h1 {
       font-size: 80px;
       letter-spacing: 30px;
