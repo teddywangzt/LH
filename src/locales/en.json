@@ -43,7 +43,7 @@
       "HEALTHCARE SERVICES",
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
-      "CONSUMER HEALTH&WELLNESS",
+      "CONSUMER HEALTH & WELLNESS",
       "AGING CONSUMER"
     ]
   },
@@ -268,7 +268,7 @@
       "HEALTHCARE SERVICES",
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
-      "CONSUMER HEALTH&WELLNESS",
+      "CONSUMER HEALTH & WELLNESS",
       "AGING CONSUMER"
     ],
     "companies": [
@@ -319,17 +319,17 @@
       },
       {
         "picture": "./static/image/company-logo/10.png",
-        "type": "CONSUMER HEALTH&WELLNESS",
+        "type": "CONSUMER HEALTH & WELLNESS",
         "text": "Rainbow Pediatrics: Leading online marketplace for pediatric care"
       },
       {
         "picture": "./static/image/company-logo/12.png",
-        "type": "CONSUMER HEALTH&WELLNESS",
+        "type": "CONSUMER HEALTH & WELLNESS",
         "text": "Neck Defender: Physical therapy clinic operator"
       },
       {
         "picture": "./static/image/company-logo/11.png",
-        "type": "CONSUMER HEALTH&WELLNESS",
+        "type": "CONSUMER HEALTH & WELLNESS",
         "text": "OFashion: Managed marketplace for fashion e-commerce"
       },
       {
