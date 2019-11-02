@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
-        link: "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
+          "长岭新闻 | 高歌百岁人生，纵情光辉岁月 — 长岭资本迎来成立三周年,
+        link: "https://mp.weixin.qq.com/s/bU3DLa4tgcb6V8Hyq37TSA",
         abstract:
-          "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
-        date: "July 16, 2019"
+          "2019年10月31日，以“光辉岁月”为主题的长岭资本三周年庆典，暨2019年基金合伙人大会欢迎晚宴在上海静安瑞吉酒店成功举办。",
+        date: "November 1, 2019"
       },
       {
         cate: "长岭观点",
@@ -32,11 +32,11 @@ window.newsData = {
       {
         cate: "LHC NEWS",
         title:
-          "长岭新闻 | 长岭官网换新貌，ALL IN健康幸福的百岁人生",
-        link: "https://mp.weixin.qq.com/s/bbcej0aepgg7oMTWUlJzIA",
+          "长岭新闻 | 高歌百岁人生，纵情光辉岁月 — 长岭资本迎来成立三周年,
+        link: "https://mp.weixin.qq.com/s/bU3DLa4tgcb6V8Hyq37TSA",
         abstract:
-          "2019年7月15日，长岭资本官方网站（www.lhcap.cn）迎来了基金成立近3年来的首次改版。新版官网旨在更加清晰地展现长岭资本在五大核心专注领域的投资策略与成果，并且在电脑、手机、Pad等各种设备上提供更好的浏览体验。欢迎大家来访我们新的官网，了解长岭资本与被投企业的更多信息。",
-        date: "July 16, 2019"
+          "2019年10月31日，以“光辉岁月”为主题的长岭资本三周年庆典，暨2019年基金合伙人大会欢迎晚宴在上海静安瑞吉酒店成功举办。",
+        date: "November 1, 2019"
       },
       {
         cate: "LHC PERSPECTIVES",
