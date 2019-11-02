@@ -14,7 +14,7 @@ window.newsData = {
         cate: "长岭观点",
         title:
           "长岭资本蒋晓冬：中老年消费市场的痛点与四个创业原则",
-        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247483922&idx=1&sn=8012b15ce78811913d69fcaa9409b1d5&chksm=ec710b8cdb06829ae284fa9b1faf7d27eb53d88c893fe6eeb622bffac21d596524f9a8417d31&mpshare=1&scene=1&srcid=&sharer_sharetime=1563959123095&sharer_shareid=ed262c55b7ef32da78b09eb0a288aca4&rd2werd=1#wechat_redirect",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247483922&idx=1&sn=8012b15ce78811913d69fcaa9409b1d5&chksm=ec710b8cdb06829ae284fa9b1faf7d27eb53d88c893fe6eeb622bffac21d596524f9a8417d31&mpshare=1&scene=1&srcid=&sharer_sharetime=1563959123095&sharer_shareid=ed262c55b7ef32da78b09eb0a288aca4&rd2werd=1",
         abstract:
           "2019年7月19日，长岭资本管理合伙人蒋晓冬先生受邀参加《2019中国老年消费市场创新发展论坛》并发表主题演讲，分享了全球人口老龄化背景下的历史性创业机会，用“供给侧改革”的视角分析中老年消费市场的痛点与四个创业原则。",
         date: "July 24, 2019"
