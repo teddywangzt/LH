@@ -32,7 +32,7 @@ window.newsData = {
       {
         cate: "LHC NEWS",
         title:
-          "长岭新闻 | 高歌百岁人生，纵情光辉岁月 — 长岭资本迎来成立三周年,
+          "长岭新闻 | 高歌百岁人生，纵情光辉岁月 — 长岭资本迎来成立三周年",
         link: "https://mp.weixin.qq.com/s/bU3DLa4tgcb6V8Hyq37TSA",
         abstract:
           "2019年10月31日，以“光辉岁月”为主题的长岭资本三周年庆典，暨2019年基金合伙人大会欢迎晚宴在上海静安瑞吉酒店成功举办。",
