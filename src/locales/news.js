@@ -100,7 +100,8 @@ window.newsData = {
       link: "https://mp.weixin.qq.com/s/Phui5OGwX8g5in1sWxOu4Q",
       source: "MORE Health爱医传递",
       abstract:
-        "2019年12月21号，MORE Health爱医传递面向休斯顿医学中心30多名癌症患友举办了一场精彩的学术讲座，主讲嘉宾为国际“精准癌症医学”先驱，美国加州大学欧文分校（UC Irvine)医学院临床医学教授，美国希望健康中心（Hope Health Center）创始人、医学主任，美国Riverside癌症基金癌症医学顾问委员会主任Nader Javadi医生，演讲主题为《精准肿瘤学：癌症治疗的趋势》。在冬至、圣诞和新年纷至沓来之际，这场学术盛宴为
+        "2019年12月21号，MORE Health爱医传递面向休斯顿医学中心30多名癌症患友举办了一场精彩的学术讲座，主讲嘉宾为国际“精准癌症医学”先驱，美国加州大学欧文分校（UC Irvine)医学院临床医学教授，美国希望健康中心（Hope Health Center）创始人、医学主任，美国Riverside癌症基金癌症医学顾问委员会主任Nader Javadi医生，演讲主题为《精准肿瘤学：癌症治疗的趋势》。在冬至、圣诞和新年纷至沓来之际，这场学术盛宴为休斯顿医学中心的病友们抗击癌症带来了新的信心和希望。",
+      date: "December 21, 2019"
     },      
     {
       cate: "LONG HILL CAPITAL",
