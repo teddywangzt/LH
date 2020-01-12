@@ -336,6 +336,11 @@
         "picture": "./static/image/company-logo/15.png",
         "type": "AGING CONSUMER",
         "text": "AgeClub: New media focused on aging consumer"
+      },
+      {
+        "picture": "./static/image/company-logo/13.png",
+        "type": "AGING CONSUMER",
+        "text": "Happy Prime: China's leading private senior university"
       }
     ]
   },
