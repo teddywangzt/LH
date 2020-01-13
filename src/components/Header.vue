@@ -2,7 +2,7 @@
   <div class="header-wrap">
     <carousel
       :perPage="1"
-      :autoplay="true"
+      :autoplay="false"
       :loop="true"
       :autoplayTimeout="3500"
       :autoplayHoverPause="false"
@@ -24,8 +24,8 @@
           :class="`slide-item idx-${i}`"
           :style="`backgroundImage: url(${item.image})`"
         >
-          <h1>{{ item.title }}</h1>
-          <p>{{ item.slogan }}</p>
+          <!-- <h1>{{ item.title }}</h1> -->
+          <!-- <p>{{ item.slogan }}</p> -->
         </div>
       </slide>
     </carousel>
@@ -129,11 +129,16 @@ export default {
     background-size: cover;
     padding-top: 45vh;
     @media all and (max-width: 1366px) {
-      background-position: 13% center;
+      background-position: center;
+    }
+    &.idx-1 {
+      @media all and (max-width: 1366px) {
+        background-position: 90% center;
+      }
     }
     &.idx-2 {
       @media all and (max-width: 1366px) {
-        background-position: 80% center;
+        background-position: 20% center;
       }
     }
     text-align: center;
