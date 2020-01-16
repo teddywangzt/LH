@@ -2,7 +2,7 @@
   <div class="header-wrap">
     <carousel
       :perPage="1"
-      :autoplay="false"
+      :autoplay="true"
       :loop="true"
       :autoplayTimeout="3500"
       :autoplayHoverPause="false"
