@@ -2,7 +2,7 @@
   <div class="header-wrap">
     <carousel
       :perPage="1"
-      :autoplay="true"
+      :autoplay="false"
       :loop="true"
       :autoplayTimeout="3500"
       :autoplayHoverPause="false"
@@ -133,7 +133,7 @@ export default {
     }
     &.idx-1 {
       @media all and (max-width: 1366px) {
-        background-position: 90% center;
+        background-position: 35% center;
       }
     }
     &.idx-2 {
