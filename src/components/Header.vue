@@ -138,7 +138,7 @@ export default {
     }
     &.idx-2 {
       @media all and (max-width: 1366px) {
-        background-position: 20% center;
+        background-position: 5% center;
       }
     }
     text-align: center;
