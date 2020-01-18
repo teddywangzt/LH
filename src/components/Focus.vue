@@ -1,6 +1,6 @@
 <template>
   <div class="focus">
-    <h2 class="block-title">{{ $t("focus.title") }}</h2>
+    <h2 class="block-title">{{ $t("focus.title") }}<em>{{ $t("focus.titleEm") }}</em></h2>
     <div class="block-content">
       <div class="panel">
         <h3>{{ $t("focus.subtitle") }}</h3>
