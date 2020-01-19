@@ -78,6 +78,9 @@ export default {
         transform-origin: top left;
         transform: rotate(8deg);
       }
+      em {
+        color: #000;
+      }
     }
   }
   .app-content {
