@@ -249,15 +249,6 @@ window.newsData = {
     }, 
     {
       cate: "PORTFOLIO",
-      title: "海吉亚医疗拟赴港IPO 联合创始人“中国伽马刀之父”",
-      link: "https://finance.sina.com.cn/stock/hkstock/ggipo/2019-10-31/doc-iicezuev6137657.shtml",
-      source: "新浪财经",
-      abstract:
-        "资料显示，海吉亚医疗是一家中美合资专业化的医疗投资集团，专注于连锁肿瘤治疗及脑科医疗机构的投资、建设及运营管理，朱义文为该集团董事长，总裁为季海荣，其联合创始人为宋世鹏与朱义文。",
-      date: "October 31, 2019"
-    },     
-    {
-      cate: "PORTFOLIO",
       title: "MORE Health爱医传递携手锦州医大三院，共建中美远程会诊中心",
       link: "https://www.aiyichuandi.com/gsdt/55212505.html",
       source: "MORE Health爱医传递",
