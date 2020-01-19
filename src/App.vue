@@ -79,7 +79,7 @@ export default {
         transform: rotate(8deg);
       }
       em {
-        color: #000;
+        color: #fff;
       }
     }
   }
