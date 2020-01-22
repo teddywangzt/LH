@@ -351,10 +351,16 @@
         "type": "ALL"
       },
       {
-        "type": "LONG HILL CAPITAL"
+        "type": "NEWS"
       },
       {
-        "type": "PORTFOLIO"
+        "type": "PERSPECTIVES"
+      },
+      {
+        "type": "SHARING"
+      },
+      {
+        "type": "ECOSYSTEM"
       },
       {
         "type": "ENGLISH ONLY"

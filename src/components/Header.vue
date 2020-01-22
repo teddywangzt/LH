@@ -91,7 +91,14 @@ export default {
 <style lang="less">
 .header-wrap {
   // @media all and (max-width: 768px) {}
+  @media all and (min-width: 1024px) {
+    padding-top: 55px;
+    .header {
+      top: -77px;
+    }
+  }
   height: 100vh;
+  background: #e8e8e8;
   .VueCarousel {
     height: 100vh;
   }

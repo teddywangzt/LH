@@ -352,12 +352,20 @@
         "text": "全部"
       },
       {
-        "type": "LONG HILL CAPITAL",
-        "text": "长岭动态"
+        "type": "NEWS",
+        "text": "长岭新闻"
       },
       {
-        "type": "PORTFOLIO",
-        "text": "投资组合动态"
+        "type": "PERSPECTIVES",
+        "text": "长岭观点"
+      },
+      {
+        "type": "SHARING",
+        "text": "长岭分享"
+      },
+      {
+        "type": "ECOSYSTEM",
+        "text": "长岭生态"
       },
       {
         "type": "ENGLISH ONLY"
