@@ -95,15 +95,25 @@ export default {
     padding-top: 55px;
     .header {
       top: -77px;
+      .logo {
+        top: 30px !important;
+      }
+      .nav {
+        top: 40px !important;
+      }
     }
   }
   height: 100vh;
+  overflow: hidden;
   background: #e8e8e8;
   .VueCarousel {
     height: 100vh;
   }
   .VueCarousel-pagination {
     margin-top: -120px;
+    @media all and (min-width: 1024px) {
+      margin-top: -150px;
+    }
     @media all and (max-width: 768px) {
       margin-top: -100px;
     }
