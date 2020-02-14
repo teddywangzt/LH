@@ -96,7 +96,7 @@ export default {
     .header {
       top: -77px;
       .logo {
-        top: 37px !important;
+        top: 31px !important;
       }
       .nav {
         top: 42px !important;
@@ -216,6 +216,9 @@ export default {
             width: 200px;
           }
         }
+      }
+      @media all and (max-width: 1200px) {
+        top: 37px !important;
       }
       @media all and (max-width: 768px) {
         left: 35px;
