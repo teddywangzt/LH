@@ -96,10 +96,10 @@ export default {
     .header {
       top: -77px;
       .logo {
-        top: 30px !important;
+        top: 32px !important;
       }
       .nav {
-        top: 40px !important;
+        top: 42px !important;
       }
     }
   }
@@ -113,6 +113,9 @@ export default {
     margin-top: -120px;
     @media all and (min-width: 1024px) {
       margin-top: -150px;
+    }
+    @media only screen and (min-height: 1194px) {
+      margin-top: -200px;
     }
     @media all and (max-width: 768px) {
       margin-top: -100px;
