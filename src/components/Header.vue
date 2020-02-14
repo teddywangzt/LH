@@ -217,7 +217,7 @@ export default {
           }
         }
       }
-      @media all and (max-width: 1200px) {
+      @media all and (max-width: 1280px) {
         top: 37px !important;
       }
       @media all and (max-width: 768px) {
