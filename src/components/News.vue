@@ -190,7 +190,7 @@ export default {
             font-size: 12px;
           }
           @media all and (max-width: 768px) {
-            padding: 0 5px;
+            padding: 0 10px;
           }
           position: relative;
           padding: 0 25px;

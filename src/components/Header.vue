@@ -96,7 +96,7 @@ export default {
     .header {
       top: -77px;
       .logo {
-        top: 32px !important;
+        top: 37px !important;
       }
       .nav {
         top: 42px !important;
