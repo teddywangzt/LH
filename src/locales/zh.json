@@ -16,28 +16,28 @@
     "targetlang": "ENGLISH",
     "slides": [
       {
-        "image": "./static/image/head/hd-1.jpg",
+        "image": "./static/image/head/hd-1-0117.jpeg",
         "title": "长岭资本",
         "slogan": "为了健康幸福的百岁人生"
       },
       {
-        "image": "./static/image/head/hd-2.jpg",
+        "image": "./static/image/head/hd-2-0118.jpeg",
         "title": "",
         "slogan": ""
       },
       {
-        "image": "./static/image/head/hd-3.jpg",
+        "image": "./static/image/head/hd-3-0120.jpeg",
         "title": "",
         "slogan": ""
       }
     ]
   },
   "focus": {
-    "title": "投资主题：大健康 | 老龄化",
+    "title": "投资主题：<em>大健康</em> | <em>老龄化</em>",
     "subtitle": "专注五大核心领域的价值创造",
     "paragraphs": [
       "根据最新的联合国世界人口展望报告预测，到2050年，有近50%的中国人口将超过50岁，为应对人口老龄化而重建社会经济基础设施的需求空前高涨。",
-      "在大健康与老龄化领域，长岭资本致力于投资技术驱动的商业模式创新，在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。长岭团队合计拥有数十年的投资与运营经验，在我们专注的5个核心投资领域中不断打造行业领军企业。"
+      "在<em>大健康</em>与<em>老龄化</em>领域，长岭资本致力于投资技术驱动的商业模式创新，在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。长岭团队合计拥有数十年的投资与运营经验，在我们专注的5个核心投资领域中不断打造行业领军企业。"
     ],
     "cates": [
       "新型医疗服务",
@@ -352,12 +352,20 @@
         "text": "全部"
       },
       {
-        "type": "LONG HILL CAPITAL",
-        "text": "长岭动态"
+        "type": "NEWS",
+        "text": "长岭新闻"
       },
       {
-        "type": "PORTFOLIO",
-        "text": "投资组合动态"
+        "type": "PERSPECTIVES",
+        "text": "长岭观点"
+      },
+      {
+        "type": "SHARING",
+        "text": "长岭分享"
+      },
+      {
+        "type": "ECOSYSTEM",
+        "text": "长岭生态"
       },
       {
         "type": "ENGLISH ONLY"

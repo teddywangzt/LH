@@ -2,7 +2,7 @@
   <div class="news">
     <h2 class="block-title">{{ $t("news.title") }}</h2>
     <div class="list">
-      <div v-for="(item, i) in toplist.slice(0, 3)" :key="i" class="item">
+      <div v-for="(item, i) in toplist.slice(0, 4)" :key="i" class="item">
         <h3>{{ item.cate }}</h3>
         <a class="title" target="_blank" :href="item.link">{{ item.title }}</a>
         <p class="desc">{{ item.abstract }}</p>
@@ -187,7 +187,7 @@ export default {
             font-size: 16px;
           }
           @media all and (max-width: 1000px) {
-            font-size: 14px;
+            font-size: 12px;
           }
           @media all and (max-width: 768px) {
             padding: 0 10px;

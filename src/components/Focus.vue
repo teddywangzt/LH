@@ -1,11 +1,11 @@
 <template>
   <div class="focus">
-    <h2 class="block-title">{{ $t("focus.title") }}</h2>
+    <h2 class="block-title" v-html="$t('focus.title')"></h2>
     <div class="block-content">
       <div class="panel">
         <h3>{{ $t("focus.subtitle") }}</h3>
         <div class="content">
-          <p v-for="(item, i) in $t('focus.paragraphs')" :key="i">{{ item }}</p>
+          <p v-for="(item, i) in $t('focus.paragraphs')" :key="i" v-html="item"></p>
         </div>
       </div>
       <div class="tabs">
@@ -49,6 +49,10 @@ export default {
       .content {
         p {
           margin-bottom: 20px;
+          em {
+            color: #20ac66;
+            font-style: normal;
+          }
         }
       }
     }

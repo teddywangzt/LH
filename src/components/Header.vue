@@ -24,8 +24,8 @@
           :class="`slide-item idx-${i}`"
           :style="`backgroundImage: url(${item.image})`"
         >
-          <h1>{{ item.title }}</h1>
-          <p>{{ item.slogan }}</p>
+          <!-- <h1>{{ item.title }}</h1> -->
+          <!-- <p>{{ item.slogan }}</p> -->
         </div>
       </slide>
     </carousel>
@@ -91,12 +91,32 @@ export default {
 <style lang="less">
 .header-wrap {
   // @media all and (max-width: 768px) {}
+  @media all and (min-width: 1024px) {
+    padding-top: 55px;
+    .header {
+      top: -77px;
+      .logo {
+        top: 31px !important;
+      }
+      .nav {
+        top: 42px !important;
+      }
+    }
+  }
   height: 100vh;
+  overflow: hidden;
+  background: #e8e8e8;
   .VueCarousel {
     height: 100vh;
   }
   .VueCarousel-pagination {
     margin-top: -120px;
+    @media all and (min-width: 1024px) {
+      margin-top: -150px;
+    }
+    @media only screen and (max-height: 840px) {
+      margin-top: -200px;
+    }
     @media all and (max-width: 768px) {
       margin-top: -100px;
     }
@@ -129,11 +149,16 @@ export default {
     background-size: cover;
     padding-top: 45vh;
     @media all and (max-width: 1366px) {
-      background-position: 13% center;
+      background-position: center;
+    }
+    &.idx-1 {
+      @media all and (max-width: 1366px) {
+        background-position: 35% center;
+      }
     }
     &.idx-2 {
       @media all and (max-width: 1366px) {
-        background-position: 80% center;
+        background-position: 5% center;
       }
     }
     text-align: center;
@@ -191,6 +216,9 @@ export default {
             width: 200px;
           }
         }
+      }
+      @media all and (max-width: 1280px) {
+        top: 37px !important;
       }
       @media all and (max-width: 768px) {
         left: 35px;

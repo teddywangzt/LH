@@ -45,6 +45,10 @@ export default {
   h2.block-title {
     font-size: 65px;
     font-family: "Jervinho";
+    em {
+      font-style: normal;
+      color: #20ac66;
+    }
     @media all and (max-width: 1000px) {
       font-size: 40px;
     }
@@ -73,6 +77,9 @@ export default {
         top: 0;
         transform-origin: top left;
         transform: rotate(8deg);
+      }
+      em {
+        color: #fff;
       }
     }
   }
