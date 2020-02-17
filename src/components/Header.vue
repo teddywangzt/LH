@@ -114,7 +114,7 @@ export default {
     @media all and (min-width: 1024px) {
       margin-top: -150px;
     }
-    @media only screen and (min-height: 1194px) {
+    @media only screen and (max-height: 840px) {
       margin-top: -200px;
     }
     @media all and (max-width: 768px) {
