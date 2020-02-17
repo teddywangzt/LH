@@ -21,7 +21,7 @@ yarn build
   toplist: {
     zh: [{
       cate: "长岭新闻",
-      title: "长岭资本获评...",
+      title: "长岭资本获评...的",
       link: "https://mp.weixin.qq.com/s/jyScci_EDY0QCb_qHwXsSA",
       abstract: "2018年12月18日....",
       date: "August 20, 2018"
