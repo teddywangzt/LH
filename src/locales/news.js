@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭新闻 | 新起点、新征程、新纪元：长岭上海办公室喜迎乔迁",
-        link: "https://mp.weixin.qq.com/s/4v0_JEnKv1gWNXBs0YjWWQ",
+          "长岭资本与多家长岭系企业参加第38届摩根大通医疗年会",
+        link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
         abstract:
-          "2020新年即将到来之际，长岭资本上海办公室喜迎乔迁，新办公室位于南京西路1266号恒隆广场办公楼二期31楼。这是继2018年底北京国贸办公室启用后，长岭团队再次立足新起点，起航新征程。",
-        date: "December 24, 2019"
+          "2020年1月13-16日，第38届摩根大通医疗年会在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
+        date: "January 17, 2020"
       }, 
       {
         cate: "长岭观点",
@@ -27,24 +27,24 @@ window.newsData = {
           "1月7日，国家药监局正式发布《真实世界证据支持药物研发与审评的指导原则（试行）》，作为国内较早探索开展RWS的医疗大数据公司，以及《指导原则》的参与方，零氪科技首席运营官罗立刚深度解读了《征求意见》，与大家分享。",
         date: "January 10, 2020"
       },
-	  {
+      {
         cate: "长岭生态",
-        title: "入围“2019年度雇主榜” 零氪科技如何成为最具人才吸引力企业？",
-        link: "https://mp.weixin.qq.com/s/-TbIZ7xxXS4fA9p_bnKUkA",
+        title: "复工第一周：我们在这里，我们在一起！",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484257&idx=1&sn=d90559624f3ba6c7a93851bc50fd6b5a&chksm=ec710affdb0683e93f2eb963110160b90e83a0015de367f803c6507c3dfe5389aba242d1bf54&token=1302932615&lang=zh_CN#rd",
         abstract:
-          "日前，中华英才网APP发布《2019中华英才网APP年度企业榜单》，包括“中国好雇主榜”、“全年热搜榜”、“校招人气榜”和“新势力榜”四类榜单。阿里巴巴、腾讯、海底捞、顺丰速运等巨头榜上有名，零氪科技、拼多多、商汤等上榜“2019年度雇主-新势力榜”。",
-        date: "January 13, 2020"
+          "在举国上下抗击新冠病毒的特殊日子里，长岭资本和40多家长岭系企业一同迎来了新春复工的第一周。就像《鼠疫》的作者加缪所说，“对未来的真正慷慨，是把一切献给现在。”",
+        date: "February 14, 2020"
       }
     ],
     en: [
       {
         cate: "NEWS",
         title:
-         "长岭新闻 | 新起点、新征程、新纪元：长岭上海办公室喜迎乔迁",
-        link: "https://mp.weixin.qq.com/s/4v0_JEnKv1gWNXBs0YjWWQ",
+         "长岭资本与多家长岭系企业参加第38届摩根大通医疗年会",
+        link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
         abstract:
-          "2020新年即将到来之际，长岭资本上海办公室喜迎乔迁，新办公室位于上海市南京西路1266号恒隆广场办公楼二期31楼。这是继2018年底北京国贸办公室启用后，长岭团队再次立足新起点，起航新征程。",
-        date: "December 24, 2019"
+          "2020年1月13-16日，第38届摩根大通医疗年会在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
+        date: "January 17, 2020"
       },
       {
         cate: "PERSPECTIVES",
@@ -55,7 +55,7 @@ window.newsData = {
           "2019年12月19日，由国内首家专注于老年行业商业创新与创投孵化的产业新媒体AgeClub主办的《第二届中国老年产业商业创新大会》在北京举行，超过600位企业家、创业者、投资人及行业专家与会。长岭资本管理合伙人蒋晓冬先生受邀参会并发表名为“开启银发经济的黄金20年”主题演讲。",
         date: "December 21, 2019"
       },
-	  {
+      {
         cate: "SHARING",
         title: "重磅！ 深度解读《真实世界证据支持药物研发与审评指导原则（试行）》",
         link: "https://mp.weixin.qq.com/s/OcdQtM92wHjF9Pi9fsQNQA",
@@ -65,11 +65,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "入围“2019年度雇主榜” 零氪科技如何成为最具人才吸引力企业？",
-        link: "https://mp.weixin.qq.com/s/4v0_JEnKv1gWNXBs0YjWWQ",
+        title: "复工第一周：我们在这里，我们在一起！",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484257&idx=1&sn=d90559624f3ba6c7a93851bc50fd6b5a&chksm=ec710affdb0683e93f2eb963110160b90e83a0015de367f803c6507c3dfe5389aba242d1bf54&token=1302932615&lang=zh_CN#rd",
         abstract:
-          "日前，中华英才网APP发布《2019中华英才网APP年度企业榜单》，包括“中国好雇主榜”、“全年热搜榜”、“校招人气榜”和“新势力榜”四类榜单。阿里巴巴、腾讯、海底捞、顺丰速运等巨头榜上有名，零氪科技、拼多多、商汤等上榜“2019年度雇主-新势力榜”。",
-        date: "January 13, 2020"
+          "在举国上下抗击新冠病毒的特殊日子里，长岭资本和40多家长岭系企业一同迎来了新春复工的第一周。就像《鼠疫》的作者加缪所说，“对未来的真正慷慨，是把一切献给现在。”",
+        date: "February 14, 2020"
       }
     ]
   },
@@ -116,7 +116,7 @@ window.newsData = {
         link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
         source: "长岭资本",
         abstract:
-          "2020年1月13-16日，第38届摩根大通医疗年会(the annual J.P. Morgan Healthcare Conference，以下简称“JP摩根大会”)在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，与其他3位嘉宾一起共同探讨全球医疗行业未来增长、创新以及投资机会。长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
+          "2020年1月13-16日，第38届摩根大通医疗年会在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
         date: "January 17, 2020"
     },
     {
