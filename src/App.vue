@@ -54,6 +54,9 @@ export default {
     }
     padding: 160px 0 60px;
     text-align: center;
+    @media all and (max-width: 520px) {
+      font-size: 17px !important;
+    }
     @media all and (max-width: 740px) {
       position: relative;
       height: 47px;
