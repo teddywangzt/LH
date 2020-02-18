@@ -75,6 +75,42 @@ window.newsData = {
   },
   list: [
     {
+      cate: "ECOSYSTEM",
+      title: "复工第一周：我们在这里，我们在一起！",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484257&idx=1&sn=d90559624f3ba6c7a93851bc50fd6b5a&chksm=ec710affdb0683e93f2eb963110160b90e83a0015de367f803c6507c3dfe5389aba242d1bf54&token=1302932615&lang=zh_CN#rd",
+        source: "长岭资本",
+        abstract:
+          "在举国上下抗击新冠病毒的特殊日子里，长岭资本和40多家长岭系企业一同迎来了新春复工的第一周。就像《鼠疫》的作者加缪所说，“对未来的真正慷慨，是把一切献给现在。”",
+        date: "February 14, 2020"
+    },
+    {
+      cate: "ECOSYSTEM",
+      title: "如何“云办公”央视关注零氪科技新模式",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484204&idx=1&sn=70d08dd76395f44b7ec99674ab59629e&chksm=ec710ab2db0683a4794ced8da1f173c0c91463c57f1e3981f4f06e8565010576b2abf77ee597&token=1302932615&lang=zh_CN#rd",
+        source: "长岭资本",
+        abstract:
+          "在全国各地拥有超过1000名员工的零氪科技是长岭系企业中利用技术手段开展高效办公的典型代表。2月7日，中央电视台《朝闻天下》栏目对零氪科技的“云办公”工作模式进行了专题报道，在此与大家一同分享！",
+        date: "February 10, 2020"
+    },
+    {
+      cate: "ECOSYSTEM",
+      title: "赢战疫情：更多长岭医健企业在行动！",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484181&idx=1&sn=901c62e79beb791979e58342d0720a8b&chksm=ec710a8bdb06839d28524a2a0eb8e111ee94abf599991926c53b29aa6ebbb88f11a42ab53d41&token=1302932615&lang=zh_CN#rd",
+        source: "长岭资本",
+        abstract:
+          "面对这场严峻的防控疫情斗争，长岭企业在春节期间纷纷主动延长工作时间，提供不间断的优质诊疗服务。在确保本院医疗物资供应的前提下，大家积极调配物资、驰援湖北。很多机构还为周边社区居民免费发放医用口罩等防护用品，向大众普及正确的防疫知识，传递战胜疫情的正能量！",
+        date: "February 1, 2020"
+    },
+    {
+      cate: "ECOSYSTEM",
+      title: "长岭系医健服务企业紧急行动，守护新春，驰援武汉！",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484165&idx=1&sn=b027a3b043ee25540260e1900ca9525d&chksm=ec710a9bdb06838d4133813be9652d4ccf3c4991353ae134986368b6d99348ff8dc9c6da440f&token=1302932615&lang=zh_CN#rd",
+        source: "长岭资本",
+        abstract:
+          "在这个非同寻常的新春假期里，源发湖北武汉的新型冠状病毒肺炎疫情向全国蔓延，牵动着我们每一个人的心。一方有难，八方支援，面对如此令人揪心的局势，长岭系医健服务企业紧急行动，春节期间加班加点，在医疗保障、物资调配等方面多措并举，抗击新型冠状病毒肺炎！",
+        date: "January 27, 2020"
+    },
+    {
       cate: "NEWS",
       title: "长岭资本与多家长岭系企业参加第38届摩根大通医疗年会",
         link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
@@ -82,7 +118,7 @@ window.newsData = {
         abstract:
           "2020年1月13-16日，第38届摩根大通医疗年会(the annual J.P. Morgan Healthcare Conference，以下简称“JP摩根大会”)在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，与其他3位嘉宾一起共同探讨全球医疗行业未来增长、创新以及投资机会。长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
         date: "January 17, 2020"
-    },           
+    },
     {
       cate: "ECOSYSTEM",
       title: "入围“2019年度雇主榜” 零氪科技如何成为最具人才吸引力企业？",
@@ -127,7 +163,43 @@ window.newsData = {
       abstract:
         "2019年12月19日，由国内首家专注于老年行业商业创新与创投孵化的产业新媒体AgeClub主办的《第二届中国老年产业商业创新大会》在北京举行，超过600位企业家、创业者、投资人及行业专家与会。",
       date: "December 21, 2019"
-    },      
+    }, 
+    {
+      cate: "NEWS",
+      title: "长岭资本参加第32届AVCJ私募股权与创业投资亚洲论坛",
+      link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484021&idx=1&sn=928efe9785ac2c8dc937d89de43c894d&chksm=ec710bebdb0682fddbc791f0e47c4a78d43cf9d28dd4f1982962c5c49f849a92912dc456ccb7&token=1302932615&lang=zh_CN#rd",
+      source: "长岭资本",
+      abstract:
+        "2019年11月12日，第32届“AVCJ私募股权与创业投资亚洲论坛”在香港四季酒店举办。AVCJ是亚洲最大且最有影响力的私募股权会议，此次参会总人数超过1150人。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC and beyond: The changing deal environment”的圆桌论坛。",
+      date: "November 13, 2019"
+    },
+    {
+      cate: "SHARING",
+      title: "深度洞察：中国50+新老年人如何追求时尚与美？",
+      link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484016&idx=1&sn=26ace7f621a80014bdd5c54bea73eddd&chksm=ec710beedb0682f8705f40905c942e0033468d24cffb1c1ddd5fe660e1b7a060f743c4b61b48&token=1302932615&lang=zh_CN#rd",
+      source: "长岭资本",
+      abstract:
+        "未来几年是中国老年行业快速发展，市场创新创业生态高度活跃的时期。中国老年消费者的整体思想观念每年都在出现变化，这批拥有高消费能力的5060新老年人群大量涌入市场，他们对各种衣食住行游购娱的需求释放带来巨大的市场红利。",
+      date: "November 8, 2019"
+    },
+    {
+      cate: "NEWS",
+      title: "高歌百岁人生，纵情光辉岁月 — 长岭资本迎来成立三周年",
+      link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484001&idx=1&sn=195aca286302394f708ba22e9115b37d&chksm=ec710bffdb0682e918164f618903c4ece94466e2205e55d78a587da1a46d4c9ea792ad54cec7&token=1302932615&lang=zh_CN#rd",
+      source: "长岭资本",
+      abstract:
+        "2019年10月31日，以“光辉岁月”为主题的长岭资本三周年庆典，暨2019年基金合伙人大会欢迎晚宴在上海静安瑞吉酒店成功举办。",
+      date: "November 1, 2019"
+    },
+    {
+      cate: "SHARING",
+      title: "新老年深度调研：一线城市50+新老年人消费需求变化趋势",
+      link: "https://http://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247483939&idx=1&sn=8769dd5af230a23d4d6c384739af304b&chksm=ec710bbddb0682ab740924e2e5aae647017697cac04508bdf57b89a0eb6cb8d93a5249cd6eb9&token=1302932615&lang=zh_CN#rd",
+      source: "长岭资本",
+      abstract:
+        "随着互联网在中老年人群中的渗透逐渐增加，中老年人互联网行为越来越丰富，因此基于她们的消费心理以及消费行为，总结影响中老年消费行为的因素主要包括：心理状态变化；社会文化影响；生理特点变化；社会角色变化；老年消费需求特征",
+      date: "August 17, 2019"
+    },   
     {
       cate: "ENGLISH ONLY",
       title: "Finding Opportunities in Health Care",
