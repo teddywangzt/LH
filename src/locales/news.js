@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "复工第一周：我们在这里，我们在一起！",
-        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484257&idx=1&sn=d90559624f3ba6c7a93851bc50fd6b5a&chksm=ec710affdb0683e93f2eb963110160b90e83a0015de367f803c6507c3dfe5389aba242d1bf54&token=1302932615&lang=zh_CN#rd",
+        title: "简单心理入选国家卫健委指定医务人员心理援助网络平台",
+        link: "https://mp.weixin.qq.com/s/HBeC2vaFhBOpcfqufe3Euw",
         abstract:
-          "在举国上下抗击新冠病毒的特殊日子里，长岭资本和40多家长岭系企业一同迎来了新春复工的第一周。就像《鼠疫》的作者加缪所说，“对未来的真正慷慨，是把一切献给现在。”",
-        date: "February 14, 2020"
+          "长岭资本在A轮投资的国内最大互联网心理咨询平台——简单心理，作为唯一一家民营机构入选卫健委指定的11家心理干预热线和网络咨询服务平台。",
+        date: "February 21, 2020"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "复工第一周：我们在这里，我们在一起！",
-        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247484257&idx=1&sn=d90559624f3ba6c7a93851bc50fd6b5a&chksm=ec710affdb0683e93f2eb963110160b90e83a0015de367f803c6507c3dfe5389aba242d1bf54&token=1302932615&lang=zh_CN#rd",
+        title: "简单心理入选国家卫健委指定医务人员心理援助网络平台",
+        link: "https://mp.weixin.qq.com/s/HBeC2vaFhBOpcfqufe3Euw",
         abstract:
-          "在举国上下抗击新冠病毒的特殊日子里，长岭资本和40多家长岭系企业一同迎来了新春复工的第一周。就像《鼠疫》的作者加缪所说，“对未来的真正慷慨，是把一切献给现在。”",
-        date: "February 14, 2020"
+          "长岭资本在A轮投资的国内最大互联网心理咨询平台——简单心理，作为唯一一家民营机构入选卫健委指定的11家心理干预热线和网络咨询服务平台。",
+        date: "February 21, 2020"
       }
     ]
   },
   list: [
+    {
+      cate: "ECOSYSTEM",
+      title: "简单心理入选国家卫健委指定医务人员心理援助网络平台",
+        link: "https://mp.weixin.qq.com/s/HBeC2vaFhBOpcfqufe3Euw",
+        source: "长岭资本",
+        abstract:
+          "长岭资本在A轮投资的国内最大互联网心理咨询平台——简单心理，作为唯一一家民营机构入选卫健委指定的11家心理干预热线和网络咨询服务平台。",
+        date: "February 21, 2020"
+    },
     {
       cate: "ECOSYSTEM",
       title: "复工第一周：我们在这里，我们在一起！",
