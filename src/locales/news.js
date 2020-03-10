@@ -78,6 +78,7 @@ window.newsData = {
         cate: "SHARING",
         title: "营收一年涨一亿！“退休俱乐部”获数千万融资",
         link: "https://mp.weixin.qq.com/s/2X07_jsoUAuTISMwT_YKNg",
+        source: "长岭资本",
         abstract:
           "未来几年是中国老年行业快速发展，市场创新创业生态高度活跃的时期。“老龄化消费(Aging Consumer)”是长岭资本专注的5大核心投资领域之一，此次对于“退休俱乐部”的投资是长岭资本在这一领域中的再一次布局，以下文章转载自《每日经济新闻》的专题报道，与大家一同分享长岭资本对于老龄化消费领域的“市场变化、“创业与投资机会”的观察。",
         date: "March 10, 2020"
