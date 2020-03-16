@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "简单心理入选国家卫健委指定医务人员心理援助网络平台",
-        link: "https://mp.weixin.qq.com/s/HBeC2vaFhBOpcfqufe3Euw",
+        title: "望石智慧完成近千万美元A轮融资，致力帮助创新药企加速早期研发",
+        link: "https://mp.weixin.qq.com/s/dxmLUm6dRJULyS87gUQAMA",
         abstract:
-          "长岭资本在A轮投资的国内最大互联网心理咨询平台——简单心理，作为唯一一家民营机构入选卫健委指定的11家心理干预热线和网络咨询服务平台。",
-        date: "February 21, 2020"
+          "3月16日，北京望石智慧科技有限公司（以下简称“望石智慧”）宣布，公司近期已完成近千万美元的A轮融资，由长岭资本领投，线性资本跟投。公司将进一步优化望石智慧AI技术平台在新药研发中的应用，丰富数据库资源，推进战略合作与业务拓展，继续增强公司研发团队建设。",
+        date: "March 16, 2020"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "简单心理入选国家卫健委指定医务人员心理援助网络平台",
-        link: "https://mp.weixin.qq.com/s/HBeC2vaFhBOpcfqufe3Euw",
+        title: "望石智慧完成近千万美元A轮融资，致力帮助创新药企加速早期研发",
+        link: "https://mp.weixin.qq.com/s/dxmLUm6dRJULyS87gUQAMA",
         abstract:
-          "长岭资本在A轮投资的国内最大互联网心理咨询平台——简单心理，作为唯一一家民营机构入选卫健委指定的11家心理干预热线和网络咨询服务平台。",
-        date: "February 21, 2020"
+          "3月16日，北京望石智慧科技有限公司（以下简称“望石智慧”）宣布，公司近期已完成近千万美元的A轮融资，由长岭资本领投，线性资本跟投。公司将进一步优化望石智慧AI技术平台在新药研发中的应用，丰富数据库资源，推进战略合作与业务拓展，继续增强公司研发团队建设。",
+        date: "March 16, 2020"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "望石智慧完成近千万美元A轮融资，致力帮助创新药企加速早期研发",
+        link: "https://mp.weixin.qq.com/s/dxmLUm6dRJULyS87gUQAMA",
+        source: "长岭资本",
+        abstract:
+          "3月16日，北京望石智慧科技有限公司（以下简称“望石智慧”）宣布，公司近期已完成近千万美元的A轮融资，由长岭资本领投，线性资本跟投。公司将进一步优化望石智慧AI技术平台在新药研发中的应用，丰富数据库资源，推进战略合作与业务拓展，继续增强公司研发团队建设。",
+        date: "March 16, 2020"
+      },
     {
         cate: "SHARING",
         title: "营收一年涨一亿！“退休俱乐部”获数千万融资",
