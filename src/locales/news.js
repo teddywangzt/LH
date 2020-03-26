@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本与多家长岭系企业参加第38届摩根大通医疗年会",
-        link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
+          "长岭资本获评2020医疗健康投资卓悦榜“年度医疗健康投资人”与“智慧医疗最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/XkL-XuL1wJZSZEjM6DOCBA",
         abstract:
-          "2020年1月13-16日，第38届摩根大通医疗年会在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
-        date: "January 17, 2020"
+          "北京时间3月25日，2020年“第四届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度智慧医疗最佳投资机构”奖项，同时长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资人”。",
+        date: "March 26, 2020"
       }, 
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-         "长岭资本与多家长岭系企业参加第38届摩根大通医疗年会",
-        link: "https://mp.weixin.qq.com/s/Vz5gKw4JwG9Lx4p1dx8qww",
+         "长岭资本获评2020医疗健康投资卓悦榜“年度医疗健康投资人”与“智慧医疗最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/XkL-XuL1wJZSZEjM6DOCBA",
         abstract:
-          "2020年1月13-16日，第38届摩根大通医疗年会在美国旧金山隆重举行。长岭资本管理合伙人蒋晓冬先生受邀作为论坛嘉宾参与了名为“VC Investors”的圆桌论坛，长岭系两家被投企业，零氪科技与MORE Health爱医传递也受邀参会并在会议期间展示了各自的研究成果与创新产品。",
-        date: "January 17, 2020"
+          "北京时间3月25日，2020年“第四届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度智慧医疗最佳投资机构”奖项，同时长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资人”。",
+        date: "March 26，2020"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+     {
+        cate: "NEWS",
+        title:
+         "长岭资本获评2020医疗健康投资卓悦榜“年度医疗健康投资人”与“智慧医疗最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/XkL-XuL1wJZSZEjM6DOCBA",
+        source: "长岭资本",
+        abstract:
+          "北京时间3月25日，2020年“第四届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度智慧医疗最佳投资机构”奖项，同时长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资人”。",
+        date: "March 26，2020"
+      },
     {
         cate: "ECOSYSTEM",
         title: "望石智慧完成近千万美元A轮融资，致力帮助创新药企加速早期研发",
