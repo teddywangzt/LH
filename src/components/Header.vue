@@ -161,6 +161,11 @@ export default {
         background-position: 5% center;
       }
     }
+    &.idx-4 {
+      @media all and (max-width: 1366px) {
+        background-position: 34% center;
+      }
+    }
     text-align: center;
     color: #fff;
     h1 {
