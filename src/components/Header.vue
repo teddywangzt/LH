@@ -151,17 +151,17 @@ export default {
     @media all and (max-width: 1366px) {
       background-position: center;
     }
-    &.idx-1 {
+    &.idx-3 {
       @media all and (max-width: 1366px) {
         background-position: 35% center;
       }
     }
-    &.idx-2 {
+    &.idx-4 {
       @media all and (max-width: 1366px) {
         background-position: 5% center;
       }
     }
-    &.idx-4 {
+    &.idx-2 {
       @media all and (max-width: 1366px) {
         background-position: 34% center;
       }
