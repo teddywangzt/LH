@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本获评2020医疗健康投资卓悦榜“年度医疗健康投资人”与“智慧医疗最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/XkL-XuL1wJZSZEjM6DOCBA",
+          "“亚太医疗：驭势而动”： 长岭资本参加2020 亚洲并购论坛",
+        link: "https://mp.weixin.qq.com/s/uw0gPgK6uogCelRroj5P7w",
         abstract:
-          "北京时间3月25日，2020年“第四届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度智慧医疗最佳投资机构”奖项，同时长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资人”。",
-        date: "March 26, 2020"
+          "2020年8月18日~20日，2020 Mergermarket亚洲并购论坛通过在线虚拟论坛的形式举办。此次虚拟论坛重点讨论了疫情后的亚洲并购市场、聚焦中国业务的挑战与机遇，新环境下的“科技”与“医疗”两大最有潜力的投资领域相关",
+        date: "August 24, 2020"
       }, 
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-         "长岭资本获评2020医疗健康投资卓悦榜“年度医疗健康投资人”与“智慧医疗最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/XkL-XuL1wJZSZEjM6DOCBA",
+         "“亚太医疗：驭势而动”： 长岭资本参加2020 亚洲并购论坛",
+        link: "https://mp.weixin.qq.com/s/uw0gPgK6uogCelRroj5P7w",
         abstract:
-          "北京时间3月25日，2020年“第四届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度智慧医疗最佳投资机构”奖项，同时长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资人”。",
-        date: "March 26，2020"
+           "2020年8月18日~20日，2020 Mergermarket亚洲并购论坛通过在线虚拟论坛的形式举办。此次虚拟论坛重点讨论了疫情后的亚洲并购市场、聚焦中国业务的挑战与机遇，新环境下的“科技”与“医疗”两大最有潜力的投资领域相关",
+        date: "August 24，2020"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,15 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "NEWS",
+        title:"“亚太医疗：驭势而动”： 长岭资本参加2020 亚洲并购论坛",
+        link: "https://mp.weixin.qq.com/s/uw0gPgK6uogCelRroj5P7w",
+        source: "长岭资本",
+        abstract:
+           "2020年8月18日~20日，2020 Mergermarket亚洲并购论坛通过在线虚拟论坛的形式举办。此次虚拟论坛重点讨论了疫情后的亚洲并购市场、聚焦中国业务的挑战与机遇，新环境下的“科技”与“医疗”两大最有潜力的投资领域相关",
+        date: "August 24，2020"
+      },
     {
         cate: "ECOSYSTEM",
         title: "AI药物研发唯一入选企业，望石智慧获评“2020医疗新势力十强”",
