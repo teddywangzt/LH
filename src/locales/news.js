@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "投资人说丨长岭资本蒋晓冬：用户思维、创新视角、满足需求的老年项目更吸引我们",
-        link: "https://mp.weixin.qq.com/s/o6Oecp_1QHZ2-pED3ElWFA",
+          "疫后老年行业创业公司收入增长100%，背后蕴藏的供给侧改革关键",
+        link: "https://mp.weixin.qq.com/s/0sn7nD_YOWfuLePtvnZOTA",
         abstract:
-          "老龄化消费是长岭资本专注的5大核心投资领域之一。2020年10月15日，国内首家专注于老年行业的综合服务平台AgeClub将在上海举办“第三届中国老年产业商业创新大会”，AgeClub记者团队对大会演讲嘉宾-长岭资本管理合伙人蒋晓冬进行了会前采访，了解长岭资本接下来将如何投资布局老年行业，疫情将给老年行业带来了哪些新变化、新机会。",
-        date:"September 11, 2020"
+          "老龄化消费是长岭资本核心投资领域之一。10月15日，AgeClub在上海成功举办了ABI2021第三届中国老年产业商业创新大会，长岭资本管理合伙人蒋晓冬在会上做了《为了健康幸福的百岁人生》主题演讲。",
+        date:"October 30, 2020"
       },
       {
         cate: "长岭分享",
@@ -49,11 +49,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "投资人说丨长岭资本蒋晓冬：用户思维、创新视角、满足需求的老年项目更吸引我们",
-        link: "https://mp.weixin.qq.com/s/o6Oecp_1QHZ2-pED3ElWFA",
+          "疫后老年行业创业公司收入增长100%，背后蕴藏的供给侧改革关键",
+        link: "https://mp.weixin.qq.com/s/0sn7nD_YOWfuLePtvnZOTA",
         abstract:
-          "老龄化消费是长岭资本专注的5大核心投资领域之一。2020年10月15日，国内首家专注于老年行业的综合服务平台AgeClub将在上海举办“第三届中国老年产业商业创新大会”，AgeClub记者团队对大会演讲嘉宾-长岭资本管理合伙人蒋晓冬进行了会前采访，了解长岭资本接下来将如何投资布局老年行业，疫情将给老年行业带来了哪些新变化、新机会。",
-        date:"September 11, 2020"
+          "老龄化消费是长岭资本核心投资领域之一。10月15日，AgeClub在上海成功举办了ABI2021第三届中国老年产业商业创新大会，长岭资本管理合伙人蒋晓冬在会上做了《为了健康幸福的百岁人生》主题演讲。",
+        date:"October 30, 2020"
       },
       {
         cate: "SHARING",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "PERSPECTIVES",
+        title:
+          "疫后老年行业创业公司收入增长100%，背后蕴藏的供给侧改革关键",
+        link: "https://mp.weixin.qq.com/s/0sn7nD_YOWfuLePtvnZOTA",
+        source:"长岭资本",
+        abstract:
+          "老龄化消费是长岭资本核心投资领域之一。10月15日，AgeClub在上海成功举办了ABI2021第三届中国老年产业商业创新大会，长岭资本管理合伙人蒋晓冬在会上做了《为了健康幸福的百岁人生》主题演讲。",
+        date:"October 30, 2020"
+      },
     {
         cate: "ECOSYSTEM",
         title: "优复连锁康复门诊完成5000万元B轮融资，长岭资本领投、经纬中国跟投",
