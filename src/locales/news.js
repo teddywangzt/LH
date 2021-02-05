@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "优复连锁康复门诊完成5000万元B轮融资，长岭资本领投、经纬中国跟投",
-        link: "https://mp.weixin.qq.com/s/h7QNhtOcbIYMEiYe2R33eQ",
+        title: "东方启音完成C1轮融资，长岭持续加码",
+        link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
         abstract:
-          "新型医疗服务是长岭资本核心投资领域之一。对于此次投资优复门诊，长岭资本管理合伙人蒋晓冬告诉动脉网：“随着国民的生活质量提高，运动医学与骨科康复服务的需求日益增长，新的支付方式、用户群体和新的消费习惯也在催生行业的变革。因此，长岭资本十分看好运动康复领域的发展和消费需求的成熟。",
-        date: "October 9, 2020"
+          "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
+        date: "February 5, 2021"
       }
     ],
     en: [
@@ -65,15 +65,23 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "优复连锁康复门诊完成5000万元B轮融资，长岭资本领投、经纬中国跟投",
-        link: "https://mp.weixin.qq.com/s/h7QNhtOcbIYMEiYe2R33eQ",
+        title: "东方启音完成C1轮融资，长岭持续加码",
+        link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
         abstract:
-          "新型医疗服务是长岭资本核心投资领域之一。对于此次投资优复门诊，长岭资本管理合伙人蒋晓冬告诉动脉网：“随着国民的生活质量提高，运动医学与骨科康复服务的需求日益增长，新的支付方式、用户群体和新的消费习惯也在催生行业的变革。因此，长岭资本十分看好运动康复领域的发展和消费需求的成熟。",
-        date: "October 9, 2020"
+          "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
+        date: "February 5, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "东方启音完成C1轮融资，长岭持续加码",
+        link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
+        abstract:
+          "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
+        date: "February 5, 2021"
+      },
     {
         cate: "PERSPECTIVES",
         title:
