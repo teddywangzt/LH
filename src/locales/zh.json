@@ -288,7 +288,7 @@
         "text": "固生堂中医：中国最大中医连锁集团"
       },
       {
-        "picture": "./static/image/company-logo/02.png",
+        "picture": "./static/image/company-logo/hjy.png",
         "type": "新型医疗服务",
         "text": "海吉亚医疗：中国最大民营医院集团"
       },
@@ -296,6 +296,11 @@
         "picture": "./static/image/company-logo/03.png",
         "type": "新型医疗服务",
         "text": "东方启音：言语治疗和自闭症康复机构"
+      },
+      {
+        "picture": "./static/image/company-logo/yfmz.png",
+        "type": "新型医疗服务",
+        "text": "优复门诊：骨科与运动康复连锁医疗机构"
       },
       {
         "picture": "./static/image/company-logo/04.png",
@@ -313,6 +318,11 @@
         "text": "简单心理：中国最大在线心理健康服务平台"
       },
       {
+        "picture": "./static/image/company-logo/wszh.png",
+        "type": "新医疗科技",
+        "text": "望石智慧：人工智能新药研发商"
+      },
+      {
         "picture": "./static/image/company-logo/07.png",
         "type": "新医疗基础设施",
         "text": "爱牙库：中国最大齿科耗材供应平台"
@@ -326,6 +336,11 @@
         "picture": "./static/image/company-logo/16.png",
         "type": "新医疗基础设施",
         "text": "动脉网：医疗领域的专业服务机构"
+      },
+      {
+        "picture": "./static/image/company-logo/ykym.png",
+        "type": "新医疗基础设施",
+        "text": "云开亚美：中国领先的慢特疾病综合服务平台"
       },
       {
         "picture": "./static/image/company-logo/10.png",
@@ -343,6 +358,11 @@
         "text": "怡脂：首家专注塑形的医疗美容机构"
       },
       {
+        "picture": "./static/image/company-logo/jmjk.png",
+        "type": "大健康消费",
+        "text": "若米健康：新型糖尿病治疗与健康管理公司"
+      },
+      {
         "picture": "./static/image/company-logo/15.png",
         "type": "老龄化消费",
         "text": "银发壹族：专注老年行业新媒体"
@@ -356,6 +376,11 @@
         "picture": "./static/image/company-logo/17.png",
         "type": "老龄化消费",
         "text": "退休俱乐部：中国最大的中老年电视媒体平台"
+      },
+      {
+        "picture": "./static/image/company-logo/ltz.png",
+        "type": "老龄化消费",
+        "text": "乐退族：专注老年文化娱乐的社交媒体"
       }
     ]
   },
