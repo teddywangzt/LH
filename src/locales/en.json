@@ -34,11 +34,6 @@
         "image": "./static/image/head/hd-2-0118.jpeg",
         "title": "",
         "slogan": ""
-      },
-      {
-        "image": "./static/image/head/hd-3-0120.jpeg",
-        "title": "",
-        "slogan": ""
       }
     ]
   },
@@ -288,7 +283,7 @@
         "text": "GST Clinics: No.1 TCM clinic operator"
       },
       {
-        "picture": "./static/image/company-logo/02.png",
+        "picture": "./static/image/company-logo/hjy.png",
         "type": "HEALTHCARE SERVICES",
         "text": "Hygeia Medical: No.1 private operator of cancer hospitals and clinics"
       },
@@ -296,6 +291,11 @@
         "picture": "./static/image/company-logo/03.png",
         "type": "HEALTHCARE SERVICES",
         "text": "Orient Speech Therapy: Speech therapy and autism rehab center"
+      },
+      {
+        "picture": "./static/image/company-logo/yfmz.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "UP Clinic: Clinic for sports medicine and orthopedic rehab"
       },
       {
         "picture": "./static/image/company-logo/04.png",
@@ -313,6 +313,11 @@
         "text": "Simple Psychology: Online marketplace for psychotherapy"
       },
       {
+        "picture": "./static/image/company-logo/wszh.png",
+        "type": "HEALTHCARE TECHNOLOGY",
+        "text": "Stonewise: AI for drug discovery"
+      },
+      {
         "picture": "./static/image/company-logo/07.png",
         "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
         "text": "Aiyaku: Largest dental e-commerce platform"
@@ -326,6 +331,11 @@
         "picture": "./static/image/company-logo/16.png",
         "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
         "text": "VCbeat: Top media platform focused on healthcare"
+      },
+      {
+        "picture": "./static/image/company-logo/yhym.png",
+        "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
+        "text": "InCarey: Leading online hospital for the chronically ill"
       },
       {
         "picture": "./static/image/company-logo/10.png",
@@ -343,6 +353,11 @@
         "text": "EasySculpt: Body shaping for the masses"
       },
       {
+        "picture": "./static/image/company-logo/jmjk.png",
+        "type": "CONSUMER HEALTH & WELLNESS",
+        "text": "Ruomi: Healthy food for a low carb life"
+      },
+      {
         "picture": "./static/image/company-logo/15.png",
         "type": "AGING CONSUMER",
         "text": "AgeClub: New media focused on aging consumer"
@@ -356,6 +371,11 @@
         "picture": "./static/image/company-logo/17.png",
         "type": "AGING CONSUMER",
         "text": "Retirement Club: China's larget TV media platform for seniors"
+      },
+      {
+        "picture": "./static/image/company-logo/ltz.png",
+        "type": "AGING CONSUMER",
+        "text": "Happy Retire: Social media for seniors"
       }
     ]
   },
