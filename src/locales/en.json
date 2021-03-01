@@ -49,7 +49,7 @@
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
       "CONSUMER HEALTH & WELLNESS",
-      "AGING CONSUMER"
+      "NEW AGING"
     ]
   },
   "about": {
@@ -274,7 +274,7 @@
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
       "CONSUMER HEALTH & WELLNESS",
-      "AGING CONSUMER"
+      "NEW AGING"
     ],
     "companies": [
       {
@@ -359,22 +359,22 @@
       },
       {
         "picture": "./static/image/company-logo/15.png",
-        "type": "AGING CONSUMER",
+        "type": "NEW AGING",
         "text": "AgeClub: New media focused on aging consumer"
       },
       {
         "picture": "./static/image/company-logo/13.png",
-        "type": "AGING CONSUMER",
+        "type": "NEW AGING",
         "text": "Happy Prime: Leading private senior university"
       },
       {
         "picture": "./static/image/company-logo/17.png",
-        "type": "AGING CONSUMER",
+        "type": "NEW AGING",
         "text": "Retirement Club: China's larget TV media platform for seniors"
       },
       {
         "picture": "./static/image/company-logo/ltz-1.png",
-        "type": "AGING CONSUMER",
+        "type": "NEW AGING",
         "text": "Happy Retire: Social media for seniors"
       }
     ]
@@ -404,7 +404,7 @@
     "moretext": "MORE NEWS"
   },
   "footer": {
-    "copyright": "© 2020 Long Hill Capital. All Rights Reserved.",
+    "copyright": "© 2021 Long Hill Capital. All Rights Reserved.",
     "shanghai": {
       "name": "SHANGHAI OFFICE",
       "addr": ["UNIT 3101, PLAZA 66, TOWER 2", "1266 NANJING WEST ROAD 200040"]
