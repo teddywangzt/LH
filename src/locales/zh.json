@@ -45,11 +45,11 @@
       "在<em>大健康</em>与<em>老龄化</em>领域，长岭资本致力于投资技术驱动的商业模式创新，在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。长岭团队合计拥有数十年的投资与运营经验，在我们专注的5个核心投资领域中不断打造行业领军企业。"
     ],
     "cates": [
-      "新型医疗服务",
+      "新医疗健康服务",
       "新医疗科技",
       "新医疗基础设施",
-      "大健康消费",
-      "老龄化消费"
+      "健康新消费",
+      "新型老龄化"
     ]
   },
   "about": {
@@ -270,31 +270,31 @@
     "title": "投资组合",
     "companyTypes": [
       "全部公司",
-      "新型医疗服务",
+      "新医疗健康服务",
       "新医疗科技",
       "新医疗基础设施",
-      "大健康消费",
-      "老龄化消费"
+      "健康新消费",
+      "新型老龄化"
     ],
     "companies": [
       {
         "picture": "./static/image/company-logo/01.png",
-        "type": "新型医疗服务",
+        "type": "新医疗健康服务",
         "text": "固生堂中医：中国最大中医连锁集团"
       },
       {
         "picture": "./static/image/company-logo/hjy-1.png",
-        "type": "新型医疗服务",
+        "type": "新医疗健康服务",
         "text": "海吉亚医疗：中国最大民营医院集团"
       },
       {
         "picture": "./static/image/company-logo/03.png",
-        "type": "新型医疗服务",
+        "type": "新医疗健康服务",
         "text": "东方启音：言语治疗和自闭症康复机构"
       },
       {
         "picture": "./static/image/company-logo/yfmz-1.png",
-        "type": "新型医疗服务",
+        "type": "新医疗健康服务",
         "text": "优复门诊：骨科与运动康复连锁医疗机构"
       },
       {
@@ -339,42 +339,42 @@
       },
       {
         "picture": "./static/image/company-logo/10.png",
-        "type": "大健康消费",
+        "type": "健康新消费",
         "text": "彩虹医生：消费医疗的互联网+"
       },
       {
         "picture": "./static/image/company-logo/12.png",
-        "type": "大健康消费",
+        "type": "健康新消费",
         "text": "颈医卫：专业脊椎健康养护机构"
       },
       {
         "picture": "./static/image/company-logo/11.png",
-        "type": "大健康消费",
+        "type": "健康新消费",
         "text": "怡脂：首家专注塑形的医疗美容机构"
       },
       {
         "picture": "./static/image/company-logo/rmjk-1.png",
-        "type": "大健康消费",
+        "type": "健康新消费",
         "text": "若米健康：新型糖尿病治疗与健康管理公司"
       },
       {
         "picture": "./static/image/company-logo/15.png",
-        "type": "老龄化消费",
+        "type": "新型老龄化",
         "text": "银发壹族：专注老年行业新媒体"
       },
       {
         "picture": "./static/image/company-logo/13.png",
-        "type": "老龄化消费",
+        "type": "新型老龄化",
         "text": "美好盛年：全国领先的民营老年大学"
       },
       {
         "picture": "./static/image/company-logo/17.png",
-        "type": "老龄化消费",
+        "type": "新型老龄化",
         "text": "退休俱乐部：中国最大的中老年电视媒体平台"
       },
       {
         "picture": "./static/image/company-logo/ltz-1.png",
-        "type": "老龄化消费",
+        "type": "新型老龄化",
         "text": "乐退族：专注老年文化娱乐的社交媒体"
       }
     ]
@@ -409,7 +409,7 @@
     "moretext": "更多新闻"
   },
   "footer": {
-    "copyright": "© 2020 长岭资本版权所有",
+    "copyright": "© 2021 长岭资本版权所有",
     "shanghai": {
       "name": "上海办公室",
       "addr": ["静安区南京西路1266号","恒隆广场办公楼二期3101室，邮编：200040"]
