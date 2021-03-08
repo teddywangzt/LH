@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "东方启音完成C1轮融资，长岭持续加码",
-        link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
+        title: "致敬创业“她力量”：世界因为你们更美丽",
+        link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
         abstract:
-          "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
-        date: "February 5, 2021"
+          "越来越多的中国女性正走上创业的舞台，她们集美丽与智慧于一身，以巨大的勇气和坚韧改变着商业世界的游戏规则。她们敢于表现自己，有激情、有主张，善于捕捉机遇，有眼光、有执行力。她们用最有力的行动证明创业不只是男性的舞台，女性也可以大放异彩。",
+        date: "March 8, 2021"
       }
     ],
     en: [
@@ -65,19 +65,38 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "东方启音完成C1轮融资，长岭持续加码",
-        link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
+        title: "致敬创业“她力量”：世界因为你们更美丽",
+        link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
         abstract:
-          "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
-        date: "February 5, 2021"
+          "越来越多的中国女性正走上创业的舞台，她们集美丽与智慧于一身，以巨大的勇气和坚韧改变着商业世界的游戏规则。她们敢于表现自己，有激情、有主张，善于捕捉机遇，有眼光、有执行力。她们用最有力的行动证明创业不只是男性的舞台，女性也可以大放异彩。",
+        date: "March 8, 2021"
       }
     ]
   },
   list: [
+     {
+        cate: "ECOSYSTEM",
+        title: "致敬创业“她力量”：世界因为你们更美丽",
+        link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
+        source:"长岭资本",
+        abstract:
+          "越来越多的中国女性正走上创业的舞台，她们集美丽与智慧于一身，以巨大的勇气和坚韧改变着商业世界的游戏规则。她们敢于表现自己，有激情、有主张，善于捕捉机遇，有眼光、有执行力。她们用最有力的行动证明创业不只是男性的舞台，女性也可以大放异彩。",
+        date: "March 8, 2021"
+      },
+     {
+        cate: "ECOSYSTEM",
+        title: "阿里健康战略投资零氪科技，共建中国最大互联网肿瘤医院",
+        link: "https://mp.weixin.qq.com/s/fjjL9IOmQURNJN8DDyKm6g",
+        source:"长岭资本",
+        abstract:
+          "近日，零氪科技宣布获得阿里健康战略投资。双方将共建以患者为中心，以技术创新为驱动的中国肿瘤患者全疾病周期服务平台，积极探索线上肿瘤专科药品创新服务模式，打造线上线下的肿瘤专科医疗服务阵地，为肿瘤患者提供覆盖全疾病周期、从医到药的优质医疗健康服务。",
+        date: "March 5, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: "东方启音完成C1轮融资，长岭持续加码",
         link: "https://mp.weixin.qq.com/s/Rb2ytrJJxKJO7SuUHO36og",
+        source:"长岭资本",
         abstract:
           "近日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C1轮2300万美金融资。该轮融资由千骥资本领投，老股东长岭资本、北极光创投等持续加码，泰合资本担任独家财务顾问。",
         date: "February 5, 2021"
