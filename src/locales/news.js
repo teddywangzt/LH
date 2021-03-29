@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "“亚太医疗：驭势而动”： 长岭资本参加2020 亚洲并购论坛",
-        link: "https://mp.weixin.qq.com/s/uw0gPgK6uogCelRroj5P7w",
+          "长岭资本斩获“年度医疗服务最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/FX_EbZKo-HjZnzOfb4ov7g",
         abstract:
-          "2020年8月18日~20日，2020 Mergermarket亚洲并购论坛通过在线虚拟论坛的形式举办。此次虚拟论坛重点讨论了疫情后的亚洲并购市场、聚焦中国业务的挑战与机遇，新环境下的“科技”与“医疗”两大最有潜力的投资领域相关",
-        date: "August 24, 2020"
+          "北京时间3月26日，2021年“第五届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度医疗服务最佳投资机构”奖项。长岭资本在大健康领域专注创新医疗服务和创新医疗科技投资，近年来每年在相关领域投资金额都近10亿元。",
+        date: "March 29, 2021"
       }, 
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-         "“亚太医疗：驭势而动”： 长岭资本参加2020 亚洲并购论坛",
-        link: "https://mp.weixin.qq.com/s/uw0gPgK6uogCelRroj5P7w",
+          "长岭资本斩获“年度医疗服务最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/FX_EbZKo-HjZnzOfb4ov7g",
         abstract:
-           "2020年8月18日~20日，2020 Mergermarket亚洲论坛通过在线虚拟论坛的形式举办。此次虚拟论坛重点讨论了疫情后的亚洲并购市场、聚焦中国业务的挑战与机遇，新环境下的“科技”与“医疗”两大最有潜力的投资领域相关",
-        date: "August 24，2020"
+          "北京时间3月26日，2021年“第五届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度医疗服务最佳投资机构”奖项。长岭资本在大健康领域专注创新医疗服务和创新医疗科技投资，近年来每年在相关领域投资金额都近10亿元。",
+        date: "March 29, 2021"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,7 +74,17 @@ window.newsData = {
     ]
   },
   list: [
-     {
+    {
+        cate: "NEWS",
+        title:
+          "长岭资本斩获“年度医疗服务最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/FX_EbZKo-HjZnzOfb4ov7g",
+        source:"长岭资本",
+        abstract:
+          "北京时间3月26日，2021年“第五届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度医疗服务最佳投资机构”奖项。长岭资本在大健康领域专注创新医疗服务和创新医疗科技投资，近年来每年在相关领域投资金额都近10亿元。",
+        date: "March 29, 2021"
+      }, 
+    {
         cate: "ECOSYSTEM",
         title: "致敬创业“她力量”：世界因为你们更美丽",
         link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
