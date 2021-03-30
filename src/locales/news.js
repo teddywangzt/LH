@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "致敬创业“她力量”：世界因为你们更美丽",
-        link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
+        title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
+        link: "https://mp.weixin.qq.com/s/di6NHv18rP8ohMXATraRoQ",
         abstract:
-          "越来越多的中国女性正走上创业的舞台，她们集美丽与智慧于一身，以巨大的勇气和坚韧改变着商业世界的游戏规则。她们敢于表现自己，有激情、有主张，善于捕捉机遇，有眼光、有执行力。她们用最有力的行动证明创业不只是男性的舞台，女性也可以大放异彩。",
-        date: "March 8, 2021"
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。",
+        date: "March 30, 2021"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "致敬创业“她力量”：世界因为你们更美丽",
-        link: "https://mp.weixin.qq.com/s/jlDv4bGfUtKzG7ye6Ee9Sw",
+        title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
+        link: "https://mp.weixin.qq.com/s/di6NHv18rP8ohMXATraRoQ",
         abstract:
-          "越来越多的中国女性正走上创业的舞台，她们集美丽与智慧于一身，以巨大的勇气和坚韧改变着商业世界的游戏规则。她们敢于表现自己，有激情、有主张，善于捕捉机遇，有眼光、有执行力。她们用最有力的行动证明创业不只是男性的舞台，女性也可以大放异彩。",
-        date: "March 8, 2021"
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。",
+        date: "March 30, 2021"
       }
     ]
   },
   list: [
+     {
+        cate: "ECOSYSTEM",
+        title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
+        link: "https://mp.weixin.qq.com/s/di6NHv18rP8ohMXATraRoQ",
+        source:"长岭资本",
+        abstract:
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。",
+        date: "March 30, 2021"
+      },
     {
         cate: "NEWS",
         title:
