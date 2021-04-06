@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本斩获“年度医疗服务最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/FX_EbZKo-HjZnzOfb4ov7g",
+          "长岭资本完成新一期超3亿美元基金募集",
+        link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
         abstract:
-          "北京时间3月26日，2021年“第五届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度医疗服务最佳投资机构”奖项。长岭资本在大健康领域专注创新医疗服务和创新医疗科技投资，近年来每年在相关领域投资金额都近10亿元。",
-        date: "March 29, 2021"
+          "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "April 6, 2021"
       }, 
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-          "长岭资本斩获“年度医疗服务最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/FX_EbZKo-HjZnzOfb4ov7g",
+          "长岭资本完成新一期超3亿美元基金募集",
+        link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
         abstract:
-          "北京时间3月26日，2021年“第五届医疗健康投资卓悦榜”榜单正式发布。长岭资本荣获“年度医疗服务最佳投资机构”奖项。长岭资本在大健康领域专注创新医疗服务和创新医疗科技投资，近年来每年在相关领域投资金额都近10亿元。",
-        date: "March 29, 2021"
+          "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "April 6, 2021"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+     {
+        cate: "NEWS",
+        title: "长岭资本完成新一期超3亿美元基金募集",
+        link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
+        source:"长岭资本",
+        abstract:
+          "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "April 6, 2021""
+      },
+    {
      {
         cate: "ECOSYSTEM",
         title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
