@@ -81,9 +81,8 @@ window.newsData = {
         source:"长岭资本",
         abstract:
           "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
-        date: "April 6, 2021""
+        date: "April 6, 2021"
       },
-    {
      {
         cate: "ECOSYSTEM",
         title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
