@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "基层医疗机构疫情下危机四起，医疗SaaS企业给出这些“乘风破浪”方案",
-        link: "https://mp.weixin.qq.com/s/jGIoCUHZkvUiusycxUh7BA",
+        title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
+        link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
         abstract:
-          "新医疗科技是长岭资本专注的5大核心投资领域之一。长岭资本管理合伙人蒋晓冬认为，医疗SaaS的构建本质上是思路问题。无论从商业模式，还是从诊疗和服务的流程，亦或整个医疗机构的管理、效率的提升等，其逻辑就是将思路要变成一个可以量化、分解和管控的具体流程，SaaS是这种流程表现的一种具体形式而已。 ",
-        date: "July 31, 2020"
+          "吸引外界的目光，是因为这次募资的方式多少有些特别——虽然全球范围内新冠疫情仍在蔓延，但是长岭资本通过ZOOM“云融资”方式逆势超额完成了资金募集，总募集资金超3亿美金。而整体募集用时，从去年9月启动到3月中旬完成，仅花费了不到6个月的时间。",
+        date: "April 12, 2021"
       },
       {
         cate: "长岭生态",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-        title: "基层医疗机构疫情下危机四起，医疗SaaS企业给出这些“乘风破浪”方案",
-        link: "https://mp.weixin.qq.com/s/jGIoCUHZkvUiusycxUh7BA",
+        title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
+        link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
         abstract:
-          "新医疗科技是长岭资本专注的5大核心投资领域之一。长岭资本管理合伙人蒋晓冬认为，医疗SaaS的构建本质上是思路问题。无论从商业模式，还是从诊疗和服务的流程，亦或整个医疗机构的管理、效率的提升等，其逻辑就是将思路要变成一个可以量化、分解和管控的具体流程，SaaS是这种流程表现的一种具体形式而已。 ",
-        date: "July 31, 2020"
+          "吸引外界的目光，是因为这次募资的方式多少有些特别——虽然全球范围内新冠疫情仍在蔓延，但是长岭资本通过ZOOM“云融资”方式逆势超额完成了资金募集，总募集资金超3亿美金。而整体募集用时，从去年9月启动到3月中旬完成，仅花费了不到6个月的时间。",
+        date: "April 12, 2021"
       },
       {
         cate: "ECOSYSTEM",
@@ -74,7 +74,16 @@ window.newsData = {
     ]
   },
   list: [
-     {
+   {
+        cate: "SHARING",
+        title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
+        link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
+        source:"长岭资本",
+        abstract:
+          "吸引外界的目光，是因为这次募资的方式多少有些特别——虽然全球范围内新冠疫情仍在蔓延，但是长岭资本通过ZOOM“云融资”方式逆势超额完成了资金募集，总募集资金超3亿美金。而整体募集用时，从去年9月启动到3月中旬完成，仅花费了不到6个月的时间。",
+        date: "April 12, 2021"
+     },
+    {
         cate: "NEWS",
         title: "长岭资本完成新一期超3亿美元基金募集",
         link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
