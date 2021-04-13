@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
-        link: "https://mp.weixin.qq.com/s/di6NHv18rP8ohMXATraRoQ",
+        title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
+        link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
         abstract:
-          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。",
-        date: "March 30, 2021"
+          "近日，望石智慧宣布完成了B+轮和B轮融资，融资总额一亿美元，分别由大湾区共同家园发展基金、光速中国、君联资本领投。老股东长岭资本、SIG海纳亚洲、高瓴创投等共同参与。",
+        date: "April 13, 2021"
       }
     ],
     en: [
@@ -65,16 +65,25 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "海吉亚发布上市后首份亮丽年报，净利润大幅增长",
-        link: "https://mp.weixin.qq.com/s/di6NHv18rP8ohMXATraRoQ",
+        title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
+        link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
         abstract:
-          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。",
-        date: "March 30, 2021"
+          "近日，望石智慧宣布完成了B+轮和B轮融资，融资总额一亿美元，分别由大湾区共同家园发展基金、光速中国、君联资本领投。老股东长岭资本、SIG海纳亚洲、高瓴创投等共同参与。",
+        date: "April 13, 2021"
       }
     ]
   },
   list: [
    {
+        cate: "ECOSYSTEM",
+        title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
+        link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
+        source:"长岭资本",
+        abstract:
+          "近日，望石智慧宣布完成了B+轮和B轮融资，融资总额一亿美元，分别由大湾区共同家园发展基金、光速中国、君联资本领投。老股东长岭资本、SIG海纳亚洲、高瓴创投等共同参与。",
+        date: "April 13, 2021"
+      },
+    {
         cate: "SHARING",
         title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
         link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
