@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
-        link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
+        title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
+        link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
         abstract:
-          "吸引外界的目光，是因为这次募资的方式多少有些特别——虽然全球范围内新冠疫情仍在蔓延，但是长岭资本通过ZOOM“云融资”方式逆势超额完成了资金募集，总募集资金超3亿美金。而整体募集用时，从去年9月启动到3月中旬完成，仅花费了不到6个月的时间。",
-        date: "April 12, 2021"
+          "新冠疫情持续影响全球，全球宏观经济发展不确定性加剧，但这好像并未影响长岭资本——AgeClub近日获悉，这家持续投资老年赛道和医疗赛道的机构，通过“云融资”的方式，逆势超额完成了第三期美元募资，总金额超过3亿美元。",
+        date: "April 15, 2021"
       },
       {
         cate: "长岭生态",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-        title: "探秘长岭资本：4年募资60亿，低调的创新医疗服务头部基金终于浮出水面",
-        link: "https://mp.weixin.qq.com/s/A1_LdGgUgWFkKJV4EguoVg",
+        title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
+        link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
         abstract:
-          "吸引外界的目光，是因为这次募资的方式多少有些特别——虽然全球范围内新冠疫情仍在蔓延，但是长岭资本通过ZOOM“云融资”方式逆势超额完成了资金募集，总募集资金超3亿美金。而整体募集用时，从去年9月启动到3月中旬完成，仅花费了不到6个月的时间。",
-        date: "April 12, 2021"
+          "新冠疫情持续影响全球，全球宏观经济发展不确定性加剧，但这好像并未影响长岭资本——AgeClub近日获悉，这家持续投资老年赛道和医疗赛道的机构，通过“云融资”的方式，逆势超额完成了第三期美元募资，总金额超过3亿美元。",
+        date: "April 15, 2021"
       },
       {
         cate: "ECOSYSTEM",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
    {
+        cate: "SHARING",
+        title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
+        link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
+        source:"长岭资本",
+        abstract:
+          "新冠疫情持续影响全球，全球宏观经济发展不确定性加剧，但这好像并未影响长岭资本——AgeClub近日获悉，这家持续投资老年赛道和医疗赛道的机构，通过“云融资”的方式，逆势超额完成了第三期美元募资，总金额超过3亿美元。",
+        date: "April 15, 2021"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
         link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
