@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本完成新一期超3亿美元基金募集",
-        link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
+          "长岭斩获“年度医疗健康投资人”、“年度医疗服务投资机构”，11家被投企业问鼎“未来医疗100强”",
+        link: "https://mp.weixin.qq.com/s/q1b4cx0bouv8476YuQlWCg",
         abstract:
-          "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
-        date: "April 6, 2021"
+          "长岭资本获评2020-2021未来医疗100强·澎橙奖·年度医疗服务投资机构，长岭资本管理合伙人蒋晓冬先生获评2020-2021未来医疗100强·蔚澜奖·年度医疗健康投资人。",
+        date: "April 19, 2021"
       }, 
       {
         cate: "长岭观点",
@@ -38,14 +38,14 @@ window.newsData = {
     ],
     en: [
       {
-        cate: "NEWS",
+        cate: "NEW",
         title:
-          "长岭资本完成新一期超3亿美元基金募集",
-        link: "https://mp.weixin.qq.com/s/oY5BK3SfUl0jkJHF7tsUNg",
+          "长岭斩获“年度医疗健康投资人”、“年度医疗服务投资机构”，11家被投企业问鼎“未来医疗100强”",
+        link: "https://mp.weixin.qq.com/s/q1b4cx0bouv8476YuQlWCg",
         abstract:
-          "2021年4月6日————长岭资本(Long Hill Capital)宣布已于3月15日成功完成三期美元基金的最终募集，规模超过3亿美元。从成立至今4年多的时间里，长岭资本总共募集双币基金已达人民币60亿元。",
-        date: "April 6, 2021"
-      },
+          "长岭资本获评2020-2021未来医疗100强·澎橙奖·年度医疗服务投资机构，长岭资本管理合伙人蒋晓冬先生获评2020-2021未来医疗100强·蔚澜奖·年度医疗健康投资人。",
+        date: "April 19, 2021"
+      }, 
       {
         cate: "PERSPECTIVES",
         title:
@@ -75,6 +75,16 @@ window.newsData = {
   },
   list: [
    {
+        cate: "NEW",
+        title:
+          "长岭斩获“年度医疗健康投资人”、“年度医疗服务投资机构”，11家被投企业问鼎“未来医疗100强”",
+        link: "https://mp.weixin.qq.com/s/q1b4cx0bouv8476YuQlWCg",
+        source:"长岭资本",
+        abstract:
+          "长岭资本获评2020-2021未来医疗100强·澎橙奖·年度医疗服务投资机构，长岭资本管理合伙人蒋晓冬先生获评2020-2021未来医疗100强·蔚澜奖·年度医疗健康投资人。",
+        date: "April 19, 2021"
+      },
+    {
         cate: "SHARING",
         title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
         link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
