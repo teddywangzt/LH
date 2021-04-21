@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "疫后老年行业创业公司收入增长100%，背后蕴藏的供给侧改革关键",
-        link: "https://mp.weixin.qq.com/s/0sn7nD_YOWfuLePtvnZOTA",
+          "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
+        link: "https://mp.weixin.qq.com/s/W3Dw6zklGHgJtJWUuPsssA",
         abstract:
-          "老龄化消费是长岭资本核心投资领域之一。10月15日，AgeClub在上海成功举办了ABI2021第三届中国老年产业商业创新大会，长岭资本管理合伙人蒋晓冬在会上做了《为了健康幸福的百岁人生》主题演讲。",
-        date:"October 30, 2020"
+          "4月17日，在动脉网主办的未来医疗100强大会·VB100战略峰会上，长岭资本管理合伙人蒋晓冬作为下午场【计算未来：百强企业创新之道】首位演讲嘉宾，分享了《因为相信、所以看见：用创新服务重构未来医疗》的主题演讲。",
+        date:"April 21, 2021"
       },
       {
         cate: "长岭分享",
@@ -49,11 +49,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "疫后老年行业创业公司收入增长100%，背后蕴藏的供给侧改革关键",
-        link: "https://mp.weixin.qq.com/s/0sn7nD_YOWfuLePtvnZOTA",
+          "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
+        link: "https://mp.weixin.qq.com/s/W3Dw6zklGHgJtJWUuPsssA",
         abstract:
-          "老龄化消费是长岭资本核心投资领域之一。10月15日，AgeClub在上海成功举办了ABI2021第三届中国老年产业商业创新大会，长岭资本管理合伙人蒋晓冬在会上做了《为了健康幸福的百岁人生》主题演讲。",
-        date:"October 30, 2020"
+          "4月17日，在动脉网主办的未来医疗100强大会·VB100战略峰会上，长岭资本管理合伙人蒋晓冬作为下午场【计算未来：百强企业创新之道】首位演讲嘉宾，分享了《因为相信、所以看见：用创新服务重构未来医疗》的主题演讲。",
+        date:"April 21, 2021"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,16 @@ window.newsData = {
   },
   list: [
    {
+        cate: "PERSPECTIVES",
+        title:
+          "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
+        link: "https://mp.weixin.qq.com/s/W3Dw6zklGHgJtJWUuPsssA",
+        source:"长岭资本",
+        abstract:
+          "4月17日，在动脉网主办的未来医疗100强大会·VB100战略峰会上，长岭资本管理合伙人蒋晓冬作为下午场【计算未来：百强企业创新之道】首位演讲嘉宾，分享了《因为相信、所以看见：用创新服务重构未来医疗》的主题演讲。",
+        date:"April 21, 2021"
+      },
+    {
         cate: "NEW",
         title:
           "长岭斩获“年度医疗健康投资人”、“年度医疗服务投资机构”，11家被投企业问鼎“未来医疗100强”",
