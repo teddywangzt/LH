@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
-        link: "https://mp.weixin.qq.com/s/W3Dw6zklGHgJtJWUuPsssA",
+          "长岭资本蒋晓冬：在大健康和老龄化领域等待灰犀牛变猎豹",
+        link: "https://mp.weixin.qq.com/s/xH0RuECMuVNO4gSAQWU8YA",
         abstract:
-          "4月17日，在动脉网主办的未来医疗100强大会·VB100战略峰会上，长岭资本管理合伙人蒋晓冬作为下午场【计算未来：百强企业创新之道】首位演讲嘉宾，分享了《因为相信、所以看见：用创新服务重构未来医疗》的主题演讲。",
-        date:"April 21, 2021"
+          "在刚刚宣布新一期资金募集后，亿欧大健康在长岭资本的上海总部专访了蒋晓冬，他一开始就告诉我们长岭资本跟其他VC有不同之处，并将自己的逻辑比喻成驾驭“灰犀牛”风格，本质上是耐心和长期主义。",
+        date:"April 26, 2021"
       },
       {
         cate: "长岭分享",
@@ -49,11 +49,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
-        link: "https://mp.weixin.qq.com/s/W3Dw6zklGHgJtJWUuPsssA",
+          "长岭资本蒋晓冬：在大健康和老龄化领域等待灰犀牛变猎豹",
+        link: "https://mp.weixin.qq.com/s/xH0RuECMuVNO4gSAQWU8YA",
         abstract:
-          "4月17日，在动脉网主办的未来医疗100强大会·VB100战略峰会上，长岭资本管理合伙人蒋晓冬作为下午场【计算未来：百强企业创新之道】首位演讲嘉宾，分享了《因为相信、所以看见：用创新服务重构未来医疗》的主题演讲。",
-        date:"April 21, 2021"
+          "在刚刚宣布新一期资金募集后，亿欧大健康在长岭资本的上海总部专访了蒋晓冬，他一开始就告诉我们长岭资本跟其他VC有不同之处，并将自己的逻辑比喻成驾驭“灰犀牛”风格，本质上是耐心和长期主义。",
+        date:"April 26, 2021"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,17 @@ window.newsData = {
     ]
   },
   list: [
-   {
+    {
+        cate: "PERSPECTIVES",
+        title:
+          "长岭资本蒋晓冬：在大健康和老龄化领域等待灰犀牛变猎豹",
+        link: "https://mp.weixin.qq.com/s/xH0RuECMuVNO4gSAQWU8YA",
+        source:"长岭资本",
+        abstract:
+          "在刚刚宣布新一期资金募集后，亿欧大健康在长岭资本的上海总部专访了蒋晓冬，他一开始就告诉我们长岭资本跟其他VC有不同之处，并将自己的逻辑比喻成驾驭“灰犀牛”风格，本质上是耐心和长期主义。",
+        date:"April 26, 2021"
+      },
+    {
         cate: "PERSPECTIVES",
         title:
           "专访长岭资本蒋晓冬：未来十年，创新医疗服务如何发展？",
