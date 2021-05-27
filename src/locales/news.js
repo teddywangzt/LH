@@ -29,7 +29,8 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        title: 
+           "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
         link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
         abstract:
           "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
@@ -65,7 +66,8 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        title: 
+           "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
         link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
         abstract:
           "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
@@ -76,12 +78,13 @@ window.newsData = {
   list: [
     {
         cate: "ECOSYSTEM",
-        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        title: 
+           "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
         link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
         source:"长岭资本",
         abstract:
           "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
-        date: "May 27, 2021"
+        date:"May 27, 2021"
       },
     {
         cate: "PERSPECTIVES",
