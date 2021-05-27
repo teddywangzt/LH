@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
-        link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
+        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
         abstract:
-          "近日，望石智慧宣布完成了B+轮和B轮融资，融资总额一亿美元，分别由大湾区共同家园发展基金、光速中国、君联资本领投。老股东长岭资本、SIG海纳亚洲、高瓴创投等共同参与。",
-        date: "April 13, 2021"
+          "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
+        date: "May 27, 2021"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "「望石智慧」获一亿美元融资，双引擎加速AI制药产业化落地",
-        link: "https://mp.weixin.qq.com/s/sA6YWkKmkfSQGxibdKsWow",
+        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
         abstract:
-          "近日，望石智慧宣布完成了B+轮和B轮融资，融资总额一亿美元，分别由大湾区共同家园发展基金、光速中国、君联资本领投。老股东长岭资本、SIG海纳亚洲、高瓴创投等共同参与。",
-        date: "April 13, 2021"
+          "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
+        date: "May 27, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
+        link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
+        source:"长岭资本",
+        abstract:
+          "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
+        date: "May 27, 2021"
+      },
     {
         cate: "PERSPECTIVES",
         title:
