@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
-        link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
+           "【首发】A轮融资亿元！博斯腾科技认知症数字疗法解决方案，助力开启认知革命",
+        link: "https://mp.weixin.qq.com/s/AgG9-SUAjfFlBnu1cxMNEw",
         abstract:
-          "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
-        date: "May 27, 2021"
+          "针对认知症提供数字化筛查和训练干预，并成功商业化的公司——上海博斯腾网络科技有限公司（简称“博斯腾科技”）日前已完成了亿元人民币A轮融资。本轮融资由金沙江创投和博远资本领投，老股东长岭资本跟投。",
+        date: "June 1, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "SIG、长岭资本接连加注，望里科技用精神科数字疗法“探索人类大脑”",
-        link: "https://mp.weixin.qq.com/s/ZwVuqjZvhX1ULOUOhnspyA",
+           "【首发】A轮融资亿元！博斯腾科技认知症数字疗法解决方案，助力开启认知革命",
+        link: "https://mp.weixin.qq.com/s/AgG9-SUAjfFlBnu1cxMNEw",
         abstract:
-          "望里科技是国内为数不多的正面迎战精神类疾病核心症状改善难题的数字疗法企业，经过多年深耕，已在精神类疾病领域形成多元的产品管线布局，如抑郁、成瘾、PTSD等。",
-        date: "May 27, 2021"
+          "针对认知症提供数字化筛查和训练干预，并成功商业化的公司——上海博斯腾网络科技有限公司（简称“博斯腾科技”）日前已完成了亿元人民币A轮融资。本轮融资由金沙江创投和博远资本领投，老股东长岭资本跟投。",
+        date: "June 1, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】A轮融资亿元！博斯腾科技认知症数字疗法解决方案，助力开启认知革命",
+        link: "https://mp.weixin.qq.com/s/AgG9-SUAjfFlBnu1cxMNEw",
+        source:"长岭资本",
+        abstract:
+          "针对认知症提供数字化筛查和训练干预，并成功商业化的公司——上海博斯腾网络科技有限公司（简称“博斯腾科技”）日前已完成了亿元人民币A轮融资。本轮融资由金沙江创投和博远资本领投，老股东长岭资本跟投。",
+        date: "June 1, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
