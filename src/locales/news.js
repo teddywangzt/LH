@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】A轮融资亿元！博斯腾科技认知症数字疗法解决方案，助力开启认知革命",
-        link: "https://mp.weixin.qq.com/s/AgG9-SUAjfFlBnu1cxMNEw",
+           "天与养老完成A轮融资 持续深耕科技养老",
+        link: "https://mp.weixin.qq.com/s/AQ5PoSFbzmTmTqXUWxcezQ",
         abstract:
-          "针对认知症提供数字化筛查和训练干预，并成功商业化的公司——上海博斯腾网络科技有限公司（简称“博斯腾科技”）日前已完成了亿元人民币A轮融资。本轮融资由金沙江创投和博远资本领投，老股东长岭资本跟投。",
-        date: "June 1, 2021"
+          "2021年6月1日，天与养老宣布完成A轮融资，A轮由高瓴创投领投，长岭资本及万物资本跟投。本轮融资天与将主要用于养老数字化解决方案研发的继续投入、科技养老场景打造及相关人才储备。",
+        date: "June 2, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】A轮融资亿元！博斯腾科技认知症数字疗法解决方案，助力开启认知革命",
-        link: "https://mp.weixin.qq.com/s/AgG9-SUAjfFlBnu1cxMNEw",
+           "天与养老完成A轮融资 持续深耕科技养老",
+        link: "https://mp.weixin.qq.com/s/AQ5PoSFbzmTmTqXUWxcezQ",
         abstract:
-          "针对认知症提供数字化筛查和训练干预，并成功商业化的公司——上海博斯腾网络科技有限公司（简称“博斯腾科技”）日前已完成了亿元人民币A轮融资。本轮融资由金沙江创投和博远资本领投，老股东长岭资本跟投。",
-        date: "June 1, 2021"
+          "2021年6月1日，天与养老宣布完成A轮融资，A轮由高瓴创投领投，长岭资本及万物资本跟投。本轮融资天与将主要用于养老数字化解决方案研发的继续投入、科技养老场景打造及相关人才储备。",
+        date: "June 2, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "天与养老完成A轮融资 持续深耕科技养老",
+        link: "https://mp.weixin.qq.com/s/AQ5PoSFbzmTmTqXUWxcezQ",
+        source:"长岭资本",
+        abstract:
+          "2021年6月1日，天与养老宣布完成A轮融资，A轮由高瓴创投领投，长岭资本及万物资本跟投。本轮融资天与将主要用于养老数字化解决方案研发的继续投入、科技养老场景打造及相关人才储备。",
+        date: "June 2, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
