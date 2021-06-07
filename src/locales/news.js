@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "长岭资本蒋晓冬：在大健康和老龄化领域等待灰犀牛变猎豹",
-        link: "https://mp.weixin.qq.com/s/xH0RuECMuVNO4gSAQWU8YA",
+          "专访长岭资本蒋晓冬：寻找大健康与老龄化领域的“非共识”机遇，投资慢行业里的快公司",
+        link: "https://mp.weixin.qq.com/s/YMTf9W-spfYFT5SPP_s1bw",
         abstract:
-          "在刚刚宣布新一期资金募集后，亿欧大健康在长岭资本的上海总部专访了蒋晓冬，他一开始就告诉我们长岭资本跟其他VC有不同之处，并将自己的逻辑比喻成驾驭“灰犀牛”风格，本质上是耐心和长期主义。",
-        date:"April 26, 2021"
+          "在接受《每日经济新闻》专访时蒋晓冬告诉记者，要想实现用更少人、更低成本去服务更多需求的目的，唯有创新，无论是技术创新还是模式创新均存在诸多机遇。",
+        date:"June 7, 2021"
       },
       {
         cate: "长岭分享",
@@ -50,11 +50,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "长岭资本蒋晓冬：在大健康和老龄化领域等待灰犀牛变猎豹",
-        link: "https://mp.weixin.qq.com/s/xH0RuECMuVNO4gSAQWU8YA",
+          "专访长岭资本蒋晓冬：寻找大健康与老龄化领域的“非共识”机遇，投资慢行业里的快公司",
+        link: "https://mp.weixin.qq.com/s/YMTf9W-spfYFT5SPP_s1bw",
         abstract:
-          "在刚刚宣布新一期资金募集后，亿欧大健康在长岭资本的上海总部专访了蒋晓冬，他一开始就告诉我们长岭资本跟其他VC有不同之处，并将自己的逻辑比喻成驾驭“灰犀牛”风格，本质上是耐心和长期主义。",
-        date:"April 26, 2021"
+          "在接受《每日经济新闻》专访时蒋晓冬告诉记者，要想实现用更少人、更低成本去服务更多需求的目的，唯有创新，无论是技术创新还是模式创新均存在诸多机遇。",
+        date:"June 7, 2021"
       },
       {
         cate: "SHARING",
@@ -76,6 +76,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "PERSPECTIVES",
+        title:
+          "专访长岭资本蒋晓冬：寻找大健康与老龄化领域的“非共识”机遇，投资慢行业里的快公司",
+        link: "https://mp.weixin.qq.com/s/YMTf9W-spfYFT5SPP_s1bw",
+        source:"长岭资本",
+        abstract:
+          "在接受《每日经济新闻》专访时蒋晓冬告诉记者，要想实现用更少人、更低成本去服务更多需求的目的，唯有创新，无论是技术创新还是模式创新均存在诸多机遇。",
+        date:"June 7, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
