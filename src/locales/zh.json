@@ -183,18 +183,6 @@
             "photo": "./static/image/photo/3-2.png"
           },
           {
-            "name": "王振庭",
-            "title": "首席财务官",
-            "photo": "./static/image/photo/3-3.png",
-            "linkedin": "https://cn.linkedin.com/in/%E6%8C%AF%E5%BA%AD-%E7%8E%8B-33245596/en",
-            "email": "bp@lhcap.cn",
-            "paragraphs": [
-              "王振庭先生是长岭资本首席财务官，于2016年加入公司，主要负责财务运营与基金后台管理。",
-              "在加入长岭资本之前，王振庭在晨兴资本工作逾7年，任职财务经理。他从2005年在普华永道开始他的职业生涯，期间在审计与鉴证业务部任职高级审计师。",
-              "王振庭毕业于上海交通大学计算机科学与技术专业，获得工学士学位。他是中国注册会计师并且通过美国特许金融分析师CFA二级考试。"
-            ]
-          },
-          {
             "name": "项雪",
             "title": "投资总监",
             "photo": "./static/image/photo/3-4.png",

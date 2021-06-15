@@ -183,18 +183,6 @@
             "photo": "./static/image/photo/3-2.png"
           },
           {
-            "name": "Teddy Wang",
-            "title": "Chief Financial Officer",
-            "photo": "./static/image/photo/3-3.png",
-            "linkedin": "https://cn.linkedin.com/in/%E6%8C%AF%E5%BA%AD-%E7%8E%8B-33245596/en",
-            "email": "bp@lhcap.cn",
-            "paragraphs": [
-              "Teddy Wang is Chief Financial Officer of Long Hill Capital. He joined the firm in 2016 and is responsible for finance operation and back office management.",
-              "Before joining Long Hill, Teddy worked with Morningside Venture Capital as Finance Manager for over 7 years. He started his professional career at PricewaterhouseCoopers in 2005, where he was a Senior Associate specializing in audit and assurance services.",
-              "Teddy received a bachelor’s degree in Computer Science and Technology from Shanghai Jiaotong University. He is a member of the Chinese Institute of Certified Public Accounts and passed CFA level 2 designation exam."
-            ]
-          },
-          {
             "name": "Carrie Xiang",
             "title": "Investment Director",
             "photo": "./static/image/photo/3-4.png",
