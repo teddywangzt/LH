@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "天与养老完成A轮融资 持续深耕科技养老",
-        link: "https://mp.weixin.qq.com/s/AQ5PoSFbzmTmTqXUWxcezQ",
+           "东方启音完成C轮8300万美金融资，淡马锡、泰康投资等联合领投",
+        link: "https://mp.weixin.qq.com/s/auULkA1mn49yUMjsTeNxZg",
         abstract:
-          "2021年6月1日，天与养老宣布完成A轮融资，A轮由高瓴创投领投，长岭资本及万物资本跟投。本轮融资天与将主要用于养老数字化解决方案研发的继续投入、科技养老场景打造及相关人才储备。",
-        date: "June 2, 2021"
+          "6月25日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C2轮6000万美元融资，由淡马锡和泰康投资联合领投。泰合资本继续担任独家财务顾问。",
+        date: "June 25, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "天与养老完成A轮融资 持续深耕科技养老",
-        link: "https://mp.weixin.qq.com/s/AQ5PoSFbzmTmTqXUWxcezQ",
+           "东方启音完成C轮8300万美金融资，淡马锡、泰康投资等联合领投",
+        link: "https://mp.weixin.qq.com/s/auULkA1mn49yUMjsTeNxZg",
         abstract:
-          "2021年6月1日，天与养老宣布完成A轮融资，A轮由高瓴创投领投，长岭资本及万物资本跟投。本轮融资天与将主要用于养老数字化解决方案研发的继续投入、科技养老场景打造及相关人才储备。",
-        date: "June 2, 2021"
+          "6月25日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C2轮6000万美元融资，由淡马锡和泰康投资联合领投。泰合资本继续担任独家财务顾问。",
+        date: "June 25, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "东方启音完成C轮8300万美金融资，淡马锡、泰康投资等联合领投",
+        link: "https://mp.weixin.qq.com/s/auULkA1mn49yUMjsTeNxZg",
+        source:"长岭资本",
+        abstract:
+          "6月25日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C2轮6000万美元融资，由淡马锡和泰康投资联合领投。泰合资本继续担任独家财务顾问。",
+        date: "June 25, 2021"
+      },
     {
         cate: "NEWS",
         title:
