@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "专访长岭资本蒋晓冬：寻找大健康与老龄化领域的“非共识”机遇，投资慢行业里的快公司",
-        link: "https://mp.weixin.qq.com/s/YMTf9W-spfYFT5SPP_s1bw",
+          "被投企业接连上市递表|长岭资本蒋晓冬：拉开一个十年周期，捕捉老年行业的灰犀牛",
+        link: "https://mp.weixin.qq.com/s/i7E3SjYRExQOwOge_-_5ZQ",
         abstract:
-          "在接受《每日经济新闻》专访时蒋晓冬告诉记者，要想实现用更少人、更低成本去服务更多需求的目的，唯有创新，无论是技术创新还是模式创新均存在诸多机遇。",
-        date:"June 7, 2021"
+          "据统计，2020年长岭资本完成了25笔早期及成长期的投资，总投资金额超过9亿元人民币，有超过16家公司完成了再次融资，总计融资金额超过44亿元人民币。",
+        date:"June 28, 2021"
       },
       {
         cate: "长岭分享",
@@ -50,11 +50,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "专访长岭资本蒋晓冬：寻找大健康与老龄化领域的“非共识”机遇，投资慢行业里的快公司",
-        link: "https://mp.weixin.qq.com/s/YMTf9W-spfYFT5SPP_s1bw",
+          "被投企业接连上市递表|长岭资本蒋晓冬：拉开一个十年周期，捕捉老年行业的灰犀牛",
+        link: "https://mp.weixin.qq.com/s/i7E3SjYRExQOwOge_-_5ZQ",
         abstract:
-          "在接受《每日经济新闻》专访时蒋晓冬告诉记者，要想实现用更少人、更低成本去服务更多需求的目的，唯有创新，无论是技术创新还是模式创新均存在诸多机遇。",
-        date:"June 7, 2021"
+          "据统计，2020年长岭资本完成了25笔早期及成长期的投资，总投资金额超过9亿元人民币，有超过16家公司完成了再次融资，总计融资金额超过44亿元人民币。",
+        date:"June 28, 2021"
       },
       {
         cate: "SHARING",
@@ -76,6 +76,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "PERSPECTIVES",
+        title:
+          "被投企业接连上市递表|长岭资本蒋晓冬：拉开一个十年周期，捕捉老年行业的灰犀牛",
+        link: "https://mp.weixin.qq.com/s/i7E3SjYRExQOwOge_-_5ZQ",
+        source:"长岭资本",
+        abstract:
+          "据统计，2020年长岭资本完成了25笔早期及成长期的投资，总投资金额超过9亿元人民币，有超过16家公司完成了再次融资，总计融资金额超过44亿元人民币。",
+        date:"June 28, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
