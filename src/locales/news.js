@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "东方启音完成C轮8300万美金融资，淡马锡、泰康投资等联合领投",
-        link: "https://mp.weixin.qq.com/s/auULkA1mn49yUMjsTeNxZg",
+           "海吉亚上市一周年：市值超600亿，涨幅领跑港股医药IPO",
+        link: "https://mp.weixin.qq.com/s/yy65JBJKB3zHKTcvPCSHdQ",
         abstract:
-          "6月25日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C2轮6000万美元融资，由淡马锡和泰康投资联合领投。泰合资本继续担任独家财务顾问。",
-        date: "June 25, 2021"
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。长岭资本成立后，又分别于2017年、2019年先后两次对海吉亚医疗重注投资。",
+        date: "June 29, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "东方启音完成C轮8300万美金融资，淡马锡、泰康投资等联合领投",
-        link: "https://mp.weixin.qq.com/s/auULkA1mn49yUMjsTeNxZg",
+           "海吉亚上市一周年：市值超600亿，涨幅领跑港股医药IPO",
+        link: "https://mp.weixin.qq.com/s/yy65JBJKB3zHKTcvPCSHdQ",
         abstract:
-          "6月25日，国内领先的儿童言语康复与自闭症干预机构东方启音宣布完成C2轮6000万美元融资，由淡马锡和泰康投资联合领投。泰合资本继续担任独家财务顾问。",
-        date: "June 25, 2021"
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。长岭资本成立后，又分别于2017年、2019年先后两次对海吉亚医疗重注投资。",
+        date: "June 29, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "海吉亚上市一周年：市值超600亿，涨幅领跑港股医药IPO",
+        link: "https://mp.weixin.qq.com/s/yy65JBJKB3zHKTcvPCSHdQ",
+        source:"长岭资本",
+        abstract:
+          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。长岭资本成立后，又分别于2017年、2019年先后两次对海吉亚医疗重注投资。",
+        date: "June 29, 2021"
+      },
     {
         cate: "PERSPECTIVES",
         title:
