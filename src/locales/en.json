@@ -131,6 +131,17 @@
             ]
           },
           {
+            "name": "Jerry Jiang",
+            "title": "Senior Associate",
+            "photo": "./static/image/photo/jzm.jpg",
+            "email": "bp@lhcap.cn",
+            "paragraphs": [
+              "Jerry is Senior Associate of Long Hill Capital. He joined the firm in 2021 to focus on healthcare investment.",
+              "Before joining Long Hill, Jerry worked at Fosun Private Equity focusing on early and growth stage investments in healthcare sector. Before joining Fosun, Jerry was an investment manager at Ch-gemstone capital, where he focused on medtech and medical service.",
+              "Jerry received a bachelor's degree in economy and finance from Tsinghua University."
+            ]
+          },
+          {
             "name": "Doris Liu",
             "title": "Vice President of Finance",
             "photo": "./static/image/photo/2-1.png",
