@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "被投企业接连上市递表|长岭资本蒋晓冬：拉开一个十年周期，捕捉老年行业的灰犀牛",
-        link: "https://mp.weixin.qq.com/s/i7E3SjYRExQOwOge_-_5ZQ",
+          "2021退博会丨长岭资本蒋晓冬：在快速成长的慢行业，做难而正确的事情",
+        link: "https://mp.weixin.qq.com/s/VEevI6FtABMCV1odsEZFUA",
         abstract:
-          "据统计，2020年长岭资本完成了25笔早期及成长期的投资，总投资金额超过9亿元人民币，有超过16家公司完成了再次融资，总计融资金额超过44亿元人民币。",
-        date:"June 28, 2021"
+          "2021年7月13-14日，第一届 退休美好生活博览会·2021（WRLE2021）在北京国际会议中心隆重举行。长岭资本管理合伙人蒋晓冬先生在大会开幕式上做了题为《以科技创新化解老龄化社会难题》主题演讲。",
+        date:"July 19, 2021"
       },
       {
         cate: "长岭分享",
@@ -50,11 +50,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "被投企业接连上市递表|长岭资本蒋晓冬：拉开一个十年周期，捕捉老年行业的灰犀牛",
-        link: "https://mp.weixin.qq.com/s/i7E3SjYRExQOwOge_-_5ZQ",
+          "2021退博会丨长岭资本蒋晓冬：在快速成长的慢行业，做难而正确的事情",
+        link: "https://mp.weixin.qq.com/s/VEevI6FtABMCV1odsEZFUA",
         abstract:
-          "据统计，2020年长岭资本完成了25笔早期及成长期的投资，总投资金额超过9亿元人民币，有超过16家公司完成了再次融资，总计融资金额超过44亿元人民币。",
-        date:"June 28, 2021"
+          "2021年7月13-14日，第一届 退休美好生活博览会·2021（WRLE2021）在北京国际会议中心隆重举行。长岭资本管理合伙人蒋晓冬先生在大会开幕式上做了题为《以科技创新化解老龄化社会难题》主题演讲。",
+        date:"July 19, 2021"
       },
       {
         cate: "SHARING",
@@ -76,6 +76,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "PERSPECTIVES",
+        title:
+          "2021退博会丨长岭资本蒋晓冬：在快速成长的慢行业，做难而正确的事情",
+        link: "https://mp.weixin.qq.com/s/VEevI6FtABMCV1odsEZFUA",
+        source:"长岭资本",
+        abstract:
+          "2021年7月13-14日，第一届 退休美好生活博览会·2021（WRLE2021）在北京国际会议中心隆重举行。长岭资本管理合伙人蒋晓冬先生在大会开幕式上做了题为《以科技创新化解老龄化社会难题》主题演讲。",
+        date:"July 19, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
