@@ -269,6 +269,11 @@
         "text": "UP Clinic: Clinic for sports medicine and orthopedic rehab"
       },
       {
+        "picture": "./static/image/company-logo/ft.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "FitTime：Telehealth for her and him"
+      },
+      {
         "picture": "./static/image/company-logo/04.png",
         "type": "HEALTHCARE TECHNOLOGY",
         "text": "LinkDoc: Leading oncology big data company"
@@ -289,6 +294,11 @@
         "text": "Stonewise: AI for drug discovery"
       },
       {
+        "picture": "./static/image/company-logo/wlkj.png",
+        "type": "HEALTHCARE TECHNOLOGY",
+        "text": "WonderLab：Innovative AI company for mental health"
+      },
+      {
         "picture": "./static/image/company-logo/07.png",
         "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
         "text": "Aiyaku: Largest dental e-commerce platform"
@@ -307,6 +317,11 @@
         "picture": "./static/image/company-logo/ykym-1.png",
         "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
         "text": "InCarey: Leading online hospital for the chronically ill"
+      },
+      {
+        "picture": "./static/image/company-logo/qykj-en.png",
+        "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
+        "text": "SocialMed：Intelligent software solutions for pharmaceutical e-sales"
       },
       {
         "picture": "./static/image/company-logo/10.png",
@@ -347,21 +362,6 @@
         "picture": "./static/image/company-logo/ltz-1.png",
         "type": "NEW AGING",
         "text": "Happy Retire: Social media for seniors"
-      },
-      {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "HEALTHCARE SERVICES",
-        "text": "FitTime：Telehealth for her and him"
-      },
-      {
-        "picture": "./static/image/company-logo/wlkj.png",
-        "type": "HEALTHCARE TECHNOLOGY",
-        "text": "WonderLab：Innovative AI company for mental health"
-      },
-      {
-        "picture": "./static/image/company-logo/qykj-en.png",
-        "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
-        "text": "SocialMed：Intelligent software solutions for pharmaceutical e-sales"
       },
       {
         "picture": "./static/image/company-logo/ty.png",
