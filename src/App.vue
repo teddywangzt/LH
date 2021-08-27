@@ -4,7 +4,6 @@
     <div class="app-content">
       <Focus id="focus"></Focus>
       <About id="about"></About>
-      <Team id="team"></Team>
       <Portfolio id="portfolio"></Portfolio>
       <News id="news"></News>
     </div>
@@ -18,7 +17,6 @@
 import Header from "@/components/Header.vue";
 import Focus from "@/components/Focus.vue";
 import About from "@/components/About.vue";
-import Team from "@/components/Team.vue";
 import Portfolio from "@/components/Portfolio.vue";
 import News from "@/components/News.vue";
 import Footer from "@/components/Footer.vue";
@@ -28,7 +26,6 @@ export default {
     Header,
     Focus,
     About,
-    Team,
     Portfolio,
     News,
     Footer
