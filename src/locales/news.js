@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "海吉亚上市一周年：市值超600亿，涨幅领跑港股医药IPO",
-        link: "https://mp.weixin.qq.com/s/yy65JBJKB3zHKTcvPCSHdQ",
+           "清赟科技完成数亿元B轮融资，医药营销解决方案已形成“生态闭环”",
+        link: "https://mp.weixin.qq.com/s/Us-tw9iD8Kog3suPoPjgzA",
         abstract:
-          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。长岭资本成立后，又分别于2017年、2019年先后两次对海吉亚医疗重注投资。",
-        date: "June 29, 2021"
+          "动脉网第一时间获悉，医药行业全栈式数字化营销AI科技平台清赟科技，近日完成了B轮、B+轮融资。其中B轮融资由阿里健康领投，A轮领投方长岭资本持续跟投，投资方还包括Pre-A轮投资方醴泽资本以及生命资本；B+轮融资，由IDG资本投资。",
+        date: "August 27, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "海吉亚上市一周年：市值超600亿，涨幅领跑港股医药IPO",
-        link: "https://mp.weixin.qq.com/s/yy65JBJKB3zHKTcvPCSHdQ",
+           "清赟科技完成数亿元B轮融资，医药营销解决方案已形成“生态闭环”",
+        link: "https://mp.weixin.qq.com/s/Us-tw9iD8Kog3suPoPjgzA",
         abstract:
-          "海吉亚医疗（6078.HK）是长岭资本创新医疗服务的标志性投资之一。早在10年前，海吉亚成立伊始，当时负责NEA基金中国投资的长岭资本创始合伙人蒋晓冬先生就独家A轮投资了海吉亚。长岭资本成立后，又分别于2017年、2019年先后两次对海吉亚医疗重注投资。",
-        date: "June 29, 2021"
+          "动脉网第一时间获悉，医药行业全栈式数字化营销AI科技平台清赟科技，近日完成了B轮、B+轮融资。其中B轮融资由阿里健康领投，A轮领投方长岭资本持续跟投，投资方还包括Pre-A轮投资方醴泽资本以及生命资本；B+轮融资，由IDG资本投资。",
+        date: "August 27, 2021"
       }
     ]
   },
   list: [
+     {
+        cate: "ECOSYSTEM",
+        title: 
+           "清赟科技完成数亿元B轮融资，医药营销解决方案已形成“生态闭环”",
+        link: "https://mp.weixin.qq.com/s/Us-tw9iD8Kog3suPoPjgzA",
+        source:"长岭资本",
+        abstract:
+          "动脉网第一时间获悉，医药行业全栈式数字化营销AI科技平台清赟科技，近日完成了B轮、B+轮融资。其中B轮融资由阿里健康领投，A轮领投方长岭资本持续跟投，投资方还包括Pre-A轮投资方醴泽资本以及生命资本；B+轮融资，由IDG资本投资。",
+        date: "August 27, 2021"
+      },
     {
         cate: "PERSPECTIVES",
         title:
