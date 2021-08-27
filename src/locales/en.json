@@ -347,6 +347,26 @@
         "picture": "./static/image/company-logo/ltz-1.png",
         "type": "NEW AGING",
         "text": "Happy Retire: Social media for seniors"
+      },
+      {
+        "picture": "./static/image/company-logo/ft.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "FitTime：Telehealth for her and him"
+      },
+      {
+        "picture": "./static/image/company-logo/wlkj.png",
+        "type": "HEALTHCARE TECHNOLOGY",
+        "text": "WonderLab：Innovative AI company for mental health"
+      },
+      {
+        "picture": "./static/image/company-logo/qykj-en.png",
+        "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
+        "text": "SocialMed：Intelligent software solutions for pharmaceutical e-sales"
+      },
+      {
+        "picture": "./static/image/company-logo/ty.png",
+        "type": "NEW AGING",
+        "text": "Tianyu：Leading care provider for aging in place"
       }
     ]
   },
