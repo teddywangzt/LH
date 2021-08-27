@@ -269,6 +269,11 @@
         "text": "优复门诊：骨科与运动康复连锁医疗机构"
       },
       {
+        "picture": "./static/image/company-logo/ft.png",
+        "type": "新医疗健康服务",
+        "text": "睿健时代：产后修复和女性减脂健康管理平台"
+      },
+      {
         "picture": "./static/image/company-logo/04.png",
         "type": "新医疗科技",
         "text": "零氪科技：中国最大的大数据驱动的精准医疗数字化平台"
@@ -289,6 +294,11 @@
         "text": "望石智慧：人工智能新药研发商"
       },
       {
+        "picture": "./static/image/company-logo/wlkj.png",
+        "type": "新医疗科技",
+        "text": "望里科技：人工智能+精神健康领跑者"
+      },
+      {
         "picture": "./static/image/company-logo/07.png",
         "type": "医疗系新基建",
         "text": "爱牙库：中国最大齿科耗材供应平台"
@@ -307,6 +317,11 @@
         "picture": "./static/image/company-logo/ykym-1.png",
         "type": "医疗系新基建",
         "text": "云开亚美：中国领先的慢特疾病综合服务平台"
+      },
+      {
+        "picture": "./static/image/company-logo/qykj.png",
+        "type": "医疗系新基建",
+        "text": "清赟科技：医药数字化营销的先行者"
       },
       {
         "picture": "./static/image/company-logo/10.png",
@@ -347,21 +362,6 @@
         "picture": "./static/image/company-logo/ltz-1.png",
         "type": "新型老龄化",
         "text": "乐退族：专注老年文化娱乐的社交媒体"
-      },
-      {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "新医疗健康服务",
-        "text": "睿健时代：产后修复和女性减脂健康管理平台"
-      },
-      {
-        "picture": "./static/image/company-logo/wlkj.png",
-        "type": "新医疗科技",
-        "text": "望里科技：人工智能+精神健康领跑者"
-      },
-      {
-        "picture": "./static/image/company-logo/qykj.png",
-        "type": "医疗系新基建",
-        "text": "清赟科技：医药数字化营销的先行者"
       },
       {
         "picture": "./static/image/company-logo/ty.png",
