@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】望里科技完成千万级美金A+轮融资，博远资本携手康宁医院战略投资与合作",
-        link: "https://mp.weixin.qq.com/s/5jsBQe1OuSvE2jwZmxBVEw",
+           "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
+        link: "https://mp.weixin.qq.com/s/xJeBSKkkWqvCO7VF1lk9mA",
         abstract:
-          "近日，国内领先的精神疾病数字疗法科技平台企业望里科技宣布完成千万级美金A+轮融资。本轮融资由博远资本领投、国内最大上市精神专科医院集团康宁医院作为战略投资人共同投资，老股东SIG，长岭资本继续跟投。新医疗科技是长岭资本核心投资领域之一。",
-        date: "August 30, 2021"
+          "新医疗健康服务是长岭资本核心投资领域之一。过去四年，FitTime从消费健康角度切入，逐步在垂类健康管理领域扎深并复制，其自主研发的由AI和数据驱动的健康管理服务体系已经实现健康管理服务供应链的标准化、规模化。",
+        date: "August 31, 2021"
       }
     ],
     en: [
@@ -67,16 +67,26 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】望里科技完成千万级美金A+轮融资，博远资本携手康宁医院战略投资与合作",
-        link: "https://mp.weixin.qq.com/s/5jsBQe1OuSvE2jwZmxBVEw",
+           "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
+        link: "https://mp.weixin.qq.com/s/xJeBSKkkWqvCO7VF1lk9mA",
         abstract:
-          "近日，国内领先的精神疾病数字疗法科技平台企业望里科技宣布完成千万级美金A+轮融资。本轮融资由博远资本领投、国内最大上市精神专科医院集团康宁医院作为战略投资人共同投资，老股东SIG，长岭资本继续跟投。新医疗科技是长岭资本核心投资领域之一。",
-        date: "August 30, 2021"
+          "新医疗健康服务是长岭资本核心投资领域之一。过去四年，FitTime从消费健康角度切入，逐步在垂类健康管理领域扎深并复制，其自主研发的由AI和数据驱动的健康管理服务体系已经实现健康管理服务供应链的标准化、规模化。",
+        date: "August 31, 2021"
       }
     ]
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: 
+           "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
+        link: "https://mp.weixin.qq.com/s/xJeBSKkkWqvCO7VF1lk9mA",
+        source:"长岭资本",
+        abstract:
+          "新医疗健康服务是长岭资本核心投资领域之一。过去四年，FitTime从消费健康角度切入，逐步在垂类健康管理领域扎深并复制，其自主研发的由AI和数据驱动的健康管理服务体系已经实现健康管理服务供应链的标准化、规模化。",
+        date: "August 31, 2021"
+      },
+    {
         cate: "ECOSYSTEM",
         title: 
            "【首发】望里科技完成千万级美金A+轮融资，博远资本携手康宁医院战略投资与合作",
