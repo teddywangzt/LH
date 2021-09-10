@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
-        link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
+        title: "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
+        link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
         abstract:
-          "新冠疫情持续影响全球，全球宏观经济发展不确定性加剧，但这好像并未影响长岭资本——AgeClub近日获悉，这家持续投资老年赛道和医疗赛道的机构，通过“云融资”的方式，逆势超额完成了第三期美元募资，总金额超过3亿美元。",
-        date: "April 15, 2021"
+          "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
+        date: "September 10, 2021"
       },
       {
         cate: "长岭生态",
@@ -58,11 +58,11 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-        title: "独家揭秘丨长岭资本宣布三期基金超募完成：4年吸金60亿背后的老年产业投资逻辑",
-        link: "https://mp.weixin.qq.com/s/xspH1nAbUaAGw1cj5l-ZsQ",
+        title: "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
+        link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
         abstract:
-          "新冠疫情持续影响全球，全球宏观经济发展不确定性加剧，但这好像并未影响长岭资本——AgeClub近日获悉，这家持续投资老年赛道和医疗赛道的机构，通过“云融资”的方式，逆势超额完成了第三期美元募资，总金额超过3亿美元。",
-        date: "April 15, 2021"
+          "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
+        date: "September 10, 2021"
       },
       {
         cate: "ECOSYSTEM",
@@ -77,6 +77,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "SHARING",
+        title: "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
+        link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
+        source:"长岭资本",
+        abstract:
+          "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
+        date: "September 10, 2021"
+      },
+    {
         cate: "ECOSYSTEM",
         title: 
            "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
