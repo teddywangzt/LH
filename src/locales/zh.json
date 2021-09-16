@@ -254,6 +254,12 @@
         "text": "固生堂中医：中国最大的数字化连锁新中医服务平台"
       },
       {
+        "picture": "./static/image/company-logo/06.png",
+        "type": "新医疗健康服务",
+        "text": "简单心理：中国最大在线心理健康服务平台"
+      },
+
+      {
         "picture": "./static/image/company-logo/hjy-1.png",
         "type": "新医疗健康服务",
         "text": "海吉亚医疗：中国最大民营医院集团"
@@ -269,11 +275,6 @@
         "text": "优复门诊：骨科与运动康复连锁医疗机构"
       },
       {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "新医疗健康服务",
-        "text": "睿健时代：产后修复和女性减脂健康管理平台"
-      },
-      {
         "picture": "./static/image/company-logo/04.png",
         "type": "新医疗科技",
         "text": "零氪科技：中国最大的大数据驱动的精准医疗数字化平台"
@@ -284,19 +285,19 @@
         "text": "爱医传递：全球互联网医生协作平台"
       },
       {
-        "picture": "./static/image/company-logo/06.png",
+        "picture": "./static/image/company-logo/wlkj.png",
         "type": "新医疗科技",
-        "text": "简单心理：中国最大在线心理健康服务平台"
+        "text": "望里科技：人工智能+精神健康领跑者"
+      },
+      {
+        "picture": "./static/image/company-logo/bst.png",
+        "type": "新医疗科技",
+        "text": "博斯腾科技：中国领先的数字化大脑健康解决方案提供者"
       },
       {
         "picture": "./static/image/company-logo/wszh-1.png",
         "type": "新医疗科技",
         "text": "望石智慧：人工智能新药研发商"
-      },
-      {
-        "picture": "./static/image/company-logo/wlkj.png",
-        "type": "新医疗科技",
-        "text": "望里科技：人工智能+精神健康领跑者"
       },
       {
         "picture": "./static/image/company-logo/07.png",
@@ -342,6 +343,11 @@
         "picture": "./static/image/company-logo/rmjk-1.png",
         "type": "健康新消费",
         "text": "若米健康：新型糖尿病治疗与健康管理公司"
+      },
+      {
+        "picture": "./static/image/company-logo/ft.png",
+        "type": "健康新消费",
+        "text": "睿健时代：产后修复和女性减脂健康管理平台"
       },
       {
         "picture": "./static/image/company-logo/15.png",
