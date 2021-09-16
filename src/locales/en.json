@@ -254,6 +254,11 @@
         "text": "GST Clinics: No.1 TCM clinic operator"
       },
       {
+        "picture": "./static/image/company-logo/06.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "Simple Psychology: Online marketplace for psychotherapy"
+      },
+      {
         "picture": "./static/image/company-logo/hjy-1.png",
         "type": "HEALTHCARE SERVICES",
         "text": "Hygeia Medical: No.1 private operator of cancer hospitals and clinics"
@@ -269,11 +274,6 @@
         "text": "UP Clinic: Clinic for sports medicine and orthopedic rehab"
       },
       {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "HEALTHCARE SERVICES",
-        "text": "FitTime：Telehealth for her and him"
-      },
-      {
         "picture": "./static/image/company-logo/04.png",
         "type": "HEALTHCARE TECHNOLOGY",
         "text": "LinkDoc: Leading oncology big data company"
@@ -284,19 +284,19 @@
         "text": "More Health: Online hospital for global citizens of the emerging world"
       },
       {
-        "picture": "./static/image/company-logo/06.png",
+        "picture": "./static/image/company-logo/wlkj.png",
         "type": "HEALTHCARE TECHNOLOGY",
-        "text": "Simple Psychology: Online marketplace for psychotherapy"
+        "text": "WonderLab：Innovative AI company for mental health"
+      },
+      {
+        "picture": "./static/image/company-logo/bst.png",
+        "type": "HEALTHCARE TECHNOLOGY",
+        "text": "BestCovered：Technology for dementia detection and treatment"
       },
       {
         "picture": "./static/image/company-logo/wszh-1.png",
         "type": "HEALTHCARE TECHNOLOGY",
         "text": "Stonewise: AI for drug discovery"
-      },
-      {
-        "picture": "./static/image/company-logo/wlkj.png",
-        "type": "HEALTHCARE TECHNOLOGY",
-        "text": "WonderLab：Innovative AI company for mental health"
       },
       {
         "picture": "./static/image/company-logo/07.png",
@@ -343,6 +343,12 @@
         "type": "CONSUMER HEALTH & WELLNESS",
         "text": "Ruomi: Healthy food for a low carb life"
       },
+      {
+        "picture": "./static/image/company-logo/ft.png",
+        "type": "CONSUMER HEALTH & WELLNESS",
+        "text": "FitTime：Telehealth for her and him"
+      },
+
       {
         "picture": "./static/image/company-logo/15.png",
         "type": "NEW AGING",
