@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
-        link: "https://mp.weixin.qq.com/s/xJeBSKkkWqvCO7VF1lk9mA",
+           "致敬重阳：愿你阅尽千帆，归来仍是少年",
+        link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
         abstract:
-          "新医疗健康服务是长岭资本核心投资领域之一。过去四年，FitTime从消费健康角度切入，逐步在垂类健康管理领域扎深并复制，其自主研发的由AI和数据驱动的健康管理服务体系已经实现健康管理服务供应链的标准化、规模化。",
-        date: "August 31, 2021"
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 14, 2021"
       }
     ],
     en: [
@@ -66,16 +66,46 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: 
-           "FitTime睿健时代完成亿元C轮融资，加速向慢病健康管理服务的全面升级",
-        link: "https://mp.weixin.qq.com/s/xJeBSKkkWqvCO7VF1lk9mA",
+       title: 
+           "致敬重阳：愿你阅尽千帆，归来仍是少年",
+        link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
         abstract:
-          "新医疗健康服务是长岭资本核心投资领域之一。过去四年，FitTime从消费健康角度切入，逐步在垂类健康管理领域扎深并复制，其自主研发的由AI和数据驱动的健康管理服务体系已经实现健康管理服务供应链的标准化、规模化。",
-        date: "August 31, 2021"
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 14, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+       title: 
+           "致敬重阳：愿你阅尽千帆，归来仍是少年",
+        link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
+        source:"长岭资本",
+        abstract:
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 14, 2021"
+      },
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】医生终生教育机构好医术获近五千万A轮融资，由长岭资本独家投资",
+        link: "https://mp.weixin.qq.com/s/UtMs5qOaj9_XKDA_hCW6UA",
+        source:"长岭资本",
+        abstract:
+          "临床医生终生教育机构好医术已于近期完成近五千万A轮融资。本轮融资由长岭资本独家投资，资金将主要用于教学研发、技术拓展和基地建造。",
+        date: "October 12, 2021"
+      },
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】医生终生教育机构好医术获近五千万A轮融资，由长岭资本独家投资",
+        link: "https://mp.weixin.qq.com/s/UtMs5qOaj9_XKDA_hCW6UA",
+        source:"长岭资本",
+        abstract:
+          "临床医生终生教育机构好医术已于近期完成近五千万A轮融资。本轮融资由长岭资本独家投资，资金将主要用于教学研发、技术拓展和基地建造。",
+        date: "October 12, 2021"
+      },
     {
         cate: "NEWS",
         title:
