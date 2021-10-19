@@ -97,16 +97,6 @@ window.newsData = {
         date: "October 12, 2021"
       },
     {
-        cate: "ECOSYSTEM",
-        title: 
-           "【首发】医生终生教育机构好医术获近五千万A轮融资，由长岭资本独家投资",
-        link: "https://mp.weixin.qq.com/s/UtMs5qOaj9_XKDA_hCW6UA",
-        source:"长岭资本",
-        abstract:
-          "临床医生终生教育机构好医术已于近期完成近五千万A轮融资。本轮融资由长岭资本独家投资，资金将主要用于教学研发、技术拓展和基地建造。",
-        date: "October 12, 2021"
-      },
-    {
         cate: "NEWS",
         title:
           "大湾区社会办医年会｜长岭资本蒋晓冬：在共同富裕的新时代投资创新医疗服务",
