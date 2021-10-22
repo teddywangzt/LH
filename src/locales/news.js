@@ -21,7 +21,8 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
+        title: 
+           "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
         link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
         abstract:
           "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
@@ -66,7 +67,7 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-       title: 
+        title: 
            "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
         link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
         abstract:
@@ -78,7 +79,7 @@ window.newsData = {
   list: [
     {
         cate: "ECOSYSTEM",
-       title: 
+        title: 
            "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
         link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
         source:"长岭资本",
@@ -88,7 +89,7 @@ window.newsData = {
       },
     {
         cate: "ECOSYSTEM",
-       title: 
+        title: 
            "致敬重阳：愿你阅尽千帆，归来仍是少年",
         link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
         source:"长岭资本",
