@@ -30,11 +30,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "致敬重阳：愿你阅尽千帆，归来仍是少年",
-        link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
+           "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
+        link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
         abstract:
-          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
-        date: "October 14, 2021"
+          "森梅医疗近日宣布完成数千万人民币Pre-A轮融资，由知名医疗投资基金长岭资本独家领投。此前，森梅医疗曾在2020年3月获得互联网医疗巨头医联集团的天使轮投资。",
+        date: "October 22, 2021"
       }
     ],
     en: [
@@ -67,15 +67,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
        title: 
-           "致敬重阳：愿你阅尽千帆，归来仍是少年",
-        link: "https://mp.weixin.qq.com/s/Y7g0zI7GehSZ5S3dkrAhLg",
+           "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
+        link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
         abstract:
-          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
-        date: "October 14, 2021"
+          "森梅医疗近日宣布完成数千万人民币Pre-A轮融资，由知名医疗投资基金长岭资本独家领投。此前，森梅医疗曾在2020年3月获得互联网医疗巨头医联集团的天使轮投资。",
+        date: "October 22, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+       title: 
+           "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
+        link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
+        source:"长岭资本",
+        abstract:
+          "森梅医疗近日宣布完成数千万人民币Pre-A轮融资，由知名医疗投资基金长岭资本独家领投。此前，森梅医疗曾在2020年3月获得互联网医疗巨头医联集团的天使轮投资。",
+        date: "October 22, 2021"
+      },
     {
         cate: "ECOSYSTEM",
        title: 
