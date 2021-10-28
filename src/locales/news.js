@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "大湾区社会办医年会｜长岭资本蒋晓冬：在共同富裕的新时代投资创新医疗服务",
-        link: "https://mp.weixin.qq.com/s/3o8A1oNdsHI9RcIbAOyArA",
+          "今天，我们5岁了！",
+        link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
         abstract:
-          '2021粤港澳大湾区社会办医年会于9月11日-12日在深圳前海万科国际会议中心举办，主题：“奔流——抢占中国私立医疗未来制高点”。',
-        date: 'September 13, 2021'
+          "在长岭成立五周年之际，我们来到被誉为有“雪域小江南”之称的西藏林芝，开启了一次“说走就走”的旅行。",
+        date: 'October 28, 2021'
       }, 
       {
         cate: "长岭观点",
@@ -40,13 +40,13 @@ window.newsData = {
     ],
     en: [
       {
-        cate: "NEWS",
+         cate: "NEWS",
         title:
-          "大湾区社会办医年会｜长岭资本蒋晓冬：在共同富裕的新时代投资创新医疗服务",
-        link: "https://mp.weixin.qq.com/s/3o8A1oNdsHI9RcIbAOyArA",
+          "今天，我们5岁了！",
+        link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
         abstract:
-          '2021粤港澳大湾区社会办医年会于9月11日-12日在深圳前海万科国际会议中心举办，主题：“奔流——抢占中国私立医疗未来制高点”。',
-        date: "September 13, 2021"
+            "在长岭成立五周年之际，我们来到被誉为有“雪域小江南”之称的西藏林芝，开启了一次“说走就走”的旅行。",
+        date: 'October 28, 2021'
       }, 
       {
         cate: "PERSPECTIVES",
@@ -77,6 +77,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+         cate: "长岭新闻",
+        title:
+          "今天，我们5岁了！",
+        link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
+        source:"长岭资本",
+        abstract:
+          "在长岭成立五周年之际，我们来到被誉为有“雪域小江南”之称的西藏林芝，开启了一次“说走就走”的旅行。",
+        date: 'October 28, 2021'
+      }, 
     {
         cate: "ECOSYSTEM",
         title: 
