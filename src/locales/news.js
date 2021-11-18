@@ -22,11 +22,11 @@ window.newsData = {
       {
         cate: "长岭分享",
         title: 
-           "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
-        link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
+           "固生堂通过上市聆讯，医疗服务还有哪些专科会火起来？",
+        link: "https://mp.weixin.qq.com/s/POt7QFnuzehNaMlz9f9jCw",
         abstract:
-          "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
-        date: "September 10, 2021"
+          "在需求引导、技术助力、资本助推、政策支持之下，相信不久的将来，能够更好实现患者获益、为支付方赋能，且能够助力医疗服务体系提质增效的专科医疗机构，一定能跑出更多的优秀项目，甚至走向二级市场。",
+        date: "November 18, 2021"
       },
       {
         cate: "长岭生态",
@@ -59,11 +59,12 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-        title: "医疗服务华山论剑：海吉亚、固生堂、锦欣等行业龙头亮相第十届海通医药CEO高端论坛",
-        link: "https://mp.weixin.qq.com/s/hkETn_7R-0pNQXrOi8Bi6A",
+        title: 
+           "固生堂通过上市聆讯，医疗服务还有哪些专科会火起来？",
+        link: "https://mp.weixin.qq.com/s/POt7QFnuzehNaMlz9f9jCw",
         abstract:
-          "9月8日-9日，第十届海通医药CEO高端论坛在上海浦东丽思卡尔顿酒店开幕。在本次论坛上，长岭资本被投企业海吉亚医疗（6078.HK）创始人朱义文先生、固生堂集团董事长涂志亮先生受邀参加 共同富裕下，民营医疗服务如何破局的主题论坛。",
-        date: "September 10, 2021"
+          "在需求引导、技术助力、资本助推、政策支持之下，相信不久的将来，能够更好实现患者获益、为支付方赋能，且能够助力医疗服务体系提质增效的专科医疗机构，一定能跑出更多的优秀项目，甚至走向二级市场。",
+        date: "November 18, 2021"
       },
       {
         cate: "ECOSYSTEM",
@@ -78,7 +79,17 @@ window.newsData = {
   },
   list: [
     {
-         cate: "长岭新闻",
+        cate: "SHARING",
+        title: 
+           "固生堂通过上市聆讯，医疗服务还有哪些专科会火起来？",
+        link: "https://mp.weixin.qq.com/s/POt7QFnuzehNaMlz9f9jCw",
+        source:"长岭资本",
+        abstract:
+          "在需求引导、技术助力、资本助推、政策支持之下，相信不久的将来，能够更好实现患者获益、为支付方赋能，且能够助力医疗服务体系提质增效的专科医疗机构，一定能跑出更多的优秀项目，甚至走向二级市场。",
+        date: "November 18, 2021"
+      },
+    {
+         cate: "NEWS",
         title:
           "今天，我们5岁了！",
         link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
