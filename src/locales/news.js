@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "今天，我们5岁了！",
-        link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
+          "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Nu-oKScf7MZ_DxDqK7GbYA",
         abstract:
-          "在长岭成立五周年之际，我们来到被誉为有“雪域小江南”之称的西藏林芝，开启了一次“说走就走”的旅行。",
-        date: 'October 28, 2021'
+          "2021年11月18日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“起风了，就飞吧”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "November 25, 2021"
       }, 
       {
         cate: "长岭观点",
@@ -42,11 +42,11 @@ window.newsData = {
       {
          cate: "NEWS",
         title:
-          "今天，我们5岁了！",
-        link: "https://mp.weixin.qq.com/s/4YkS2L_taPSvlJm2CB2mrQ",
+          "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Nu-oKScf7MZ_DxDqK7GbYA",
         abstract:
-            "在长岭成立五周年之际，我们来到被誉为有“雪域小江南”之称的西藏林芝，开启了一次“说走就走”的旅行。",
-        date: 'October 28, 2021'
+          "2021年11月18日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“起风了，就飞吧”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "November 25, 2021"
       }, 
       {
         cate: "PERSPECTIVES",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+     {
+         cate: "NEWS",
+        title:
+          "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Nu-oKScf7MZ_DxDqK7GbYA",
+        source:"长岭资本",
+        abstract:
+          "2021年11月18日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“起风了，就飞吧”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "November 25, 2021"
+      }, 
     {
         cate: "SHARING",
         title: 
