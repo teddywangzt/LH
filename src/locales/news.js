@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
-        link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
+           "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
+        link: "https://mp.weixin.qq.com/s/NLotmZCWvVbOEAmr6V_Jxg",
         abstract:
-          "森梅医疗近日宣布完成数千万人民币Pre-A轮融资，由知名医疗投资基金长岭资本独家领投。此前，森梅医疗曾在2020年3月获得互联网医疗巨头医联集团的天使轮投资。",
-        date: "October 22, 2021"
+          "骨科康复与运动医学品牌优复医疗正式宣布完成数千万美元B+轮融资，由千骥资本领投，老股东长岭资本跟投。",
+        date: "November 30, 2021"
       }
     ],
     en: [
@@ -69,16 +69,26 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "森梅医疗完成数千万人民币Pre-A轮融资，打造数字疗法中国模式",
-        link: "https://mp.weixin.qq.com/s/34aB3CzqCCTic7a9kY6Bdw",
+           "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
+        link: "https://mp.weixin.qq.com/s/NLotmZCWvVbOEAmr6V_Jxg",
         abstract:
-          "森梅医疗近日宣布完成数千万人民币Pre-A轮融资，由知名医疗投资基金长岭资本独家领投。此前，森梅医疗曾在2020年3月获得互联网医疗巨头医联集团的天使轮投资。",
-        date: "October 22, 2021"
+          "骨科康复与运动医学品牌优复医疗正式宣布完成数千万美元B+轮融资，由千骥资本领投，老股东长岭资本跟投。",
+        date: "November 30, 2021"
       }
     ]
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
+        link: "https://mp.weixin.qq.com/s/NLotmZCWvVbOEAmr6V_Jxg",
+        source:"长岭资本",
+        abstract:
+          "骨科康复与运动医学品牌优复医疗正式宣布完成数千万美元B+轮融资，由千骥资本领投，老股东长岭资本跟投。",
+        date: "November 30, 2021"
+      },
+    {
          cate: "NEWS",
         title:
           "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
