@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
-        link: "https://mp.weixin.qq.com/s/NLotmZCWvVbOEAmr6V_Jxg",
+           "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
+        link: "https://mp.weixin.qq.com/s/BoVmUKmRLD0TSMIbiKdDNw",
         abstract:
-          "骨科康复与运动医学品牌优复医疗正式宣布完成数千万美元B+轮融资，由千骥资本领投，老股东长岭资本跟投。",
-        date: "November 30, 2021"
+          "专注家庭康复以及智能助行的邦邦机器人也获由长岭资本领投的超千万美金的新一轮融资，加速在该行业的布局和深耕。",
+        date: "December 3, 2021"
       }
     ],
     en: [
@@ -69,16 +69,26 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
-        link: "https://mp.weixin.qq.com/s/NLotmZCWvVbOEAmr6V_Jxg",
+           "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
+        link: "https://mp.weixin.qq.com/s/BoVmUKmRLD0TSMIbiKdDNw",
         abstract:
-          "骨科康复与运动医学品牌优复医疗正式宣布完成数千万美元B+轮融资，由千骥资本领投，老股东长岭资本跟投。",
-        date: "November 30, 2021"
+          "专注家庭康复以及智能助行的邦邦机器人也获由长岭资本领投的超千万美金的新一轮融资，加速在该行业的布局和深耕。",
+        date: "December 3, 2021"
       }
     ]
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: 
+           "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
+        link: "https://mp.weixin.qq.com/s/BoVmUKmRLD0TSMIbiKdDNw",
+        source:"长岭资本",
+        abstract:
+          "专注家庭康复以及智能助行的邦邦机器人也获由长岭资本领投的超千万美金的新一轮融资，加速在该行业的布局和深耕。",
+        date: "December 3, 2021"
+      },
+    {
         cate: "ECOSYSTEM",
         title: 
            "【首发】优复医疗进军健康新消费领域，一年开9家，完成数千万美元B+轮融资",
