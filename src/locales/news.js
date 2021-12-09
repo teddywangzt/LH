@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
-        link: "https://mp.weixin.qq.com/s/BoVmUKmRLD0TSMIbiKdDNw",
+           "国家官网上线、头部企业完成数亿融资，心理健康行业迎来又一机遇？",
+        link: "https://mp.weixin.qq.com/s/NQRRCV-qkYYFEsY8IQ2hyw",
         abstract:
-          "专注家庭康复以及智能助行的邦邦机器人也获由长岭资本领投的超千万美金的新一轮融资，加速在该行业的布局和深耕。",
-        date: "December 3, 2021"
+          "简单心理完成新一轮超2亿元融资，由沙特阿美旗下的多元化投资基金Prosperity7领投，老股东长岭资本增持、恩颐资本跟投。",
+        date: "December 9, 2021"
       }
     ],
     en: [
@@ -69,16 +69,26 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
-        link: "https://mp.weixin.qq.com/s/BoVmUKmRLD0TSMIbiKdDNw",
+           "国家官网上线、头部企业完成数亿融资，心理健康行业迎来又一机遇？",
+        link: "https://mp.weixin.qq.com/s/NQRRCV-qkYYFEsY8IQ2hyw",
         abstract:
-          "专注家庭康复以及智能助行的邦邦机器人也获由长岭资本领投的超千万美金的新一轮融资，加速在该行业的布局和深耕。",
-        date: "December 3, 2021"
+          "简单心理完成新一轮超2亿元融资，由沙特阿美旗下的多元化投资基金Prosperity7领投，老股东长岭资本增持、恩颐资本跟投。",
+        date: "December 9, 2021"
       }
     ]
   },
   list: [
-     {
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "国家官网上线、头部企业完成数亿融资，心理健康行业迎来又一机遇？",
+        link: "https://mp.weixin.qq.com/s/NQRRCV-qkYYFEsY8IQ2hyw",
+        source:"长岭资本",
+        abstract:
+          "简单心理完成新一轮超2亿元融资，由沙特阿美旗下的多元化投资基金Prosperity7领投，老股东长岭资本增持、恩颐资本跟投。",
+        date: "December 9, 2021"
+      },
+    {
         cate: "ECOSYSTEM",
         title: 
            "两家企业IPO，多家创业公司获亿元融资，这个赛道成为康复养老最强风口",
