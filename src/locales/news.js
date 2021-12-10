@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "国家官网上线、头部企业完成数亿融资，心理健康行业迎来又一机遇？",
-        link: "https://mp.weixin.qq.com/s/NQRRCV-qkYYFEsY8IQ2hyw",
+           "“中医服务第一股”固生堂成功登陆香港主板",
+        link: "https://mp.weixin.qq.com/s/ztvzpd4vUHzWuiYT5w3ABw",
         abstract:
-          "简单心理完成新一轮超2亿元融资，由沙特阿美旗下的多元化投资基金Prosperity7领投，老股东长岭资本增持、恩颐资本跟投。",
-        date: "December 9, 2021"
+          "北京时间2021年12月10日，长岭资本A轮独家投资的中国新中医医疗健康服务平台固生堂控股有限公司成功登陆香港主板，股票代码HK02273。",
+        date: "December 10, 2021"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "国家官网上线、头部企业完成数亿融资，心理健康行业迎来又一机遇？",
-        link: "https://mp.weixin.qq.com/s/NQRRCV-qkYYFEsY8IQ2hyw",
+           "“中医服务第一股”固生堂成功登陆香港主板",
+        link: "https://mp.weixin.qq.com/s/ztvzpd4vUHzWuiYT5w3ABw",
         abstract:
-          "简单心理完成新一轮超2亿元融资，由沙特阿美旗下的多元化投资基金Prosperity7领投，老股东长岭资本增持、恩颐资本跟投。",
-        date: "December 9, 2021"
+          "北京时间2021年12月10日，长岭资本A轮独家投资的中国新中医医疗健康服务平台固生堂控股有限公司成功登陆香港主板，股票代码HK02273。",
+        date: "December 10, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "“中医服务第一股”固生堂成功登陆香港主板",
+        link: "https://mp.weixin.qq.com/s/ztvzpd4vUHzWuiYT5w3ABw",
+        source:"长岭资本",
+        abstract:
+          "北京时间2021年12月10日，长岭资本A轮独家投资的中国新中医医疗健康服务平台固生堂控股有限公司成功登陆香港主板，股票代码HK02273。",
+        date: "December 10, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
