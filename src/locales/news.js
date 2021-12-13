@@ -22,11 +22,11 @@ window.newsData = {
       {
         cate: "长岭分享",
         title: 
-           "固生堂通过上市聆讯，医疗服务还有哪些专科会火起来？",
-        link: "https://mp.weixin.qq.com/s/POt7QFnuzehNaMlz9f9jCw",
+           "固生堂登陆港交所，医疗服务投资“扫地僧”一年半收获两个IPO",
+        link: "https://mp.weixin.qq.com/s/oEO1Azbt2PB4IzVuEDOkAw",
         abstract:
-          "在需求引导、技术助力、资本助推、政策支持之下，相信不久的将来，能够更好实现患者获益、为支付方赋能，且能够助力医疗服务体系提质增效的专科医疗机构，一定能跑出更多的优秀项目，甚至走向二级市场。",
-        date: "November 18, 2021"
+          "截至12月10日收盘，11家医疗服务上市公司总市值为919.94亿港元。其中，长岭资本系的海吉亚医疗和固生堂中医市值总和为428.61亿港元，占据了上述医疗服务企业总市值的近五成。这也说明了长岭资本在医疗服务领域眼光的独特性。",
+        date: "December 13, 2021"
       },
       {
         cate: "长岭生态",
@@ -60,11 +60,11 @@ window.newsData = {
       {
         cate: "SHARING",
         title: 
-           "固生堂通过上市聆讯，医疗服务还有哪些专科会火起来？",
-        link: "https://mp.weixin.qq.com/s/POt7QFnuzehNaMlz9f9jCw",
+           "固生堂登陆港交所，医疗服务投资“扫地僧”一年半收获两个IPO",
+        link: "https://mp.weixin.qq.com/s/oEO1Azbt2PB4IzVuEDOkAw",
         abstract:
-          "在需求引导、技术助力、资本助推、政策支持之下，相信不久的将来，能够更好实现患者获益、为支付方赋能，且能够助力医疗服务体系提质增效的专科医疗机构，一定能跑出更多的优秀项目，甚至走向二级市场。",
-        date: "November 18, 2021"
+          "截至12月10日收盘，11家医疗服务上市公司总市值为919.94亿港元。其中，长岭资本系的海吉亚医疗和固生堂中医市值总和为428.61亿港元，占据了上述医疗服务企业总市值的近五成。这也说明了长岭资本在医疗服务领域眼光的独特性。",
+        date: "December 13, 2021"
       },
       {
         cate: "ECOSYSTEM",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "SHARING",
+        title: 
+           "固生堂登陆港交所，医疗服务投资“扫地僧”一年半收获两个IPO",
+        link: "https://mp.weixin.qq.com/s/oEO1Azbt2PB4IzVuEDOkAw",
+        source:"长岭资本",
+        abstract:
+          "截至12月10日收盘，11家医疗服务上市公司总市值为919.94亿港元。其中，长岭资本系的海吉亚医疗和固生堂中医市值总和为428.61亿港元，占据了上述医疗服务企业总市值的近五成。这也说明了长岭资本在医疗服务领域眼光的独特性。",
+        date: "December 13, 2021"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
