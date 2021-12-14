@@ -150,19 +150,19 @@ export default {
     @media all and (max-width: 1366px) {
       background-position: center;
     }
-    &.idx-3 {
+    &.idx-5 {
       @media all and (max-width: 1366px) {
         background-position: 35% center;
       }
     }
     &.idx-4 {
       @media all and (max-width: 1366px) {
-        background-position: 5% center;
+        background-position: 25% center;
       }
     }
     &.idx-2 {
       @media all and (max-width: 1366px) {
-        background-position: 34% center;
+        background-position: 25% center;
       }
     }
     text-align: center;
