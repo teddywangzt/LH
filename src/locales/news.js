@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "“中医服务第一股”固生堂成功登陆香港主板",
-        link: "https://mp.weixin.qq.com/s/ztvzpd4vUHzWuiYT5w3ABw",
+           "首发| 云开亚美完成2亿人民币融资，打造中国的专病管理样本",
+        link: "https://mp.weixin.qq.com/s/-fZiNZ9HS-eO_v0wOgY4sA",
         abstract:
-          "北京时间2021年12月10日，长岭资本A轮独家投资的中国新中医医疗健康服务平台固生堂控股有限公司成功登陆香港主板，股票代码HK02273。",
-        date: "December 10, 2021"
+          "云开亚美宣布完成2亿人民币C轮融资，本轮融资由全球领先的医疗投资基金之一的恩颐资本领投，老股东长岭资本跟投。",
+        date: "December 22, 2021"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "“中医服务第一股”固生堂成功登陆香港主板",
-        link: "https://mp.weixin.qq.com/s/ztvzpd4vUHzWuiYT5w3ABw",
+           "首发| 云开亚美完成2亿人民币融资，打造中国的专病管理样本",
+        link: "https://mp.weixin.qq.com/s/-fZiNZ9HS-eO_v0wOgY4sA",
         abstract:
-          "北京时间2021年12月10日，长岭资本A轮独家投资的中国新中医医疗健康服务平台固生堂控股有限公司成功登陆香港主板，股票代码HK02273。",
-        date: "December 10, 2021"
+          "云开亚美宣布完成2亿人民币C轮融资，本轮融资由全球领先的医疗投资基金之一的恩颐资本领投，老股东长岭资本跟投。",
+        date: "December 22, 2021"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "首发| 云开亚美完成2亿人民币融资，打造中国的专病管理样本",
+        link: "https://mp.weixin.qq.com/s/-fZiNZ9HS-eO_v0wOgY4sA",
+        source:"长岭资本",
+        abstract:
+          "云开亚美宣布完成2亿人民币C轮融资，本轮融资由全球领先的医疗投资基金之一的恩颐资本领投，老股东长岭资本跟投。",
+        date: "December 22, 2021"
+      },
     {
         cate: "SHARING",
         title: 
