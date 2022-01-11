@@ -259,7 +259,12 @@
     ],
     "companies": [
       {
-        "picture": "./static/image/company-logo/01.png",
+        "picture": "./static/image/company-logo/hjy-1.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "Hygeia Medical: No.1 private operator of cancer hospitals and clinics"
+      },
+      {
+        "picture": "./static/image/company-logo/01-0111.png",
         "type": "HEALTHCARE SERVICES",
         "text": "GST Clinics: No.1 TCM clinic operator"
       },
@@ -267,11 +272,6 @@
         "picture": "./static/image/company-logo/06.png",
         "type": "HEALTHCARE SERVICES",
         "text": "Simple Psychology: Online marketplace for psychotherapy"
-      },
-      {
-        "picture": "./static/image/company-logo/hjy-1.png",
-        "type": "HEALTHCARE SERVICES",
-        "text": "Hygeia Medical: No.1 private operator of cancer hospitals and clinics"
       },
       {
         "picture": "./static/image/company-logo/03.png",
