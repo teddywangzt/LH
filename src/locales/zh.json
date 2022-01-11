@@ -259,7 +259,12 @@
     ],
     "companies": [
       {
-        "picture": "./static/image/company-logo/01.png",
+        "picture": "./static/image/company-logo/hjy-1.png",
+        "type": "新医疗健康服务",
+        "text": "海吉亚医疗：中国最大民营医院集团"
+      },
+      {
+        "picture": "./static/image/company-logo/01-0111.png",
         "type": "新医疗健康服务",
         "text": "固生堂中医：中国最大的数字化连锁新中医服务平台"
       },
@@ -267,12 +272,6 @@
         "picture": "./static/image/company-logo/06.png",
         "type": "新医疗健康服务",
         "text": "简单心理：中国最大在线心理健康服务平台"
-      },
-
-      {
-        "picture": "./static/image/company-logo/hjy-1.png",
-        "type": "新医疗健康服务",
-        "text": "海吉亚医疗：中国最大民营医院集团"
       },
       {
         "picture": "./static/image/company-logo/03.png",
