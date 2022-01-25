@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "首发| 云开亚美完成2亿人民币融资，打造中国的专病管理样本",
-        link: "https://mp.weixin.qq.com/s/-fZiNZ9HS-eO_v0wOgY4sA",
+           "拿证！望里科技获首张移动端精神/神经类“数字药品”注册证",
+        link: "https://mp.weixin.qq.com/s/1stwlVTyS78kfelcynlaOg",
         abstract:
-          "云开亚美宣布完成2亿人民币C轮融资，本轮融资由全球领先的医疗投资基金之一的恩颐资本领投，老股东长岭资本跟投。",
-        date: "December 22, 2021"
+          "2022年1月18日，望里科技基于移动端的“认知功能障碍治疗软件”获批医疗器械注册证！此产品是国内精神/神经治疗领域内移动化数字医疗产品的首张注册证。长岭资本是望里科技独家首轮机构投资人，望里也是长岭资本在数字疗法领域的重要投资。",
+        date: "January 25, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "首发| 云开亚美完成2亿人民币融资，打造中国的专病管理样本",
-        link: "https://mp.weixin.qq.com/s/-fZiNZ9HS-eO_v0wOgY4sA",
+           "拿证！望里科技获首张移动端精神/神经类“数字药品”注册证",
+        link: "https://mp.weixin.qq.com/s/1stwlVTyS78kfelcynlaOg",
         abstract:
-          "云开亚美宣布完成2亿人民币C轮融资，本轮融资由全球领先的医疗投资基金之一的恩颐资本领投，老股东长岭资本跟投。",
-        date: "December 22, 2021"
+          "2022年1月18日，望里科技基于移动端的“认知功能障碍治疗软件”获批医疗器械注册证！此产品是国内精神/神经治疗领域内移动化数字医疗产品的首张注册证。长岭资本是望里科技独家首轮机构投资人，望里也是长岭资本在数字疗法领域的重要投资。",
+        date: "January 25, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "拿证！望里科技获首张移动端精神/神经类“数字药品”注册证",
+        link: "https://mp.weixin.qq.com/s/1stwlVTyS78kfelcynlaOg",
+        source:"长岭资本",
+        abstract:
+          "2022年1月18日，望里科技基于移动端的“认知功能障碍治疗软件”获批医疗器械注册证！此产品是国内精神/神经治疗领域内移动化数字医疗产品的首张注册证。长岭资本是望里科技独家首轮机构投资人，望里也是长岭资本在数字疗法领域的重要投资。",
+        date: "January 25, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
