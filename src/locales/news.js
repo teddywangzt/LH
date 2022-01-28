@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/Nu-oKScf7MZ_DxDqK7GbYA",
+          "我们，这一年！",
+        link: "https://mp.weixin.qq.com/s/oHZ-dZLBnOLSqwBCUFuSSQ",
         abstract:
-          "2021年11月18日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“起风了，就飞吧”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
-        date: "November 25, 2021"
+          "长岭资本于2021年3月成功完成三期基金的最终募集，规模超过3亿美元。从成立至今5年里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "January 28, 2022"
       }, 
       {
         cate: "长岭观点",
@@ -40,13 +40,13 @@ window.newsData = {
     ],
     en: [
       {
-         cate: "NEWS",
+        cate: "NEWS",
         title:
-          "高歌百岁人生，感恩伟大时代：长岭资本2021年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/Nu-oKScf7MZ_DxDqK7GbYA",
+          "我们，这一年！",
+        link: "https://mp.weixin.qq.com/s/oHZ-dZLBnOLSqwBCUFuSSQ",
         abstract:
-          "2021年11月18日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“起风了，就飞吧”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
-        date: "November 25, 2021"
+          "长岭资本于2021年3月成功完成三期基金的最终募集，规模超过3亿美元。从成立至今5年里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "January 28, 2022"
       }, 
       {
         cate: "PERSPECTIVES",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "NEWS",
+        title:
+          "我们，这一年！",
+        link: "https://mp.weixin.qq.com/s/oHZ-dZLBnOLSqwBCUFuSSQ",
+        source:"长岭资本",
+        abstract:
+          "长岭资本于2021年3月成功完成三期基金的最终募集，规模超过3亿美元。从成立至今5年里，长岭资本总共募集双币基金已达人民币60亿元。",
+        date: "January 28, 2022"
+      }, 
     {
         cate: "ECOSYSTEM",
         title: 
