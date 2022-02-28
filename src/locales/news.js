@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "拿证！望里科技获首张移动端精神/神经类“数字药品”注册证",
-        link: "https://mp.weixin.qq.com/s/1stwlVTyS78kfelcynlaOg",
+           "【首发】天与养老完成2000万美元A+轮融资， 数字化医养引领行业未来",
+        link: "https://mp.weixin.qq.com/s/P_K6GiV9C1cXAMcp8q0cxg",
         abstract:
-          "2022年1月18日，望里科技基于移动端的“认知功能障碍治疗软件”获批医疗器械注册证！此产品是国内精神/神经治疗领域内移动化数字医疗产品的首张注册证。长岭资本是望里科技独家首轮机构投资人，望里也是长岭资本在数字疗法领域的重要投资。",
-        date: "January 25, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：天与养老是中国数字化医养结合的先行者。",
+        date: "February 28, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "拿证！望里科技获首张移动端精神/神经类“数字药品”注册证",
-        link: "https://mp.weixin.qq.com/s/1stwlVTyS78kfelcynlaOg",
+           "【首发】天与养老完成2000万美元A+轮融资， 数字化医养引领行业未来",
+        link: "https://mp.weixin.qq.com/s/P_K6GiV9C1cXAMcp8q0cxg",
         abstract:
-          "2022年1月18日，望里科技基于移动端的“认知功能障碍治疗软件”获批医疗器械注册证！此产品是国内精神/神经治疗领域内移动化数字医疗产品的首张注册证。长岭资本是望里科技独家首轮机构投资人，望里也是长岭资本在数字疗法领域的重要投资。",
-        date: "January 25, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：天与养老是中国数字化医养结合的先行者。",
+        date: "February 28, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】天与养老完成2000万美元A+轮融资， 数字化医养引领行业未来",
+        link: "https://mp.weixin.qq.com/s/P_K6GiV9C1cXAMcp8q0cxg",
+        source:"长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬表示：天与养老是中国数字化医养结合的先行者。",
+        date: "February 28, 2022"
+      },
     {
         cate: "SHARING",
          title: 
