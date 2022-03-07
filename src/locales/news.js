@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】天与养老完成2000万美元A+轮融资， 数字化医养引领行业未来",
-        link: "https://mp.weixin.qq.com/s/P_K6GiV9C1cXAMcp8q0cxg",
+           "固生堂（2273.HK）纳入港股通, 助力价值蝶变",
+        link: "https://mp.weixin.qq.com/s/qxv6QajFgX1FLKIKTwlB7Q",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：天与养老是中国数字化医养结合的先行者。",
-        date: "February 28, 2022"
+          "前瞻性的布局下使固生堂能够在规模庞大的中医医疗健康市场中，从众多市场参与者中脱颖而出，占据行业领先地位。此次纳入恒生综合指数和港股通充分显示出了资本市场对其价值及实力的认可，将进一步提升该公司的市场关注，有利于促进公司长期可持续性发展。",
+        date: "March 7, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】天与养老完成2000万美元A+轮融资， 数字化医养引领行业未来",
-        link: "https://mp.weixin.qq.com/s/P_K6GiV9C1cXAMcp8q0cxg",
+           "固生堂（2273.HK）纳入港股通, 助力价值蝶变",
+        link: "https://mp.weixin.qq.com/s/qxv6QajFgX1FLKIKTwlB7Q",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：天与养老是中国数字化医养结合的先行者。",
-        date: "February 28, 2022"
+          "前瞻性的布局下使固生堂能够在规模庞大的中医医疗健康市场中，从众多市场参与者中脱颖而出，占据行业领先地位。此次纳入恒生综合指数和港股通充分显示出了资本市场对其价值及实力的认可，将进一步提升该公司的市场关注，有利于促进公司长期可持续性发展。",
+        date: "March 7, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "固生堂（2273.HK）纳入港股通, 助力价值蝶变",
+        link: "https://mp.weixin.qq.com/s/qxv6QajFgX1FLKIKTwlB7Q",
+        source:"长岭资本",
+        abstract:
+          "前瞻性的布局下使固生堂能够在规模庞大的中医医疗健康市场中，从众多市场参与者中脱颖而出，占据行业领先地位。此次纳入恒生综合指数和港股通充分显示出了资本市场对其价值及实力的认可，将进一步提升该公司的市场关注，有利于促进公司长期可持续性发展。",
+        date: "March 7, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
