@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】“暂停实验室”获5000万A轮融资，打造亿万大众的数字化“心理健身房”",
-        link: "https://mp.weixin.qq.com/s/sySd3yNTVQwvt2MagO2JvA",
+           "超3万人付费，68%完成率，暂停实验室模式创新给数字疗法什么启示？",
+        link: "https://mp.weixin.qq.com/s/KYyExhVyGUsBXp-fctMkuA",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：暂停实验室创新性地把数字疗法引入心理健康服务领域，使得干预服务在减少了对专业咨询人士的依赖，通过数字化的产品形式使得高度个性化和广泛的可及性成为可能。",
-        date: "March 8, 2022"
+          "在完成5000万元的A轮融资后，各色科技表示将通过持续的基础研究和产品研发工作构建完整的数字化心理健康解决方案矩阵，继续推动循证心理干预的大众普及化。其中，将心理干预数字化是重要的一环。",
+        date: "March 15, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】“暂停实验室”获5000万A轮融资，打造亿万大众的数字化“心理健身房”",
-        link: "https://mp.weixin.qq.com/s/sySd3yNTVQwvt2MagO2JvA",
+           "超3万人付费，68%完成率，暂停实验室模式创新给数字疗法什么启示？",
+        link: "https://mp.weixin.qq.com/s/KYyExhVyGUsBXp-fctMkuA",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：暂停实验室创新性地把数字疗法引入心理健康服务领域，使得干预服务在减少了对专业咨询人士的依赖，通过数字化的产品形式使得高度个性化和广泛的可及性成为可能。",
-        date: "March 8, 2022"
+          "在完成5000万元的A轮融资后，各色科技表示将通过持续的基础研究和产品研发工作构建完整的数字化心理健康解决方案矩阵，继续推动循证心理干预的大众普及化。其中，将心理干预数字化是重要的一环。",
+        date: "March 15, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "超3万人付费，68%完成率，暂停实验室模式创新给数字疗法什么启示？",
+        link: "https://mp.weixin.qq.com/s/KYyExhVyGUsBXp-fctMkuA",
+        source:"长岭资本",
+        abstract:
+          "在完成5000万元的A轮融资后，各色科技表示将通过持续的基础研究和产品研发工作构建完整的数字化心理健康解决方案矩阵，继续推动循证心理干预的大众普及化。其中，将心理干预数字化是重要的一环。",
+        date: "March 15, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
