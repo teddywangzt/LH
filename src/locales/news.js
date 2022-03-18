@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "超3万人付费，68%完成率，暂停实验室模式创新给数字疗法什么启示？",
-        link: "https://mp.weixin.qq.com/s/KYyExhVyGUsBXp-fctMkuA",
+           "爱博医疗机器人完成1.2亿元Pre-A轮融资，加速血管介入手术机器人注册临床",
+        link: "https://mp.weixin.qq.com/s/fTMoujYLL2EayBVRNSciXQ",
         abstract:
-          "在完成5000万元的A轮融资后，各色科技表示将通过持续的基础研究和产品研发工作构建完整的数字化心理健康解决方案矩阵，继续推动循证心理干预的大众普及化。其中，将心理干预数字化是重要的一环。",
-        date: "March 15, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：随着中国老龄化进程的加速，血管介入手术量也大幅度增长，但现有血管介入技术高度依赖于医生技能，难以满足迅速增长的临床需求。",
+        date: "March 18, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "超3万人付费，68%完成率，暂停实验室模式创新给数字疗法什么启示？",
-        link: "https://mp.weixin.qq.com/s/KYyExhVyGUsBXp-fctMkuA",
+           "爱博医疗机器人完成1.2亿元Pre-A轮融资，加速血管介入手术机器人注册临床",
+        link: "https://mp.weixin.qq.com/s/fTMoujYLL2EayBVRNSciXQ",
         abstract:
-          "在完成5000万元的A轮融资后，各色科技表示将通过持续的基础研究和产品研发工作构建完整的数字化心理健康解决方案矩阵，继续推动循证心理干预的大众普及化。其中，将心理干预数字化是重要的一环。",
-        date: "March 15, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：随着中国老龄化进程的加速，血管介入手术量也大幅度增长，但现有血管介入技术高度依赖于医生技能，难以满足迅速增长的临床需求。",
+        date: "March 18, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "爱博医疗机器人完成1.2亿元Pre-A轮融资，加速血管介入手术机器人注册临床",
+        link: "https://mp.weixin.qq.com/s/fTMoujYLL2EayBVRNSciXQ",
+        source:"长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬表示：随着中国老龄化进程的加速，血管介入手术量也大幅度增长，但现有血管介入技术高度依赖于医生技能，难以满足迅速增长的临床需求。",
+        date: "March 18, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
