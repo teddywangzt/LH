@@ -22,11 +22,11 @@ window.newsData = {
       {
         cate: "长岭分享",
         title: 
-           "互联网医疗“挤”在专科赛道，大厂收购、整合或成新常态？",
-        link: "https://mp.weixin.qq.com/s/T0qS1yp61p2bs1S_fzmcoA",
+           "有人开店月入百万，中国5亿人的刚需，撑起千亿运动康复蓝海市场",
+        link: "https://mp.weixin.qq.com/s/EN3_v4t2rpZR25A4pzrLwQ",
         abstract:
-          "长岭资本管理合伙人蒋晓冬指出，当前聚焦于专科领域的企业可以分为两类：一类是聚焦于某个细分专科领域的企业；一类则是多疾病专科领域发力的企业，这些专科科室无论是在服务模式供应链的打造还是核心能力构建方面都有着一定相通的地方。",
-        date: "February 21, 2022"
+          "“我觉得未来5年的机会是非常好的，发展空间也很广阔，这也是社会办医大有作为的一个赛道。” 长岭资本创始合伙人蒋晓冬表示。",
+        date: "March 24, 2022"
       },
       {
         cate: "长岭生态",
@@ -59,12 +59,12 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-         title: 
-           "互联网医疗“挤”在专科赛道，大厂收购、整合或成新常态？",
-        link: "https://mp.weixin.qq.com/s/T0qS1yp61p2bs1S_fzmcoA",
+        title: 
+           "有人开店月入百万，中国5亿人的刚需，撑起千亿运动康复蓝海市场",
+        link: "https://mp.weixin.qq.com/s/EN3_v4t2rpZR25A4pzrLwQ",
         abstract:
-          "长岭资本管理合伙人蒋晓冬指出，当前聚焦于专科领域的企业可以分为两类：一类是聚焦于某个细分专科领域的企业；一类则是多疾病专科领域发力的企业，这些专科科室无论是在服务模式供应链的打造还是核心能力构建方面都有着一定相通的地方。",
-        date: "February 21, 2022"
+          "“我觉得未来5年的机会是非常好的，发展空间也很广阔，这也是社会办医大有作为的一个赛道。” 长岭资本创始合伙人蒋晓冬表示。",
+        date: "March 24, 2022"
       },
       {
         cate: "ECOSYSTEM",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "SHARING",
+        title: 
+           "有人开店月入百万，中国5亿人的刚需，撑起千亿运动康复蓝海市场",
+        link: "https://mp.weixin.qq.com/s/EN3_v4t2rpZR25A4pzrLwQ",
+        source:"长岭资本",  
+        abstract:
+          "“我觉得未来5年的机会是非常好的，发展空间也很广阔，这也是社会办医大有作为的一个赛道。” 长岭资本创始合伙人蒋晓冬表示。",
+        date: "March 24, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: 
