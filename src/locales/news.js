@@ -31,11 +31,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title: 
-           "【首发】博斯腾认知障碍数字疗法真实世界研究结果首次公开，旗下大脑训练品牌“脑青松”持证上线",
-        link: "https://mp.weixin.qq.com/s/vl8CM-GUn35GisprMfVJ6w",
+           "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
+        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
         abstract:
-          "2022年1月，博斯腾旗下认知功能评估与训练软件，获得了国家药监局颁发的第二类医疗器械注册证。3月底，伴随真实世界研究结果公开和获批医疗器械资质认可，博斯腾将全新升级并重磅推出新一代产品和脑健康品牌“脑青松”。该产品将从科学有效、个性定制、适老设计、在线陪伴四个主要维度设计的脑健康训练产品。",
-        date: "March 22, 2022"
+          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
+        date: "March 25, 2022"
       }
     ],
     en: [
@@ -69,15 +69,25 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title: 
-           "【首发】博斯腾认知障碍数字疗法真实世界研究结果首次公开，旗下大脑训练品牌“脑青松”持证上线",
-        link: "https://mp.weixin.qq.com/s/vl8CM-GUn35GisprMfVJ6w",
+           "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
+        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
         abstract:
-          "2022年1月，博斯腾旗下认知功能评估与训练软件，获得了国家药监局颁发的第二类医疗器械注册证。3月底，伴随真实世界研究结果公开和获批医疗器械资质认可，博斯腾将全新升级并重磅推出新一代产品和脑健康品牌“脑青松”。该产品将从科学有效、个性定制、适老设计、在线陪伴四个主要维度设计的脑健康训练产品。",
-        date: "March 22, 2022"
+          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
+        date: "March 25, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: 
+           "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
+        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
+        source:"长岭资本",  
+        abstract:
+          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
+        date: "March 25, 2022"
+      },
     {
         cate: "SHARING",
         title: 
