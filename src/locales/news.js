@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "我们，这一年！",
-        link: "https://mp.weixin.qq.com/s/oHZ-dZLBnOLSqwBCUFuSSQ",
+          "海吉亚、固生堂发布2021业绩公告，增长领跑港股医疗服务",
+        link: "https://mp.weixin.qq.com/s/fRKQM-YfYP0XNyJrsiLhgw",
         abstract:
-          "长岭资本于2021年3月成功完成三期基金的最终募集，规模超过3亿美元。从成立至今5年里，长岭资本总共募集双币基金已达人民币60亿元。",
-        date: "January 28, 2022"
+          "3月30日，中国“肿瘤医疗服务第一股” 海吉亚医疗（6078.HK）和中国“中医医疗服务第一股” 固生堂（2273.HK）发布了2021年度业绩公告。",
+        date: "March 30, 2022"
       }, 
       {
         cate: "长岭观点",
@@ -42,11 +42,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-          "我们，这一年！",
-        link: "https://mp.weixin.qq.com/s/oHZ-dZLBnOLSqwBCUFuSSQ",
+          "海吉亚、固生堂发布2021业绩公告，增长领跑港股医疗服务",
+        link: "https://mp.weixin.qq.com/s/fRKQM-YfYP0XNyJrsiLhgw",
         abstract:
-          "长岭资本于2021年3月成功完成三期基金的最终募集，规模超过3亿美元。从成立至今5年里，长岭资本总共募集双币基金已达人民币60亿元。",
-        date: "January 28, 2022"
+          "3月30日，中国“肿瘤医疗服务第一股” 海吉亚医疗（6078.HK）和中国“中医医疗服务第一股” 固生堂（2273.HK）发布了2021年度业绩公告。",
+        date: "March 30, 2022"
       }, 
       {
         cate: "PERSPECTIVES",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "NEWS",
+        title:
+          "海吉亚、固生堂发布2021业绩公告，增长领跑港股医疗服务",
+        link: "https://mp.weixin.qq.com/s/fRKQM-YfYP0XNyJrsiLhgw",
+        source:"长岭资本",
+        abstract:
+          "3月30日，中国“肿瘤医疗服务第一股” 海吉亚医疗（6078.HK）和中国“中医医疗服务第一股” 固生堂（2273.HK）发布了2021年度业绩公告。",
+        date: "March 30, 2022"
+      }, 
     {
         cate: "ECOSYSTEM",
         title: 
