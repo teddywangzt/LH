@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本斩获2022“年度医疗服务最佳投资机构”、“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
-        link: "https://mp.weixin.qq.com/s/W-2PQPtAeFBDAUGO10FbWw",
+          "新动能、新策略：长岭资本应邀参加2022 GPCA 全球私募资本大会",
+        link: "https://mp.weixin.qq.com/s/lRWN2-HbugeSjvJbVM_OZA",
         abstract:
-          "北京时间2022年4月3日，“第六届医疗健康投资卓悦榜”隆重发布。长岭资本获评2022“年度医疗服务最佳投资机构”、“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
-        date: "April 3, 2022"
+          "纽约时间2022年4月6日下午，由全球私人资本协会（GPCA）与世界银行国际金融IFC联合主办的2022 GPCA全球私募资本大会在纽约康莱德酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了以“发现中国增长的新机遇”为主题的在线圆桌论坛",
+        date: "April 8, 2022"
       }, 
       {
         cate: "长岭观点",
@@ -42,11 +42,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-          "长岭资本斩获2022“年度医疗服务最佳投资机构”、“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
-        link: "https://mp.weixin.qq.com/s/W-2PQPtAeFBDAUGO10FbWw",
+          "新动能、新策略：长岭资本应邀参加2022 GPCA 全球私募资本大会",
+        link: "https://mp.weixin.qq.com/s/lRWN2-HbugeSjvJbVM_OZA",
         abstract:
-          "北京时间2022年4月3日，“第六届医疗健康投资卓悦榜”隆重发布。长岭资本获评2022“年度医疗服务最佳投资机构”、“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
-        date: "April 3, 2022"
+          "纽约时间2022年4月6日下午，由全球私人资本协会（GPCA）与世界银行国际金融IFC联合主办的2022 GPCA全球私募资本大会在纽约康莱德酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了以“发现中国增长的新机遇”为主题的在线圆桌论坛",
+        date: "April 8, 2022"
       }, 
       {
         cate: "PERSPECTIVES",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "NEWS",
+        title:
+          "新动能、新策略：长岭资本应邀参加2022 GPCA 全球私募资本大会",
+        link: "https://mp.weixin.qq.com/s/lRWN2-HbugeSjvJbVM_OZA",
+        source:"长岭资本",
+        abstract:
+          "纽约时间2022年4月6日下午，由全球私人资本协会（GPCA）与世界银行国际金融IFC联合主办的2022 GPCA全球私募资本大会在纽约康莱德酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了以“发现中国增长的新机遇”为主题的在线圆桌论坛",
+        date: "April 8, 2022"
+      }, 
     {
         cate: "NEWS",
         title:
