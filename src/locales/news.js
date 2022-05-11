@@ -22,11 +22,11 @@ window.newsData = {
       {
         cate: "长岭分享",
         title: 
-           "有人开店月入百万，中国5亿人的刚需，撑起千亿运动康复蓝海市场",
-        link: "https://mp.weixin.qq.com/s/EN3_v4t2rpZR25A4pzrLwQ",
+           "手机戒毒、游戏治病，数字疗法惊动数百家VC | 36氪新风向",
+        link: "https://mp.weixin.qq.com/s/g8k5K5Eo38V2Jv5cy7jREA",
         abstract:
-          "“我觉得未来5年的机会是非常好的，发展空间也很广阔，这也是社会办医大有作为的一个赛道。” 长岭资本创始合伙人蒋晓冬表示。",
-        date: "March 24, 2022"
+          "在长岭资本创始合伙人蒋晓冬看来，“现在虽然行业处于商业化的早期，但并不能代表以后不能商业化。” 蒋晓冬告诉36氪，数字疗法最重要的是在于“疗法”而非“数字”",
+        date: "May 11, 2022"
       },
       {
         cate: "长岭生态",
@@ -60,11 +60,11 @@ window.newsData = {
       {
         cate: "SHARING",
         title: 
-           "有人开店月入百万，中国5亿人的刚需，撑起千亿运动康复蓝海市场",
-        link: "https://mp.weixin.qq.com/s/EN3_v4t2rpZR25A4pzrLwQ",
+           "手机戒毒、游戏治病，数字疗法惊动数百家VC | 36氪新风向",
+        link: "https://mp.weixin.qq.com/s/g8k5K5Eo38V2Jv5cy7jREA",
         abstract:
-          "“我觉得未来5年的机会是非常好的，发展空间也很广阔，这也是社会办医大有作为的一个赛道。” 长岭资本创始合伙人蒋晓冬表示。",
-        date: "March 24, 2022"
+          "在长岭资本创始合伙人蒋晓冬看来，“现在虽然行业处于商业化的早期，但并不能代表以后不能商业化。” 蒋晓冬告诉36氪，数字疗法最重要的是在于“疗法”而非“数字”",
+        date: "May 11, 2022"
       },
       {
         cate: "ECOSYSTEM",
@@ -78,6 +78,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "SHARING",
+        title: 
+           "手机戒毒、游戏治病，数字疗法惊动数百家VC | 36氪新风向",
+        link: "https://mp.weixin.qq.com/s/g8k5K5Eo38V2Jv5cy7jREA",
+        source:"长岭资本",
+        abstract:
+          "在长岭资本创始合伙人蒋晓冬看来，“现在虽然行业处于商业化的早期，但并不能代表以后不能商业化。” 蒋晓冬告诉36氪，数字疗法最重要的是在于“疗法”而非“数字”",
+        date: "May 11, 2022"
+      },
     {
         cate: "NEWS",
         title:
