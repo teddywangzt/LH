@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
-        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
+        title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
+        link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
         abstract:
-          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
-        date: "March 25, 2022"
+          "长岭资本管理合伙人蒋晓冬长期关注医疗服务领域，投出过海吉亚、固生堂等连锁医院品牌，根据他的观察，在过去5-10年间，非医疗服务企业跨界建设的医院鲜少有成功的案例。",
+        date: "June 2, 2022"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
-        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
+       title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
+        link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
         abstract:
-          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
-        date: "March 25, 2022"
+          "长岭资本管理合伙人蒋晓冬长期关注医疗服务领域，投出过海吉亚、固生堂等连锁医院品牌，根据他的观察，在过去5-10年间，非医疗服务企业跨界建设的医院鲜少有成功的案例。",
+        date: "June 2, 2022"
       }
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
+        link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬长期关注医疗服务领域，投出过海吉亚、固生堂等连锁医院品牌，根据他的观察，在过去5-10年间，非医疗服务企业跨界建设的医院鲜少有成功的案例。",
+        date: "June 2, 2022"
+      },
     {
       cate: "NEWS",
       title:
