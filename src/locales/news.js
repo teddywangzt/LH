@@ -28,7 +28,7 @@ window.newsData = {
         date: "May 11, 2022"
       },
       {
-        cate: "长岭生态",
+        cate: "长岭分享",
         title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
         link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
         abstract:
@@ -64,7 +64,7 @@ window.newsData = {
         date: "May 11, 2022"
       },
       {
-        cate: "ECOSYSTEM",
+        cate: "SHARING",
        title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
         link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
         abstract:
@@ -75,7 +75,7 @@ window.newsData = {
   },
   list: [
     {
-        cate: "ECOSYSTEM",
+        cate: "SHARING",
         title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
         link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
         source: "长岭资本",
