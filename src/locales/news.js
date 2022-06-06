@@ -20,12 +20,12 @@ window.newsData = {
         date: "July 19, 2021"
       },
       {
-        cate: "长岭分享",
-        title: "手机戒毒、游戏治病，数字疗法惊动数百家VC | 36氪新风向",
-        link: "https://mp.weixin.qq.com/s/g8k5K5Eo38V2Jv5cy7jREA",
+        cate: "长岭生态",
+        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
+        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
         abstract:
-          "在长岭资本创始合伙人蒋晓冬看来，“现在虽然行业处于商业化的早期，但并不能代表以后不能商业化。” 蒋晓冬告诉36氪，数字疗法最重要的是在于“疗法”而非“数字”",
-        date: "May 11, 2022"
+          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
+        date: "March 25, 2022"
       },
       {
         cate: "长岭分享",
@@ -56,12 +56,12 @@ window.newsData = {
         date: "July 19, 2021"
       },
       {
-        cate: "SHARING",
-        title: "手机戒毒、游戏治病，数字疗法惊动数百家VC | 36氪新风向",
-        link: "https://mp.weixin.qq.com/s/g8k5K5Eo38V2Jv5cy7jREA",
+        cate: "ECOSYSTEM",
+        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
+        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
         abstract:
-          "在长岭资本创始合伙人蒋晓冬看来，“现在虽然行业处于商业化的早期，但并不能代表以后不能商业化。” 蒋晓冬告诉36氪，数字疗法最重要的是在于“疗法”而非“数字”",
-        date: "May 11, 2022"
+          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
+        date: "March 25, 2022"
       },
       {
         cate: "SHARING",
