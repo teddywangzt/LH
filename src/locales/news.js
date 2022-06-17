@@ -13,11 +13,11 @@ window.newsData = {
       {
         cate: "长岭观点",
         title:
-          "2021退博会丨长岭资本蒋晓冬：在快速成长的慢行业，做难而正确的事情",
-        link: "https://mp.weixin.qq.com/s/VEevI6FtABMCV1odsEZFUA",
+          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
+        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
         abstract:
-          "2021年7月13-14日，第一届 退休美好生活博览会·2021（WRLE2021）在北京国际会议中心隆重举行。长岭资本管理合伙人蒋晓冬先生在大会开幕式上做了题为《以科技创新化解老龄化社会难题》主题演讲。",
-        date: "July 19, 2021"
+          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
+        date: "June 17, 2022"
       },
       {
         cate: "长岭生态",
@@ -49,11 +49,11 @@ window.newsData = {
       {
         cate: "PERSPECTIVES",
         title:
-          "2021退博会丨长岭资本蒋晓冬：在快速成长的慢行业，做难而正确的事情",
-        link: "https://mp.weixin.qq.com/s/VEevI6FtABMCV1odsEZFUA",
+          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
+        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
         abstract:
-          "2021年7月13-14日，第一届 退休美好生活博览会·2021（WRLE2021）在北京国际会议中心隆重举行。长岭资本管理合伙人蒋晓冬先生在大会开幕式上做了题为《以科技创新化解老龄化社会难题》主题演讲。",
-        date: "July 19, 2021"
+          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
+        date: "June 17, 2022"
       },
       {
         cate: "ECOSYSTEM",
@@ -75,10 +75,21 @@ window.newsData = {
   },
   list: [
     {
+        cate: "PERSPECTIVES",
+        title:
+          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
+        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
+        source: "长岭资本",
+        abstract:
+          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
+        date: "June 17, 2022"
+      },
+    {
         cate: "NEWS",
         title:
           "长岭资本及被投企业斩获25项「2022未来医疗100强」大奖",
         link: "https://mp.weixin.qq.com/s/durqkUeEkF65ShQAGiNWRg",
+        source: "长岭资本",
         abstract:
           "2022年6月15日晚，第六届未来医疗100强大会发布了「2022未来医疗100强系列榜单」，长岭资本及被投企业共斩获25个大奖。16家长岭被投企业荣登未来医疗TOP100及价值领域TOP10榜单，占长岭医疗投资组合总数的近40%。",
         date: "June 16, 2022"
