@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
-        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
+        title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
         abstract:
-          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
-        date: "March 25, 2022"
+          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
+        date: "June 30, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "【首发】简单心理再获B+轮1亿元融资，加速推进数字化升级",
-        link: "https://mp.weixin.qq.com/s/2rdbgjBWr1qUk6XvhCJxqQ",
+        title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
         abstract:
-          "心理健康服务平台简单心理已于近期完成B+轮融资。本轮融资由千骥资本独家投资，投资金额为1亿元人民币。",
-        date: "March 25, 2022"
+          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
+        date: "June 30, 2022"
       },
       {
         cate: "SHARING",
@@ -74,6 +74,15 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
+        date: "June 30, 2022"
+      },
     {
         cate: "PERSPECTIVES",
         title:
