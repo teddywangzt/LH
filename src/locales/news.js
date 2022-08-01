@@ -29,11 +29,11 @@ window.newsData = {
       },
       {
         cate: "长岭分享",
-        title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
-        link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
+        title: "年轻人的精神内耗，带火了这条「冷门」赛道？",
+        link: "https://mp.weixin.qq.com/s/ssuiISYUFE_d6lYwD0O6Sw",
         abstract:
-          "长岭资本管理合伙人蒋晓冬长期关注医疗服务领域，投出过海吉亚、固生堂等连锁医院品牌，根据他的观察，在过去5-10年间，非医疗服务企业跨界建设的医院鲜少有成功的案例。",
-        date: "June 2, 2022"
+          "长岭资本管理合伙人蒋晓冬长期关注医疗领域，也是简单心理与暂停实验室的投资人。",
+        date: "August 1, 2022"
       }
     ],
     en: [
@@ -65,15 +65,24 @@ window.newsData = {
       },
       {
         cate: "SHARING",
-       title: "茅台19亿进，雅戈尔13亿退，跨界建医院的上市公司们怎么样了？",
-        link: "https://mp.weixin.qq.com/s/6k_9WgWUSSvkT7rivNTkgA",
+        title: "年轻人的精神内耗，带火了这条「冷门」赛道？",
+        link: "https://mp.weixin.qq.com/s/ssuiISYUFE_d6lYwD0O6Sw",
         abstract:
-          "长岭资本管理合伙人蒋晓冬长期关注医疗服务领域，投出过海吉亚、固生堂等连锁医院品牌，根据他的观察，在过去5-10年间，非医疗服务企业跨界建设的医院鲜少有成功的案例。",
-        date: "June 2, 2022"
+          "长岭资本管理合伙人蒋晓冬长期关注医疗领域，也是简单心理与暂停实验室的投资人。",
+        date: "August 1, 2022"
       }
     ]
   },
   list: [
+     {
+        cate: "SHARING",
+        title: "年轻人的精神内耗，带火了这条「冷门」赛道？",
+        link: "https://mp.weixin.qq.com/s/ssuiISYUFE_d6lYwD0O6Sw",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬长期关注医疗领域，也是简单心理与暂停实验室的投资人。",
+        date: "August 1, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
