@@ -21,19 +21,19 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
+        title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
+        date: "June 30, 2022"
+      },
+      {
+        cate: "长岭分享",
         title: "高光时刻之后，互联网医疗怎样才能拿到融资？",
         link: "https://mp.weixin.qq.com/s/5Y6chH-KNZyQuh2XZlsNSg",
         abstract:
           "长岭资本管理合伙人蒋晓冬表示，具有互联网属性的医疗服务，并不只是通过互联网工具提供。“互联网的核心思维是以客户为中心，复用到医疗服务上，就是追求以患者为中心。”在蒋晓冬看来，需从患者能享受到的效果和效率角度出发，重构医疗服务的流程和形式。“传统医疗服务体系以医院和医生为中心的状态急需改变，未来大部分医疗服务都将发展为OMO模式。”",
         date: "August 11, 2022"
-      },
-      {
-        cate: "长岭分享",
-        title: "年轻人的精神内耗，带火了这条「冷门」赛道？",
-        link: "https://mp.weixin.qq.com/s/ssuiISYUFE_d6lYwD0O6Sw",
-        abstract:
-          "长岭资本管理合伙人蒋晓冬长期关注医疗领域，也是简单心理与暂停实验室的投资人。",
-        date: "August 1, 2022"
       }
     ],
     en: [
@@ -57,25 +57,25 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
+         title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
+        date: "June 30, 2022"
+      },
+      {
+        cate: "SHARING",
         title: "高光时刻之后，互联网医疗怎样才能拿到融资？",
         link: "https://mp.weixin.qq.com/s/5Y6chH-KNZyQuh2XZlsNSg",
         abstract:
           "长岭资本管理合伙人蒋晓冬表示，具有互联网属性的医疗服务，并不只是通过互联网工具提供。“互联网的核心思维是以客户为中心，复用到医疗服务上，就是追求以患者为中心。”在蒋晓冬看来，需从患者能享受到的效果和效率角度出发，重构医疗服务的流程和形式。“传统医疗服务体系以医院和医生为中心的状态急需改变，未来大部分医疗服务都将发展为OMO模式。”",
         date: "August 11, 2022"
-      },
-      {
-        cate: "SHARING",
-        title: "年轻人的精神内耗，带火了这条「冷门」赛道？",
-        link: "https://mp.weixin.qq.com/s/ssuiISYUFE_d6lYwD0O6Sw",
-        abstract:
-          "长岭资本管理合伙人蒋晓冬长期关注医疗领域，也是简单心理与暂停实验室的投资人。",
-        date: "August 1, 2022"
       }
     ]
   },
   list: [
      {
-        cate: "ECOSYSTEM",
+        cate: "SHARING",
         title: "高光时刻之后，互联网医疗怎样才能拿到融资？",
         link: "https://mp.weixin.qq.com/s/5Y6chH-KNZyQuh2XZlsNSg",
         source: "长岭资本",
