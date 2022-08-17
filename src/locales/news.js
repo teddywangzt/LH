@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
-        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
+        title: "固生堂发布中期业绩，增长强劲，盈利提升",
+        link: "https://mp.weixin.qq.com/s/vINWjY2Q9OeA5Xh3F6YkuA",
         abstract:
-          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
-        date: "June 30, 2022"
+          "2022年8月16日，固生堂（2273.HK）公布截至2022年6月30日止6个月中期业绩，这是固生堂自2021年12月登陆香港联交所后披露的第二份业绩报告。报告中显示，尽管2022年上半年疫情持续反复，固生堂仍然保持了业务快速稳健的增长：营业收入达到人民币7.03亿元，同比增加17.5%；经调整净利润人民币6430万元，同比增加40.1%。自2021年12月10日上市至今，固生堂后市表现靓丽，股价已累计上涨超过30%，而同期恒生指数则下跌了18%。",
+        date: "August 17, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-         title: "【首发】辅助出行新势力邦邦机器人B轮融资完成近亿人民币“首关”",
-        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ==&mid=2247486150&idx=1&sn=fa3d8bcc1d2c26b37d9f9753ae6c660e&chksm=ec710358db068a4edcf83eb8f54ff9df67de8278f357d8bc5f6ce05cc87f1e0e6066e46816e1&mpshare=1&scene=1&srcid=0630oA0GLwxdhp9wPbx3n53I&sharer_sharetime=1656550345555&sharer_shareid=ea84566346a1c9b13aa33e615ef5feb6&version=4.0.0.6023&platform=win#rd",
+        title: "固生堂发布中期业绩，增长强劲，盈利提升",
+        link: "https://mp.weixin.qq.com/s/vINWjY2Q9OeA5Xh3F6YkuA",
         abstract:
-          "长岭资本管理合伙人蒋晓冬先生表示，随着我国人口的快速老龄化，老人与科技产品间的鸿沟也日益凸显。邦邦团队正是抓住了这一突出矛盾，运用自身的坚实技术积累，创新性地将芯片、新材料、电机、物联网等高新技术服务于老年用户的智能出行与康复领域。",
-        date: "June 30, 2022"
+          "2022年8月16日，固生堂（2273.HK）公布截至2022年6月30日止6个月中期业绩，这是固生堂自2021年12月登陆香港联交所后披露的第二份业绩报告。报告中显示，尽管2022年上半年疫情持续反复，固生堂仍然保持了业务快速稳健的增长：营业收入达到人民币7.03亿元，同比增加17.5%；经调整净利润人民币6430万元，同比增加40.1%。自2021年12月10日上市至今，固生堂后市表现靓丽，股价已累计上涨超过30%，而同期恒生指数则下跌了18%。",
+        date: "August 17, 2022"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,16 @@ window.newsData = {
     ]
   },
   list: [
-      {
+     {
+        cate: "ECOSYSTEM",
+        title: "固生堂发布中期业绩，增长强劲，盈利提升",
+        link: "https://mp.weixin.qq.com/s/vINWjY2Q9OeA5Xh3F6YkuA",
+        source: "长岭资本",
+        abstract:
+          "2022年8月16日，固生堂（2273.HK）公布截至2022年6月30日止6个月中期业绩，这是固生堂自2021年12月登陆香港联交所后披露的第二份业绩报告。报告中显示，尽管2022年上半年疫情持续反复，固生堂仍然保持了业务快速稳健的增长：营业收入达到人民币7.03亿元，同比增加17.5%；经调整净利润人民币6430万元，同比增加40.1%。自2021年12月10日上市至今，固生堂后市表现靓丽，股价已累计上涨超过30%，而同期恒生指数则下跌了18%。",
+        date: "August 17, 2022"
+      },
+    {
         cate: "SHARING",
         title: "超90亿元投资涌入数字疗法，明星资本都在怎么投？",
         link: "https://mp.weixin.qq.com/s/xnAjFIXRkHykd5jp8cM6jw",
