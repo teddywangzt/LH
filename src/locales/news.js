@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "泉心泉意完成千万美元A+轮融资，提供医药研发全生命周期供应链服务",
-        link: "https://mp.weixin.qq.com/s/m1lrcG2q8gUwyWl7AXDWpg",
+        title: "海吉亚医疗发布中报，业绩成长大超市场预期",
+        link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：泉心泉意创始人杨颖将以往的经历经验化为了对行业的深刻洞察，凭借先进的服务理念、超前的战略布局和丰富的行业资源，带领泉心泉意与医药研发行业客户一同成长，已然成为这一领域的领导者。",
-        date: "August 26, 2022"
+          "2022年8月31日，海吉亚医疗(6078.HK)公布了截至2022年6月30日止6个月其2022年中期业绩。",
+        date: "September 1, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-         title: "泉心泉意完成千万美元A+轮融资，提供医药研发全生命周期供应链服务",
-        link: "https://mp.weixin.qq.com/s/m1lrcG2q8gUwyWl7AXDWpg",
+        title: "海吉亚医疗发布中报，业绩成长大超市场预期",
+        link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：泉心泉意创始人杨颖将以往的经历经验化为了对行业的深刻洞察，凭借先进的服务理念、超前的战略布局和丰富的行业资源，带领泉心泉意与医药研发行业客户一同成长，已然成为这一领域的领导者。",
-        date: "August 26, 2022"
+          "2022年8月31日，海吉亚医疗(6078.HK)公布了截至2022年6月30日止6个月其2022年中期业绩。",
+        date: "September 1, 2022"
       },
       {
         cate: "SHARING",
@@ -76,7 +76,16 @@ window.newsData = {
   list: [
      {
         cate: "ECOSYSTEM",
-         title: "泉心泉意完成千万美元A+轮融资，提供医药研发全生命周期供应链服务",
+        title: "海吉亚医疗发布中报，业绩成长大超市场预期",
+        link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
+        source: "长岭资本",
+        abstract:
+          "2022年8月31日，海吉亚医疗(6078.HK)公布了截至2022年6月30日止6个月其2022年中期业绩。",
+        date: "September 1, 2022"
+      },
+    {
+        cate: "ECOSYSTEM",
+        title: "泉心泉意完成千万美元A+轮融资，提供医药研发全生命周期供应链服务",
         link: "https://mp.weixin.qq.com/s/m1lrcG2q8gUwyWl7AXDWpg",
         source: "长岭资本",
         abstract:
