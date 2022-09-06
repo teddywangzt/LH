@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "海吉亚医疗发布中报，业绩成长大超市场预期",
-        link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
+        title: "旅游业老兵二次创业，为何瞄准基层医疗服务标准化？",
+        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
         abstract:
-          "2022年8月31日，海吉亚医疗(6078.HK)公布了截至2022年6月30日止6个月其2022年中期业绩。",
-        date: "September 1, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“在有限的医疗资源和需求激增的大背景下，正在走向共同富裕的中国医疗必须增加优质医疗服务的可及性、提升基层服务能力，实现高效资源对接和落地。 ",
+        date: "September 6, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "海吉亚医疗发布中报，业绩成长大超市场预期",
-        link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
+        title: "旅游业老兵二次创业，为何瞄准基层医疗服务标准化？",
+        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
         abstract:
-          "2022年8月31日，海吉亚医疗(6078.HK)公布了截至2022年6月30日止6个月其2022年中期业绩。",
-        date: "September 1, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“在有限的医疗资源和需求激增的大背景下，正在走向共同富裕的中国医疗必须增加优质医疗服务的可及性、提升基层服务能力，实现高效资源对接和落地。 ",
+        date: "September 6, 2022"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: "旅游业老兵二次创业，为何瞄准基层医疗服务标准化？",
+        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬表示：“在有限的医疗资源和需求激增的大背景下，正在走向共同富裕的中国医疗必须增加优质医疗服务的可及性、提升基层服务能力，实现高效资源对接和落地。 ",
+        date: "September 6, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "海吉亚医疗发布中报，业绩成长大超市场预期",
         link: "https://mp.weixin.qq.com/s/QHroCPM1dT_Dnewd3EXTmg",
