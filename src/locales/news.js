@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "旅游业老兵二次创业，为何瞄准基层医疗服务标准化？",
+        title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
         link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“在有限的医疗资源和需求激增的大背景下，正在走向共同富裕的中国医疗必须增加优质医疗服务的可及性、提升基层服务能力，实现高效资源对接和落地。 ",
-        date: "September 6, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“虽然疫情不断反复，但中国人口老龄化的脚步并未因此放缓。博斯腾团队在陆总的带领下不但克服了疫情造成的困难，而且在学术研究、产品落地、融资方面都取得了诸多重要的进展。 ",
+        date: "September 16, 2022"
       },
       {
         cate: "长岭分享",
@@ -48,12 +48,11 @@ window.newsData = {
       },
       {
         cate: "PERSPECTIVES",
-        title:
-          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
-        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
+        title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
+        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
         abstract:
-          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
-        date: "June 17, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“虽然疫情不断反复，但中国人口老龄化的脚步并未因此放缓。博斯腾团队在陆总的带领下不但克服了疫情造成的困难，而且在学术研究、产品落地、融资方面都取得了诸多重要的进展。 ",
+        date: "September 16, 2022"
       },
       {
         cate: "ECOSYSTEM",
@@ -75,6 +74,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "PERSPECTIVES",
+        title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
+        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬表示：“虽然疫情不断反复，但中国人口老龄化的脚步并未因此放缓。博斯腾团队在陆总的带领下不但克服了疫情造成的困难，而且在学术研究、产品落地、融资方面都取得了诸多重要的进展。 ",
+        date: "September 16, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "旅游业老兵二次创业，为何瞄准基层医疗服务标准化？",
         link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
