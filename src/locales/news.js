@@ -75,7 +75,7 @@ window.newsData = {
   },
   list: [
      {
-        cate: "PERSPECTIVES",
+        cate: "ECOSYSTEM",
         title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
         link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
         source: "长岭资本",
