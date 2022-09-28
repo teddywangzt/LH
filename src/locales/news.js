@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
-        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
+        title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
+        link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“虽然疫情不断反复，但中国人口老龄化的脚步并未因此放缓。博斯腾团队在陆总的带领下不但克服了疫情造成的困难，而且在学术研究、产品落地、融资方面都取得了诸多重要的进展。 ",
-        date: "September 16, 2022"
+          "作为本轮融资的独家投资方，长岭资本管理合伙人蒋晓冬表示：“医疗影像设备特别是CT作为常规的诊疗手段，下沉到基层医院是大势所趋。而随着国产替代的加速，对CT的性价比、维护效率以及多场景化都提出了更高的要求。",
+        date: "September 28, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
-        link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
+        title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
+        link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“虽然疫情不断反复，但中国人口老龄化的脚步并未因此放缓。博斯腾团队在陆总的带领下不但克服了疫情造成的困难，而且在学术研究、产品落地、融资方面都取得了诸多重要的进展。 ",
-        date: "September 16, 2022"
+          "作为本轮融资的独家投资方，长岭资本管理合伙人蒋晓冬表示：“医疗影像设备特别是CT作为常规的诊疗手段，下沉到基层医院是大势所趋。而随着国产替代的加速，对CT的性价比、维护效率以及多场景化都提出了更高的要求。",
+        date: "September 28, 2022"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
+        link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
+        source: "长岭资本",
+        abstract:
+          "作为本轮融资的独家投资方，长岭资本管理合伙人蒋晓冬表示：“医疗影像设备特别是CT作为常规的诊疗手段，下沉到基层医院是大势所趋。而随着国产替代的加速，对CT的性价比、维护效率以及多场景化都提出了更高的要求。",
+        date: "September 28, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "【首发】博斯腾完成亿元A+轮融资，继续深耕认知功能数字疗法领域",
         link: "https://mp.weixin.qq.com/s/cGYH-uHW7vnXD92zLI3Fdg",
