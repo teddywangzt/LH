@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本及被投企业斩获25项「2022未来医疗100强」大奖",
-        link: "https://mp.weixin.qq.com/s/durqkUeEkF65ShQAGiNWRg",
+          "致敬重阳：愿流年不负，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
         abstract:
-          "2022年6月15日晚，第六届未来医疗100强大会发布了「2022未来医疗100强系列榜单」，长岭资本及被投企业共斩获25个大奖。16家长岭被投企业荣登未来医疗TOP100及价值领域TOP10榜单，占长岭医疗投资组合总数的近40%。",
-        date: "June 16, 2022"
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 4, 2022"
       },
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
         cate: "NEWS",
         title:
-          "长岭资本及被投企业斩获25项「2022未来医疗100强」大奖",
-        link: "https://mp.weixin.qq.com/s/durqkUeEkF65ShQAGiNWRg",
+          "致敬重阳：愿流年不负，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
         abstract:
-          "2022年6月15日晚，第六届未来医疗100强大会发布了「2022未来医疗100强系列榜单」，长岭资本及被投企业共斩获25个大奖。16家长岭被投企业荣登未来医疗TOP100及价值领域TOP10榜单，占长岭医疗投资组合总数的近40%。",
-        date: "June 16, 2022"
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 4, 2022"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,7 +74,17 @@ window.newsData = {
     ]
   },
   list: [
-     {
+      {
+        cate: "NEWS",
+        title:
+          "致敬重阳：愿流年不负，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
+        source: "长岭资本",
+        abstract:
+          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
+        date: "October 4, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
         link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
