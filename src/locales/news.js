@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
-        link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
+        title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
+        link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
         abstract:
-          "作为本轮融资的独家投资方，长岭资本管理合伙人蒋晓冬表示：“医疗影像设备特别是CT作为常规的诊疗手段，下沉到基层医院是大势所趋。而随着国产替代的加速，对CT的性价比、维护效率以及多场景化都提出了更高的要求。",
-        date: "September 28, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“伴随着强基层和医药改革等医改主旋律，清赟科技在颜总的带领下，积极探索适应中国基层市场的医药数字化营销的新路径，并提供了成功的范本。",
+        date: "October 8, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "专注医学影像核心技术创新，晟诺医疗获得长岭资本数千万元A轮融资",
-        link: "https://mp.weixin.qq.com/s/p3iLBmvQz3AtALju-LZ71Q",
+         title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
+        link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
         abstract:
-          "作为本轮融资的独家投资方，长岭资本管理合伙人蒋晓冬表示：“医疗影像设备特别是CT作为常规的诊疗手段，下沉到基层医院是大势所趋。而随着国产替代的加速，对CT的性价比、维护效率以及多场景化都提出了更高的要求。",
-        date: "September 28, 2022"
+          "长岭资本管理合伙人蒋晓冬表示：“伴随着强基层和医药改革等医改主旋律，清赟科技在颜总的带领下，积极探索适应中国基层市场的医药数字化营销的新路径，并提供了成功的范本。",
+        date: "October 8, 2022"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,16 @@ window.newsData = {
     ]
   },
   list: [
-      {
+     {
+        cate: "ECOSYSTEM",
+         title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
+        link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
+        source: "长岭资本",
+        abstract:
+          "长岭资本管理合伙人蒋晓冬表示：“伴随着强基层和医药改革等医改主旋律，清赟科技在颜总的带领下，积极探索适应中国基层市场的医药数字化营销的新路径，并提供了成功的范本。",
+        date: "October 8, 2022"
+      }, 
+    {
         cate: "NEWS",
         title:
           "致敬重阳：愿流年不负，愿岁月可期",
