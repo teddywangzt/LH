@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
-        link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
+        title: "对话天与养老创始人卜江勇：用技术重新定义养老",
+        link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“伴随着强基层和医药改革等医改主旋律，清赟科技在颜总的带领下，积极探索适应中国基层市场的医药数字化营销的新路径，并提供了成功的范本。",
-        date: "October 8, 2022"
+          "天与养老是中国数字化医养结合的先行者。自2019年公司成立后不到3年的时间里，接连完成了来自长岭资本、高瓴资本、万物资本、钟鼎资本等机构的A轮、A+轮融资。",
+        date: "October 19, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-         title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
-        link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
+        title: "对话天与养老创始人卜江勇：用技术重新定义养老",
+        link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“伴随着强基层和医药改革等医改主旋律，清赟科技在颜总的带领下，积极探索适应中国基层市场的医药数字化营销的新路径，并提供了成功的范本。",
-        date: "October 8, 2022"
+          "天与养老是中国数字化医养结合的先行者。自2019年公司成立后不到3年的时间里，接连完成了来自长岭资本、高瓴资本、万物资本、钟鼎资本等机构的A轮、A+轮融资。",
+        date: "October 19, 2022"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: "对话天与养老创始人卜江勇：用技术重新定义养老",
+        link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
+        source: "长岭资本",
+        abstract:
+          "天与养老是中国数字化医养结合的先行者。自2019年公司成立后不到3年的时间里，接连完成了来自长岭资本、高瓴资本、万物资本、钟鼎资本等机构的A轮、A+轮融资。",
+        date: "October 19, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
          title: "清赟科技获得C轮数千万美元融资，持续领航药企数字化营销",
         link: "https://mp.weixin.qq.com/s/cBsiAFgEcQ5HWKpeCKL3Kw",
