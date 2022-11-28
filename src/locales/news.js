@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "对话天与养老创始人卜江勇：用技术重新定义养老",
-        link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
+        title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
+        link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
         abstract:
-          "天与养老是中国数字化医养结合的先行者。自2019年公司成立后不到3年的时间里，接连完成了来自长岭资本、高瓴资本、万物资本、钟鼎资本等机构的A轮、A+轮融资。",
-        date: "October 19, 2022"
+          "继9月披露获得千骥资本亿元A+轮领投后，博斯腾科技又获58神骐资本的千万级人民币追加投资。作为公司的独家天使投资人，长岭资本欣喜地看到公司得到越来越多合作伙伴的广泛认可。",
+        date: "November 28, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "对话天与养老创始人卜江勇：用技术重新定义养老",
-        link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
+        title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
+        link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
         abstract:
-          "天与养老是中国数字化医养结合的先行者。自2019年公司成立后不到3年的时间里，接连完成了来自长岭资本、高瓴资本、万物资本、钟鼎资本等机构的A轮、A+轮融资。",
-        date: "October 19, 2022"
+          "继9月披露获得千骥资本亿元A+轮领投后，博斯腾科技又获58神骐资本的千万级人民币追加投资。作为公司的独家天使投资人，长岭资本欣喜地看到公司得到越来越多合作伙伴的广泛认可。",
+        date: "November 28, 2022"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,16 @@ window.newsData = {
     ]
   },
   list: [
-     {
+      {
+        cate: "ECOSYSTEM",
+        title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
+        link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
+        source: "长岭资本",
+        abstract:
+          "继9月披露获得千骥资本亿元A+轮领投后，博斯腾科技又获58神骐资本的千万级人民币追加投资。作为公司的独家天使投资人，长岭资本欣喜地看到公司得到越来越多合作伙伴的广泛认可。",
+        date: "November 28, 2022"
+      },
+    {
         cate: "ECOSYSTEM",
         title: "对话天与养老创始人卜江勇：用技术重新定义养老",
         link: "https://mp.weixin.qq.com/s/UbEtsKPuBWRXNujHTW7uow",
