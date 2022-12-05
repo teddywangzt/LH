@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
-        link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
+        title: "望里科技完成亿元级融资，继续深耕精神健康数字疗法赛道",
+        link: "https://mp.weixin.qq.com/s/cjVznsTrpQIFlgoLM7hSfA",
         abstract:
-          "继9月披露获得千骥资本亿元A+轮领投后，博斯腾科技又获58神骐资本的千万级人民币追加投资。作为公司的独家天使投资人，长岭资本欣喜地看到公司得到越来越多合作伙伴的广泛认可。",
-        date: "November 28, 2022"
+          "国内领先的精神健康数字疗法科技平台企业望里科技，近日宣布完成亿元级融资。本轮融资由晨兴创投领投、中新资本跟投，老股东长岭资本、博远资本持续加注，泰合资本担任本次融资独家财务顾问。",
+        date: "December 5, 2022"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
-        link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
+        title: "望里科技完成亿元级融资，继续深耕精神健康数字疗法赛道",
+        link: "https://mp.weixin.qq.com/s/cjVznsTrpQIFlgoLM7hSfA",
         abstract:
-          "继9月披露获得千骥资本亿元A+轮领投后，博斯腾科技又获58神骐资本的千万级人民币追加投资。作为公司的独家天使投资人，长岭资本欣喜地看到公司得到越来越多合作伙伴的广泛认可。",
-        date: "November 28, 2022"
+          "国内领先的精神健康数字疗法科技平台企业望里科技，近日宣布完成亿元级融资。本轮融资由晨兴创投领投、中新资本跟投，老股东长岭资本、博远资本持续加注，泰合资本担任本次融资独家财务顾问。",
+        date: "December 5, 2022"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,16 @@ window.newsData = {
     ]
   },
   list: [
-      {
+    {
+        cate: "ECOSYSTEM",
+        title: "望里科技完成亿元级融资，继续深耕精神健康数字疗法赛道",
+        link: "https://mp.weixin.qq.com/s/cjVznsTrpQIFlgoLM7hSfA",
+        source: "长岭资本",
+        abstract:
+          "国内领先的精神健康数字疗法科技平台企业望里科技，近日宣布完成亿元级融资。本轮融资由晨兴创投领投、中新资本跟投，老股东长岭资本、博远资本持续加注，泰合资本担任本次融资独家财务顾问。",
+        date: "December 5, 2022"
+      },  
+    {
         cate: "ECOSYSTEM",
         title: "博斯腾获得58神骐资本追加投资，持续加强科研能力建设和临床转化",
         link: "https://mp.weixin.qq.com/s/Pix-fRocZxfry_QdpWlBQA",
