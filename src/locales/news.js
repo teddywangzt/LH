@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "致敬重阳：愿流年不负，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
+          "“ 你的斑驳与众不同 ”：长岭资本2022年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Tzo5wI3-k2UzUOUqCKWUSQ",
         abstract:
-          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
-        date: "October 4, 2022"
+          "2022年12月12日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“ 致敬创业路上的孤勇者 ”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "December 19, 2022"
       },
       {
         cate: "长岭观点",
@@ -39,12 +39,12 @@ window.newsData = {
     en: [
       {
         cate: "NEWS",
-        title:
-          "致敬重阳：愿流年不负，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
+       title:
+          "“ 你的斑驳与众不同 ”：长岭资本2022年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Tzo5wI3-k2UzUOUqCKWUSQ",
         abstract:
-          "长岭资本恭祝全国老年朋友们重阳节快乐安康！",
-        date: "October 4, 2022"
+          "2022年12月12日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“ 致敬创业路上的孤勇者 ”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "December 19, 2022"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+     {
+        cate: "NEWS",
+        title:
+          "“ 你的斑驳与众不同 ”：长岭资本2022年基金合伙人大会成功举办",
+        link: "https://mp.weixin.qq.com/s/Tzo5wI3-k2UzUOUqCKWUSQ",
+        source: "长岭资本",
+        abstract:
+          "2022年12月12日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“ 致敬创业路上的孤勇者 ”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
+        date: "December 19, 2022"
+      },
     {
         cate: "ECOSYSTEM",
         title: "固生堂上市一周年：市值超百亿，涨幅领跑港股医药IPO",
