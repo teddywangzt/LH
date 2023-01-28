@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "固生堂上市一周年：市值超百亿，涨幅领跑港股医药IPO",
-        link: "https://mp.weixin.qq.com/s/QsD2kT6QJAUhEGX8FnTM5A",
+        title: "2023新春贺岁 | 动脉网x长岭资本尖峰对话",
+        link: "https://mp.weixin.qq.com/s/utXYPpzI6Wf4M8TyGuh5jA",
         abstract:
-          "2022年12月10日，长岭资本投资企业固生堂（2273.HK）迎来上市一周年。固生堂作为中医医疗服务第一股，自成功上市的一年中，逆市飞扬，业绩实现快速增长，市值已从上市之初的66亿港币，攀升至2022年12月9日收盘的逾107亿港币，累计后市涨幅达61%，是在2021年赴港IPO的所有34家中国医药企业中唯一实现后市涨幅为正的企业，稳居港股中国医疗服务企业市值前三甲。",
-        date: "December 12, 2022"
+          "兔年伊始，长岭资本管理合伙人蒋晓冬应邀与动脉网就后疫情时代的中国医疗服务展开尖峰对话。",
+        date: "January 22, 2023"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "固生堂上市一周年：市值超百亿，涨幅领跑港股医药IPO",
-        link: "https://mp.weixin.qq.com/s/QsD2kT6QJAUhEGX8FnTM5A",
+        title: "2023新春贺岁 | 动脉网x长岭资本尖峰对话",
+        link: "https://mp.weixin.qq.com/s/utXYPpzI6Wf4M8TyGuh5jA",
         abstract:
-          "2022年12月10日，长岭资本投资企业固生堂（2273.HK）迎来上市一周年。固生堂作为中医医疗服务第一股，自成功上市的一年中，逆市飞扬，业绩实现快速增长，市值已从上市之初的66亿港币，攀升至2022年12月9日收盘的逾107亿港币，累计后市涨幅达61%，是在2021年赴港IPO的所有34家中国医药企业中唯一实现后市涨幅为正的企业，稳居港股中国医疗服务企业市值前三甲。",
-        date: "December 12, 2022"
+          "兔年伊始，长岭资本管理合伙人蒋晓冬应邀与动脉网就后疫情时代的中国医疗服务展开尖峰对话。",
+        date: "January 22, 2023"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: "2023新春贺岁 | 动脉网x长岭资本尖峰对话",
+        link: "https://mp.weixin.qq.com/s/utXYPpzI6Wf4M8TyGuh5jA",
+        source: "长岭资本",
+        abstract:
+          "兔年伊始，长岭资本管理合伙人蒋晓冬应邀与动脉网就后疫情时代的中国医疗服务展开尖峰对话。",
+        date: "January 22, 2023"
+      },
+    {
         cate: "SHARING",
         title: "2022数字化心理健康行业报告：数字疗法与互联网医疗助力2.3亿潜在需求，已势不可挡",
         link: "https://mp.weixin.qq.com/s/GxT5Jf_5bieYhdwUFcvSzA",
