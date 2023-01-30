@@ -268,6 +268,11 @@
         "text": "固生堂中医：中国最大的数字化连锁新中医服务平台"
       },
       {
+        "picture": "./static/image/company-logo/10.png",
+        "type": "新医疗健康服务",
+        "text": "彩虹医生：消费医疗的互联网+"
+      },
+      {
         "picture": "./static/image/company-logo/06.png",
         "type": "新医疗健康服务",
         "text": "简单心理：中国最大在线心理健康服务平台"
@@ -280,7 +285,7 @@
       {
         "picture": "./static/image/company-logo/yfmz-1-0118.jpg",
         "type": "新医疗健康服务",
-        "text": "优复门诊：骨科与运动康复连锁医疗机构"
+        "text": "优复医疗：骨科与运动康复连锁医疗机构"
       },
       {
         "picture": "./static/image/company-logo/04.png",
@@ -331,31 +336,6 @@
         "picture": "./static/image/company-logo/qykj.png",
         "type": "医疗新基建",
         "text": "清赟科技：医药数字化营销的先行者"
-      },
-      {
-        "picture": "./static/image/company-logo/10.png",
-        "type": "健康新消费",
-        "text": "彩虹医生：消费医疗的互联网+"
-      },
-      {
-        "picture": "./static/image/company-logo/12.png",
-        "type": "健康新消费",
-        "text": "颈医卫：专业脊椎健康养护机构"
-      },
-      {
-        "picture": "./static/image/company-logo/11.png",
-        "type": "健康新消费",
-        "text": "怡脂：首家专注塑形的医疗美容机构"
-      },
-      {
-        "picture": "./static/image/company-logo/rmjk-1.png",
-        "type": "健康新消费",
-        "text": "若米健康：新型糖尿病治疗与健康管理公司"
-      },
-      {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "健康新消费",
-        "text": "睿健时代：产后修复和女性减脂健康管理平台"
       },
       {
         "picture": "./static/image/company-logo/15.png",
