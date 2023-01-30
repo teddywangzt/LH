@@ -254,7 +254,6 @@
       "新医疗健康服务",
       "新医疗科技",
       "医疗新基建",
-      "健康新消费",
       "新型老龄化"
     ],
     "companies": [
@@ -269,6 +268,11 @@
         "text": "固生堂中医：中国最大的数字化连锁新中医服务平台"
       },
       {
+        "picture": "./static/image/company-logo/10.png",
+        "type": "新医疗健康服务",
+        "text": "彩虹医生：消费医疗的互联网+"
+      },
+      {
         "picture": "./static/image/company-logo/06.png",
         "type": "新医疗健康服务",
         "text": "简单心理：中国最大在线心理健康服务平台"
@@ -281,7 +285,7 @@
       {
         "picture": "./static/image/company-logo/yfmz-1-0118.jpg",
         "type": "新医疗健康服务",
-        "text": "优复门诊：骨科与运动康复连锁医疗机构"
+        "text": "优复医疗：骨科与运动康复连锁医疗机构"
       },
       {
         "picture": "./static/image/company-logo/04.png",
@@ -319,12 +323,12 @@
         "text": "泉心泉意：试剂耗材一站式采购平台"
       },
       {
-        "picture": "./static/image/company-logo/16.png",
+        "picture": "./static/image/company-logo/dkyy.jpg",
         "type": "医疗新基建",
-        "text": "动脉网：医疗领域的专业服务机构"
+        "text": "德开医药：医药新零售时代开创者"
       },
       {
-        "picture": "./static/image/company-logo/ykym-1.png",
+        "picture": "./static/image/company-logo/ykym-2.jpg",
         "type": "医疗新基建",
         "text": "云开亚美：中国领先的慢特疾病综合服务平台"
       },
@@ -334,39 +338,14 @@
         "text": "清赟科技：医药数字化营销的先行者"
       },
       {
-        "picture": "./static/image/company-logo/10.png",
-        "type": "健康新消费",
-        "text": "彩虹医生：消费医疗的互联网+"
-      },
-      {
-        "picture": "./static/image/company-logo/12.png",
-        "type": "健康新消费",
-        "text": "颈医卫：专业脊椎健康养护机构"
-      },
-      {
-        "picture": "./static/image/company-logo/11.png",
-        "type": "健康新消费",
-        "text": "怡脂：首家专注塑形的医疗美容机构"
-      },
-      {
-        "picture": "./static/image/company-logo/rmjk-1.png",
-        "type": "健康新消费",
-        "text": "若米健康：新型糖尿病治疗与健康管理公司"
-      },
-      {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "健康新消费",
-        "text": "睿健时代：产后修复和女性减脂健康管理平台"
-      },
-      {
-        "picture": "./static/image/company-logo/15.png",
+        "picture": "./static/image/company-logo/bbjqr.png",
         "type": "新型老龄化",
-        "text": "银发壹族：专注老年行业新媒体"
+        "text": "邦邦机器人：国内领先的智能辅助机器人研发平台"
       },
       {
-        "picture": "./static/image/company-logo/13.png",
+        "picture": "./static/image/company-logo/myzy.png",
         "type": "新型老龄化",
-        "text": "美好盛年：全国领先的民营老年大学"
+        "text": "美呀植牙：中国创新型种植牙口腔诊所"
       },
       {
         "picture": "./static/image/company-logo/17.png",
@@ -381,7 +360,7 @@
       {
         "picture": "./static/image/company-logo/ty.png",
         "type": "新型老龄化",
-        "text": "天与科技：中国最大的以数据驱动为核心的智慧养老服务平台"
+        "text": "天与养老：中国最大的以数据驱动为核心的智慧养老服务平台"
       }
     ]
   },
