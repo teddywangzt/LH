@@ -58,6 +58,7 @@
       "HEALTHCARE SERVICES",
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
+      "CONSUMER HEALTH & WELLNESS",
       "NEW AGING"
     ]
   },
@@ -253,7 +254,6 @@
       "HEALTHCARE SERVICES",
       "HEALTHCARE TECHNOLOGY",
       "ENABLING INFRASTRUCTURE FOR HEALTH",
-      "CONSUMER HEALTH & WELLNESS",
       "NEW AGING"
     ],
     "companies": [
@@ -266,6 +266,11 @@
         "picture": "./static/image/company-logo/01-0111.png",
         "type": "HEALTHCARE SERVICES",
         "text": "GST Clinics: No.1 TCM clinic operator"
+      },
+      {
+        "picture": "./static/image/company-logo/10.png",
+        "type": "HEALTHCARE SERVICES",
+        "text": "Rainbow Doctors: Leading online marketplace for consumer health"
       },
       {
         "picture": "./static/image/company-logo/06.png",
@@ -332,32 +337,6 @@
         "type": "ENABLING INFRASTRUCTURE FOR HEALTH",
         "text": "SocialMed：Intelligent software solutions for pharmaceutical e-sales"
       },
-      {
-        "picture": "./static/image/company-logo/10.png",
-        "type": "CONSUMER HEALTH & WELLNESS",
-        "text": "Rainbow Doctors: Leading online marketplace for consumer health"
-      },
-      {
-        "picture": "./static/image/company-logo/12.png",
-        "type": "CONSUMER HEALTH & WELLNESS",
-        "text": "Neck Defender: Physical therapy clinic operator"
-      },
-      {
-        "picture": "./static/image/company-logo/11.png",
-        "type": "CONSUMER HEALTH & WELLNESS",
-        "text": "EasySculpt: Body shaping for the masses"
-      },
-      {
-        "picture": "./static/image/company-logo/rmjk-1.png",
-        "type": "CONSUMER HEALTH & WELLNESS",
-        "text": "Ruomi: Healthy food for a low carb life"
-      },
-      {
-        "picture": "./static/image/company-logo/ft.png",
-        "type": "CONSUMER HEALTH & WELLNESS",
-        "text": "FitTime：Telehealth for her and him"
-      },
-
       {
         "picture": "./static/image/company-logo/15.png",
         "type": "NEW AGING",
