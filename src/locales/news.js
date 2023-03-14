@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "2023新春贺岁 | 动脉网x长岭资本尖峰对话",
-        link: "https://mp.weixin.qq.com/s/utXYPpzI6Wf4M8TyGuh5jA",
+        title: "[首发]承压增长，收入再翻番！低代码医疗平台服务商福鑫科创获长岭资本5000万元天使轮独家投资",
+        link: "https://mp.weixin.qq.com/s/zG24Kff3Llsy8RaJotYckQ",
         abstract:
-          "兔年伊始，长岭资本管理合伙人蒋晓冬应邀与动脉网就后疫情时代的中国医疗服务展开尖峰对话。",
-        date: "January 22, 2023"
+          "湖北福鑫科创信息技术有限公司（以下简称“福鑫科创”）已完成由长岭资本独家投资的5000万元人民币天使轮融资。",
+        date: "March 14, 2023"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "2023新春贺岁 | 动脉网x长岭资本尖峰对话",
-        link: "https://mp.weixin.qq.com/s/utXYPpzI6Wf4M8TyGuh5jA",
+        title: "[首发]承压增长，收入再翻番！低代码医疗平台服务商福鑫科创获长岭资本5000万元天使轮独家投资",
+        link: "https://mp.weixin.qq.com/s/zG24Kff3Llsy8RaJotYckQ",
         abstract:
-          "兔年伊始，长岭资本管理合伙人蒋晓冬应邀与动脉网就后疫情时代的中国医疗服务展开尖峰对话。",
-        date: "January 22, 2023"
+          "湖北福鑫科创信息技术有限公司（以下简称“福鑫科创”）已完成由长岭资本独家投资的5000万元人民币天使轮融资。",
+        date: "March 14, 2023"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title: "[首发]承压增长，收入再翻番！低代码医疗平台服务商福鑫科创获长岭资本5000万元天使轮独家投资",
+        link: "https://mp.weixin.qq.com/s/zG24Kff3Llsy8RaJotYckQ",
+        source: "长岭资本",
+        abstract:
+          "湖北福鑫科创信息技术有限公司已完成由长岭资本独家投资的5000万元人民币天使轮融资。",
+        date: "March 14, 2023"
+      },
+    {
         cate: "SHARING",
         title: "《打造中国精品百年老店 格隆汇之读懂中国好品牌系列》之固生堂(2273.HK)",
         link: "https://mp.weixin.qq.com/s/UkvOlKv6koPQaql0T14FWA",
