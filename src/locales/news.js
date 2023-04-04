@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "“ 你的斑驳与众不同 ”：长岭资本2022年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/Tzo5wI3-k2UzUOUqCKWUSQ",
+          "长岭资本获评“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
+        link: "https://mp.weixin.qq.com/s/iIdomatEAyONqhJjZgfiXQ",
         abstract:
-          "2022年12月12日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“ 致敬创业路上的孤勇者 ”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
-        date: "December 19, 2022"
+          "2023年4月3日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第七届医疗健康投资卓悦榜”。长岭资本获评“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
+        date: "April 4, 2023"
       },
       {
         cate: "长岭观点",
@@ -38,13 +38,13 @@ window.newsData = {
     ],
     en: [
       {
-        cate: "NEWS",
+       cate: "NEWS",
        title:
-          "“ 你的斑驳与众不同 ”：长岭资本2022年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/Tzo5wI3-k2UzUOUqCKWUSQ",
+          "长岭资本获评“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
+        link: "https://mp.weixin.qq.com/s/iIdomatEAyONqhJjZgfiXQ",
         abstract:
-          "2022年12月12日，长岭资本成功举办了一场别开生面的线上基金合伙人大会。本次大会的主题是“ 致敬创业路上的孤勇者 ”，通过互联网平台向来自亚洲、美洲、欧洲、非洲等20个城市的超过100位嘉宾同步视频直播。",
-        date: "December 19, 2022"
+          "2023年4月3日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第七届医疗健康投资卓悦榜”。长岭资本获评“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
+        date: "April 4, 2023"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+       cate: "NEWS",
+       title:
+          "长岭资本获评“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
+        link: "https://mp.weixin.qq.com/s/iIdomatEAyONqhJjZgfiXQ",
+        source: "长岭资本",
+        abstract:
+          "2023年4月3日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第七届医疗健康投资卓悦榜”。长岭资本获评“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
+        date: "April 4, 2023"
+      },
     {
         cate: "ECOSYSTEM",
         title: "海吉亚公告2022年度业绩，经调整净利润6.1亿人民币，同比大增34.7%",
