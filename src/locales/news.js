@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本获评“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
-        link: "https://mp.weixin.qq.com/s/iIdomatEAyONqhJjZgfiXQ",
+          "长岭资本斩获2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”",
+        link: "https://mp.weixin.qq.com/s/t5aMpozC0SCQPrGcGKsRnw",
         abstract:
-          "2023年4月3日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第七届医疗健康投资卓悦榜”。长岭资本获评“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
-        date: "April 4, 2023"
+          "北京时间2023年4月26日晚，「2022年度中国医疗大健康产业投融资荣耀榜」正式揭晓。长岭资本获评2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”。",
+        date: "April 27, 2023"
       },
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
        cate: "NEWS",
        title:
-          "长岭资本获评“年度智慧医疗最佳投资机构”、“年度医疗健康投资家”",
-        link: "https://mp.weixin.qq.com/s/iIdomatEAyONqhJjZgfiXQ",
-        abstract:
-          "2023年4月3日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第七届医疗健康投资卓悦榜”。长岭资本获评“年度智慧医疗最佳投资机构”，长岭资本管理合伙人蒋晓冬先生获评“年度医疗健康投资家”。",
-        date: "April 4, 2023"
+          "长岭资本斩获2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”",
+       link: "https://mp.weixin.qq.com/s/t5aMpozC0SCQPrGcGKsRnw",
+       abstract:
+          "北京时间2023年4月26日晚，「2022年度中国医疗大健康产业投融资荣耀榜」正式揭晓。长岭资本获评2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”。",
+       date: "April 27, 2023"
       },
       {
         cate: "PERSPECTIVES",
@@ -74,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+    {
+       cate: "NEWS",
+       title:
+          "长岭资本斩获2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”",
+       link: "https://mp.weixin.qq.com/s/t5aMpozC0SCQPrGcGKsRnw",
+       source: "长岭资本",
+       abstract:
+          "北京时间2023年4月26日晚，「2022年度中国医疗大健康产业投融资荣耀榜」正式揭晓。长岭资本获评2022“年度医疗服务最佳投资机构”、“年度医疗健康最佳活跃投资机构”。",
+       date: "April 27, 2023"
+      },
     {
         cate: "ECOSYSTEM",
         title: "【首发】欧世盛科技获5000万融资，用连续流技术助力产业升级转型",
