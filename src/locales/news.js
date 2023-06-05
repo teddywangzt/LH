@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "【首发】欧世盛科技获5000万融资，用连续流技术助力产业升级转型",
-        link: "https://mp.weixin.qq.com/s/jWFfDQCMNN5JUNhP065ZTw",
+        title: "完成1亿元A轮融资，爱博医疗机器人加速泛血管介入手术机器人商业化进程",
+        link: "https://mp.weixin.qq.com/s/MwXL06RbO6JzGJk0yYu0wA",
         abstract:
-          "长岭资本管理合伙人蒋晓冬表示：“制药和化工行业未来的必然趋势是持续追求安全、效率、成本三方面的显著提升，而连续化生产已经被证明是最有潜力实现这一目标的技术之一。",
-        date: "April 25, 2023"
+          "近日，爱博医疗机器人宣布成功完成1亿元人民币A轮融资，为血管介入手术机器人领域注入了新的活力和希望。本次融资由国中资本领投，老股东联想创投超额追加投资，长岭资本连续跟投，展现了投资人对爱博医疗机器人的信心和看好。",
+        date: "June 1, 2023"
       },
       {
         cate: "长岭分享",
@@ -48,12 +48,11 @@ window.newsData = {
       },
       {
         cate: "PERSPECTIVES",
-        title:
-          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
-        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
+        title: "完成1亿元A轮融资，爱博医疗机器人加速泛血管介入手术机器人商业化进程",
+        link: "https://mp.weixin.qq.com/s/MwXL06RbO6JzGJk0yYu0wA",
         abstract:
-          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
-        date: "June 17, 2022"
+          "近日，爱博医疗机器人宣布成功完成1亿元人民币A轮融资，为血管介入手术机器人领域注入了新的活力和希望。本次融资由国中资本领投，老股东联想创投超额追加投资，长岭资本连续跟投，展现了投资人对爱博医疗机器人的信心和看好。",
+        date: "June 1, 2023"
       },
       {
         cate: "ECOSYSTEM",
@@ -74,6 +73,15 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "PERSPECTIVES",
+        title: "完成1亿元A轮融资，爱博医疗机器人加速泛血管介入手术机器人商业化进程",
+        link: "https://mp.weixin.qq.com/s/MwXL06RbO6JzGJk0yYu0wA",
+        source: "长岭资本",
+        abstract:
+          "近日，爱博医疗机器人宣布成功完成1亿元人民币A轮融资，为血管介入手术机器人领域注入了新的活力和希望。本次融资由国中资本领投，老股东联想创投超额追加投资，长岭资本连续跟投，展现了投资人对爱博医疗机器人的信心和看好。",
+        date: "June 1, 2023"
+      },
     {
        cate: "NEWS",
        title:
