@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "固生堂发布中报，业绩大幅成长超市场预期",
-        link: "https://mp.weixin.qq.com/s/vb8epnjA9iz8rsoDNStJtQ",
+        title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
+        link: "https://mp.weixin.qq.com/s/ip2xXj8hsE6RyYAy0AtSEw?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年8月21日，固生堂（2273.HK）公布截至2023年6月30日止6个月中期业绩。报告中显示集团收入人民币9.86亿元，同比增长40.3%，溢利净额人民币0.93亿元，同比增长74.0%，经调整溢利净额人民币1.02亿元，同比增长63.8%。",
-        date: "August 22, 2023"
+          "2023年8月29日，海吉亚医疗（6078.HK）发布了截至2023年6月30日止6个月中期业绩。报告中显示，公司营业收入达到人民币17.6亿元，同比增长15.3%；净利润人民币3.3亿元，同比增长46.8%，经营性现金流净额人民币3.5亿元，同比增长20.2%。",
+        date: "August 30, 2023"
       },
       {
         cate: "长岭分享",
@@ -56,11 +56,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "固生堂发布中报，业绩大幅成长超市场预期",
-        link: "https://mp.weixin.qq.com/s/vb8epnjA9iz8rsoDNStJtQ",
+        title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
+        link: "https://mp.weixin.qq.com/s/ip2xXj8hsE6RyYAy0AtSEw?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年8月21日，固生堂（2273.HK）公布截至2023年6月30日止6个月中期业绩。报告中显示集团收入人民币9.86亿元，同比增长40.3%，溢利净额人民币0.93亿元，同比增长74.0%，经调整溢利净额人民币1.02亿元，同比增长63.8%。",
-        date: "August 22, 2023"
+          "2023年8月29日，海吉亚医疗（6078.HK）发布了截至2023年6月30日止6个月中期业绩。报告中显示，公司营业收入达到人民币17.6亿元，同比增长15.3%；净利润人民币3.3亿元，同比增长46.8%，经营性现金流净额人民币3.5亿元，同比增长20.2%。",
+        date: "August 30, 2023"
       },
       {
         cate: "SHARING",
@@ -73,6 +73,15 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
+        link: "https://mp.weixin.qq.com/s/ip2xXj8hsE6RyYAy0AtSEw?from=industrynews&version=4.1.9.6012&platform=win",
+        source: "长岭资本",
+        abstract:
+          "2023年8月29日，海吉亚医疗（6078.HK）发布了截至2023年6月30日止6个月中期业绩。报告中显示，公司营业收入达到人民币17.6亿元，同比增长15.3%；净利润人民币3.3亿元，同比增长46.8%，经营性现金流净额人民币3.5亿元，同比增长20.2%。",
+        date: "August 30, 2023"
+      },
     {
         cate: "SHARING",
         title: "千亿心理健康赛道留白，中国1.8亿老人的“心”如何安放？",
