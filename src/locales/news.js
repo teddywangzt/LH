@@ -21,11 +21,11 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
-        link: "https://mp.weixin.qq.com/s/ip2xXj8hsE6RyYAy0AtSEw?from=industrynews&version=4.1.9.6012&platform=win",
+        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
+        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年8月29日，海吉亚医疗（6078.HK）发布了截至2023年6月30日止6个月中期业绩。报告中显示，公司营业收入达到人民币17.6亿元，同比增长15.3%；净利润人民币3.3亿元，同比增长46.8%，经营性现金流净额人民币3.5亿元，同比增长20.2%。",
-        date: "August 30, 2023"
+          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
+        date: "October 17, 2023"
       },
       {
         cate: "长岭分享",
@@ -56,11 +56,11 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
-        link: "https://mp.weixin.qq.com/s/ip2xXj8hsE6RyYAy0AtSEw?from=industrynews&version=4.1.9.6012&platform=win",
+        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
+        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年8月29日，海吉亚医疗（6078.HK）发布了截至2023年6月30日止6个月中期业绩。报告中显示，公司营业收入达到人民币17.6亿元，同比增长15.3%；净利润人民币3.3亿元，同比增长46.8%，经营性现金流净额人民币3.5亿元，同比增长20.2%。",
-        date: "August 30, 2023"
+          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
+        date: "October 17, 2023"
       },
       {
         cate: "SHARING",
@@ -73,6 +73,15 @@ window.newsData = {
     ]
   },
   list: [
+    {
+        cate: "ECOSYSTEM",
+        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
+        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
+        source: "长岭资本",
+        abstract:
+          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
+        date: "October 17, 2023"
+      },
     {
         cate: "ECOSYSTEM",
         title: "海吉亚发布2023年中期业绩，上半年净利润3.3亿元，同比增长46.8%",
