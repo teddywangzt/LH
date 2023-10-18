@@ -12,12 +12,12 @@ window.newsData = {
       },
       {
         cate: "长岭观点",
-        title:
-          "长岭资本蒋晓冬：走向共同富裕的中国创新医疗服务",
-        link: "https://mp.weixin.qq.com/s/VpYE0C4jMPBQPx5kYiKcOA",
+         title:
+          "长岭资本受邀参加摩根大通全球医疗健康产业上海年会圆桌论坛",
+        link: "https://mp.weixin.qq.com/s/dkE88O_A9iHJKxLDz54hIg",
         abstract:
-          "在动脉网主办的未来医疗100强大会·VB100领袖峰会上，长岭资本管理合伙人蒋晓冬作为下午场首位演讲嘉宾，发表了《走向共同富裕的中国创新医疗服务》主题演讲。",
-        date: "June 17, 2022"
+          "北京时间2023年10月17日下午，第三屇摩根大通全球医疗健康产业上海年会在上海浦东丽思卡尔顿酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了“医疗健康投资新动向”为主题的圆桌论坛。",
+        date: "October 18, 2023"
       },
       {
         cate: "长岭生态",
@@ -48,11 +48,12 @@ window.newsData = {
       },
       {
         cate: "PERSPECTIVES",
-        title: "完成1亿元A轮融资，爱博医疗机器人加速泛血管介入手术机器人商业化进程",
-        link: "https://mp.weixin.qq.com/s/MwXL06RbO6JzGJk0yYu0wA",
+        title:
+          "长岭资本受邀参加摩根大通全球医疗健康产业上海年会圆桌论坛",
+        link: "https://mp.weixin.qq.com/s/dkE88O_A9iHJKxLDz54hIg",
         abstract:
-          "近日，爱博医疗机器人宣布成功完成1亿元人民币A轮融资，为血管介入手术机器人领域注入了新的活力和希望。本次融资由国中资本领投，老股东联想创投超额追加投资，长岭资本连续跟投，展现了投资人对爱博医疗机器人的信心和看好。",
-        date: "June 1, 2023"
+          "北京时间2023年10月17日下午，第三屇摩根大通全球医疗健康产业上海年会在上海浦东丽思卡尔顿酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了“医疗健康投资新动向”为主题的圆桌论坛。",
+        date: "October 18, 2023"
       },
       {
         cate: "ECOSYSTEM",
@@ -73,6 +74,16 @@ window.newsData = {
     ]
   },
   list: [
+     {
+        cate: "PERSPECTIVES",
+        title:
+          "长岭资本受邀参加摩根大通全球医疗健康产业上海年会圆桌论坛",
+        link: "https://mp.weixin.qq.com/s/dkE88O_A9iHJKxLDz54hIg",
+        source: "长岭资本",
+        abstract:
+          "北京时间2023年10月17日下午，第三屇摩根大通全球医疗健康产业上海年会在上海浦东丽思卡尔顿酒店举办。长岭资本管理合伙人蒋晓冬先生受邀参加了“医疗健康投资新动向”为主题的圆桌论坛。",
+        date: "October 18, 2023"
+      }, 
     {
         cate: "ECOSYSTEM",
         title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
@@ -119,7 +130,7 @@ window.newsData = {
         date: "July 3, 2023"
       },
     {
-        cate: "PERSPECTIVES",
+        cate: "ECOSYSTEM",
         title: "完成1亿元A轮融资，爱博医疗机器人加速泛血管介入手术机器人商业化进程",
         link: "https://mp.weixin.qq.com/s/MwXL06RbO6JzGJk0yYu0wA",
         source: "长岭资本",
