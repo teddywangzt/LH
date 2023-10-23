@@ -3,12 +3,11 @@ window.newsData = {
     zh: [
       {
         cate: "长岭新闻",
-        title:
-          "致敬重阳：愿时光不老，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
+        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
+        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
-        date: "October 23, 2023"
+          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
+        date: "October 17, 2023"
       },
       {
         cate: "长岭观点",
@@ -21,11 +20,12 @@ window.newsData = {
       },
       {
         cate: "长岭生态",
-        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
-        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
+        title:
+          "致敬重阳：愿时光不老，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
-        date: "October 17, 2023"
+          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
+        date: "October 23, 2023"
       },
       {
         cate: "长岭分享",
@@ -39,12 +39,12 @@ window.newsData = {
     en: [
       {
        cate: "NEWS",
-       title:
-          "致敬重阳：愿时光不老，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
-        abstract:
-          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
-        date: "October 23, 2023"
+       title: 
+         "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
+       link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
+       abstract:
+          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
+       date: "October 17, 2023"
       },
       {
         cate: "PERSPECTIVES",
@@ -57,15 +57,16 @@ window.newsData = {
       },
       {
         cate: "ECOSYSTEM",
-        title: "服务近千家医院，菲兰爱尔完成超亿元B轮融资，巩固实验室空气控制赛道龙头地位",
-        link: "https://mp.weixin.qq.com/s/7Tk3kVqHG38yilTotr5tFQ?from=industrynews&version=4.1.9.6012&platform=win",
+        title:
+          "致敬重阳：愿时光不老，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "2023年9月，无锡菲兰爱尔空气质量技术有限公司完成了由长岭资本领投，骊宸投资、无锡高新投、国联投资、无锡新投集团、跟投的超亿元B轮融资。通过本轮融资，菲兰爱尔将进一步巩固其在医院和生命科学空气环境控制赛道的龙头地位。",
-        date: "October 17, 2023"
+          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
+        date: "October 23, 2023"
       },
       {
         cate: "SHARING",
-       title: "千亿心理健康赛道留白，中国1.8亿老人的“心”如何安放？",
+        title: "千亿心理健康赛道留白，中国1.8亿老人的“心”如何安放？",
         link: "https://mp.weixin.qq.com/s/n_sJKRoPfwrpEm88k6AEUw?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
           "长岭资本管理合伙人蒋晓冬表示：我们看到的失眠、焦虑、抑郁实际上是认知问题的“表象”。随着认知能力的退化和改变，老年人与社会和人的交互的方式可能会发生很大的改变。“抓住认知功能这条主线，扩展心理治疗的‘工具箱’做好提前干预、管理，更能解决老年市场的问题”。这其中，数字疗法和脑机接口等前沿技术的企业或许能提供更多“解法”。",
@@ -75,7 +76,7 @@ window.newsData = {
   },
   list: [
      {
-       cate: "NEWS",
+       cate: "ECOSYSTEM",
        title:
           "致敬重阳：愿时光不老，愿岁月可期",
         link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
@@ -297,7 +298,7 @@ window.newsData = {
         date: "October 8, 2022"
       }, 
     {
-        cate: "NEWS",
+        cate: "ECOSYSTEM",
         title:
           "致敬重阳：愿流年不负，愿岁月可期",
         link: "https://mp.weixin.qq.com/s/TN861cRzAI76nf7yf6dvog",
