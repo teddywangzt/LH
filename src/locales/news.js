@@ -4,11 +4,11 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title:
-          "长岭资本荣膺 “年度医疗服务投资机构”、“年度数字医疗投资机构”，17家被投企业上榜“2023未来医疗100强”",
-        link: "https://mp.weixin.qq.com/s/dvvCnY92nm_bdrKxML6gTw",
+          "致敬重阳：愿时光不老，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
         abstract:
-          "长岭资本荣膺“年度医疗服务投资机构”、“年度数字医疗投资机构”。17家被投企业斩获20项大奖，荣登未来医疗TOP100榜单，超过长岭医疗投资组合总数的1/3。",
-        date: "May 8, 2023"
+          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
+        date: "October 23, 2023"
       },
       {
         cate: "长岭观点",
@@ -40,11 +40,11 @@ window.newsData = {
       {
        cate: "NEWS",
        title:
-          "长岭资本荣膺 “年度医疗服务投资机构”、“年度数字医疗投资机构”，17家被投企业上榜“2023未来医疗100强”",
-       link: "https://mp.weixin.qq.com/s/dvvCnY92nm_bdrKxML6gTw",
-       abstract:
-          "长岭资本荣膺“年度医疗服务投资机构”、“年度数字医疗投资机构”。17家被投企业斩获20项大奖，荣登未来医疗TOP100榜单，超过长岭医疗投资组合总数的1/3。",
-       date: "May 8, 2023"
+          "致敬重阳：愿时光不老，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
+        abstract:
+          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
+        date: "October 23, 2023"
       },
       {
         cate: "PERSPECTIVES",
@@ -75,6 +75,16 @@ window.newsData = {
   },
   list: [
      {
+       cate: "NEWS",
+       title:
+          "致敬重阳：愿时光不老，愿岁月可期",
+        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
+        source: "长岭资本",
+        abstract:
+          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
+        date: "October 23, 2023"
+      },
+    {
         cate: "PERSPECTIVES",
         title:
           "长岭资本受邀参加摩根大通全球医疗健康产业上海年会圆桌论坛",
