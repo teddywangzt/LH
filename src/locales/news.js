@@ -3,11 +3,11 @@ window.newsData = {
     zh: [
       {
         cate: "长岭新闻",
-        title: "“喜迎社会办医四十载，共话创新服务新时代”：长岭资本2023年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/32DxfP4EVnzSaQ0NVzhlcg",
+        title: "2024，龙行龘龘，前程朤朤！",
+        link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
         abstract:
-          "2023年11月2日~3日，长岭资本自新冠疫情爆发以来的首次线下基金合伙人大会在上海静安瑞吉酒店成功举办。本次大会的主题是“喜迎社会办医40载，共话创新服务新时代。” 除近30余位现场参会嘉宾外，本次大会也通过互联网平台向来自亚洲、美洲、欧洲、非洲等4大洲超过70位嘉宾视频直播。",
-        date: "November 8, 2023"
+          "龙行龘龘，前程朤朤。岁序更迭，再启华章。长岭资本恭祝大家新春快乐！",
+        date: "February 9, 2024"
       },
       {
         cate: "长岭观点",
@@ -39,11 +39,11 @@ window.newsData = {
     en: [
       {
        cate: "NEWS",
-       title: "“喜迎社会办医四十载，共话创新服务新时代”：长岭资本2023年基金合伙人大会成功举办",
-        link: "https://mp.weixin.qq.com/s/32DxfP4EVnzSaQ0NVzhlcg",
+       title: "2024，龙行龘龘，前程朤朤！",
+        link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
         abstract:
-          "2023年11月2日~3日，长岭资本自新冠疫情爆发以来的首次线下基金合伙人大会在上海静安瑞吉酒店成功举办。本次大会的主题是“喜迎社会办医40载，共话创新服务新时代。” 除近30余位现场参会嘉宾外，本次大会也通过互联网平台向来自亚洲、美洲、欧洲、非洲等4大洲超过70位嘉宾视频直播。",
-        date: "November 8, 2023"
+          "龙行龘龘，前程朤朤。岁序更迭，再启华章。长岭资本恭祝大家新春快乐！",
+        date: "February 9, 2024"
       },
       {
         cate: "PERSPECTIVES",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+       cate: "NEWS",
+       title: "2024，龙行龘龘，前程朤朤！",
+        link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
+        source: "长岭资本",
+        abstract:
+          "龙行龘龘，前程朤朤。岁序更迭，再启华章。长岭资本恭祝大家新春快乐！",
+        date: "February 9, 2024"
+      },
+    {
        cate: "NEWS",
        title: "“喜迎社会办医四十载，共话创新服务新时代”：长岭资本2023年基金合伙人大会成功举办",
        link: "https://mp.weixin.qq.com/s/32DxfP4EVnzSaQ0NVzhlcg",
