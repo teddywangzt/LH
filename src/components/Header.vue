@@ -36,7 +36,6 @@
       <div @click="menuIsOpen = false" :class="`nav ${openCls}`">
         <a href="#focus">{{ $t("header.navs.thesis") }}</a>
         <a href="#about">{{ $t("header.navs.about") }}</a>
-        <a href="#portfolio">{{ $t("header.navs.portfolio") }}</a>
         <a href="#news">{{ $t("header.navs.news") }}</a>
         <a href="#footer">{{ $t("header.navs.contact") }}</a>
         <a class="lang" @click="switchLang">{{ $t("header.targetlang") }}</a>
