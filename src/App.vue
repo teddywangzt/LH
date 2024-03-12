@@ -4,7 +4,6 @@
     <div class="app-content">
       <Focus id="focus"></Focus>
       <About id="about"></About>
-      <Portfolio id="portfolio"></Portfolio>
       <News id="news"></News>
     </div>
     <Footer id="footer"></Footer>
