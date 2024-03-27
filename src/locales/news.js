@@ -21,11 +21,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title:
-          "致敬重阳：愿时光不老，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
+          "海吉亚公告2023年度业绩，营收利润大增，5年成长超500%",
+        link: "https://mp.weixin.qq.com/s/G9GgByiz5f_jMm6aHO9JCQ",
         abstract:
-          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
-        date: "October 23, 2023"
+          "2024年3月26日，海吉亚医疗（6078.HK）发布2023年全年业绩公告。报告期间，公司营业收入达到人民币40.77亿元，同比增长27.6%；净利润人民币6.85亿元，同比增长42.1%。下面将通过一图看懂海吉亚医疗(6078.HK)2023年度业绩。",
+        date: "March 27, 2024"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title:
-          "致敬重阳：愿时光不老，愿岁月可期",
-        link: "https://mp.weixin.qq.com/s/Wmh_JRn8Vt73wlVNaFfIsQ?from=industrynews&version=4.1.9.6012&platform=win",
+          "海吉亚公告2023年度业绩，营收利润大增，5年成长超500%",
+        link: "https://mp.weixin.qq.com/s/G9GgByiz5f_jMm6aHO9JCQ",
         abstract:
-          "长岭资本是首个聚焦中国老龄化社会里健康与品质生活的主流创投基金。过去5年，长岭在新型老龄化领域中已累计投资超过5亿元，致力于在快速老龄化的中国社会里让长寿成为生命对每一个人的馈赠。",
-        date: "October 23, 2023"
+          "2024年3月26日，海吉亚医疗（6078.HK）发布2023年全年业绩公告。报告期间，公司营业收入达到人民币40.77亿元，同比增长27.6%；净利润人民币6.85亿元，同比增长42.1%。下面将通过一图看懂海吉亚医疗(6078.HK)2023年度业绩。",
+        date: "March 27, 2024"
       },
       {
         cate: "SHARING",
@@ -74,7 +74,17 @@ window.newsData = {
     ]
   },
   list: [
-     {
+      {
+        cate: "ECOSYSTEM",
+        title:
+          "海吉亚公告2023年度业绩，营收利润大增，5年成长超500%",
+        link: "https://mp.weixin.qq.com/s/G9GgByiz5f_jMm6aHO9JCQ",
+        source: "长岭资本",
+        abstract:
+          "2024年3月26日，海吉亚医疗（6078.HK）发布2023年全年业绩公告。报告期间，公司营业收入达到人民币40.77亿元，同比增长27.6%；净利润人民币6.85亿元，同比增长42.1%。下面将通过一图看懂海吉亚医疗(6078.HK)2023年度业绩。",
+        date: "March 27, 2024"
+      },
+    {
        cate: "NEWS",
        title: "2024，龙行龘龘，前程朤朤！",
         link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
