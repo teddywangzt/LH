@@ -21,11 +21,11 @@ window.newsData = {
       {
         cate: "长岭生态",
         title:
-          "固生堂公告2023年度业绩，收入净利大涨超预期，国际化步伐提速",
-        link: "https://mp.weixin.qq.com/s/o4moD6BtyfknVgCTsWrAZQ",
+          "欧世盛科技完成pre-B轮融资，加速打造流动化学连续智造平台",
+        link: "https://mp.weixin.qq.com/s/l-rxz5V1K7GAjVUTN79Krw",
         abstract:
-          "2024年3月27日，“中医服务第一股”固生堂（2273.HK）发布了截至2023年12月31日止年度业绩公告。报告期间，集团的营业收入达到人民币23.23亿元，同比增加43%；毛利达到人民币7亿元，同比增加40.1%；经调整净利润人民币3.05亿元，同比增加53.6%。",
-        date: "March 28, 2024"
+          "近日，国内连续流研发制造领先企业欧世盛（北京）科技有限公司宣布完成数千万pre-B轮融资。本轮融资由道彤投资领投，老股东长岭资本持续加注。",
+        date: "April 3, 2024"
       },
       {
         cate: "长岭分享",
@@ -57,11 +57,11 @@ window.newsData = {
       {
         cate: "ECOSYSTEM",
         title:
-          "固生堂公告2023年度业绩，收入净利大涨超预期，国际化步伐提速",
-        link: "https://mp.weixin.qq.com/s/o4moD6BtyfknVgCTsWrAZQ",
+          "欧世盛科技完成pre-B轮融资，加速打造流动化学连续智造平台",
+        link: "https://mp.weixin.qq.com/s/l-rxz5V1K7GAjVUTN79Krw",
         abstract:
-          "2024年3月27日，“中医服务第一股”固生堂（2273.HK）发布了截至2023年12月31日止年度业绩公告。报告期间，集团的营业收入达到人民币23.23亿元，同比增加43%；毛利达到人民币7亿元，同比增加40.1%；经调整净利润人民币3.05亿元，同比增加53.6%。",
-        date: "March 28, 2024"
+          "近日，国内连续流研发制造领先企业欧世盛（北京）科技有限公司宣布完成数千万pre-B轮融资。本轮融资由道彤投资领投，老股东长岭资本持续加注。",
+        date: "April 3, 2024"
       },
       {
         cate: "SHARING",
@@ -75,6 +75,16 @@ window.newsData = {
   },
   list: [
      {
+        cate: "ECOSYSTEM",
+        title:
+          "欧世盛科技完成pre-B轮融资，加速打造流动化学连续智造平台",
+        link: "https://mp.weixin.qq.com/s/l-rxz5V1K7GAjVUTN79Krw",
+        source: "长岭资本",
+        abstract:
+          "近日，国内连续流研发制造领先企业欧世盛（北京）科技有限公司宣布完成数千万pre-B轮融资。本轮融资由道彤投资领投，老股东长岭资本持续加注。",
+        date: "April 3, 2024"
+      },
+    {
         cate: "ECOSYSTEM",
         title:
           "固生堂公告2023年度业绩，收入净利大涨超预期，国际化步伐提速",
