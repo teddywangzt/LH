@@ -3,11 +3,11 @@ window.newsData = {
     zh: [
       {
         cate: "长岭新闻",
-        title: "2024，龙行龘龘，前程朤朤！",
-        link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
+        title: "长岭资本连续第五年跻身医疗健康投资卓悦榜，再度获评“年度健康服务最佳投资机构”",
+        link: "https://mp.weixin.qq.com/s/nKaWOAAXusCiWTykKazCUg",
         abstract:
-          "龙行龘龘，前程朤朤。岁序更迭，再启华章。长岭资本恭祝大家新春快乐！",
-        date: "February 9, 2024"
+          "2024年4月26日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第八届医疗健康投资卓悦榜”。长岭资本自2020年以来连续第五年荣膺该榜单，并再度获评“年度健康服务最佳投资机构”。",
+        date: "April 26, 2024"
       },
       {
         cate: "长岭观点",
@@ -39,11 +39,11 @@ window.newsData = {
     en: [
       {
        cate: "NEWS",
-       title: "2024，龙行龘龘，前程朤朤！",
-        link: "https://mp.weixin.qq.com/template/article/1707440594/index.html",
+       title: "长岭资本连续第五年跻身医疗健康投资卓悦榜，再度获评“年度健康服务最佳投资机构”",
+       link: "https://mp.weixin.qq.com/s/nKaWOAAXusCiWTykKazCUg",
         abstract:
-          "龙行龘龘，前程朤朤。岁序更迭，再启华章。长岭资本恭祝大家新春快乐！",
-        date: "February 9, 2024"
+          "2024年4月26日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第八届医疗健康投资卓悦榜”。长岭资本自2020年以来连续第五年荣膺该榜单，并再度获评“年度健康服务最佳投资机构”。",
+       date: "April 26, 2024"
       },
       {
         cate: "PERSPECTIVES",
@@ -75,6 +75,15 @@ window.newsData = {
   },
   list: [
      {
+       cate: "NEWS",
+       title: "长岭资本连续第五年跻身医疗健康投资卓悦榜，再度获评“年度健康服务最佳投资机构”",
+       link: "https://mp.weixin.qq.com/s/nKaWOAAXusCiWTykKazCUg",
+       source: "长岭资本",
+       abstract:
+          "2024年4月26日，专注于中国医疗健康的产业投行浩悦资本正式发布了“第八届医疗健康投资卓悦榜”。长岭资本自2020年以来连续第五年荣膺该榜单，并再度获评“年度健康服务最佳投资机构”。",
+       date: "April 26, 2024"
+      },
+    {
         cate: "ECOSYSTEM",
         title:
           "欧世盛科技完成pre-B轮融资，加速打造流动化学连续智造平台",
