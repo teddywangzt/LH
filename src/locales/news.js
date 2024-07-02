@@ -4,7 +4,7 @@ window.newsData = {
       {
         cate: "长岭新闻",
         title: "长岭资本连续三年跻身“中国医疗大健康产业投融资荣耀榜”，再次获评“年度医疗服务最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/gwaRxnG5JRMJFt8DCN4JHg",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ%3D%3D&mid=2247487066&idx=1&sn=a95603a69f8ec70e856d710b7d5cf09c",
         abstract:
           "北京时间2024年5月15日，“2023年度中国医疗大健康产业投融资荣耀榜”隆重揭晓。长岭资本再次获评“年度医疗服务最佳投资机构”。",
         date: "May 15, 2024"
@@ -40,7 +40,7 @@ window.newsData = {
       {
        cate: "NEWS",
        title: "长岭资本连续三年跻身“中国医疗大健康产业投融资荣耀榜”，再次获评“年度医疗服务最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/gwaRxnG5JRMJFt8DCN4JHg",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ%3D%3D&mid=2247487066&idx=1&sn=a95603a69f8ec70e856d710b7d5cf09c",
         abstract:
           "北京时间2024年5月15日，“2023年度中国医疗大健康产业投融资荣耀榜”隆重揭晓。长岭资本再次获评“年度医疗服务最佳投资机构”。",
         date: "May 15, 2024"
@@ -77,7 +77,7 @@ window.newsData = {
       {
        cate: "NEWS",
        title: "长岭资本连续三年跻身“中国医疗大健康产业投融资荣耀榜”，再次获评“年度医疗服务最佳投资机构”",
-        link: "https://mp.weixin.qq.com/s/gwaRxnG5JRMJFt8DCN4JHg",
+        link: "https://mp.weixin.qq.com/s?__biz=MzI5MzU2MDU2MQ%3D%3D&mid=2247487066&idx=1&sn=a95603a69f8ec70e856d710b7d5cf09c",
         source: "长岭资本",
         abstract:
           "北京时间2024年5月15日，“2023年度中国医疗大健康产业投融资荣耀榜”隆重揭晓。长岭资本再次获评“年度医疗服务最佳投资机构”。",
